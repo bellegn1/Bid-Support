@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Council Report — App Theme Decision</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: #f8f8f6;
+    color: #1a1a1a;
+    line-height: 1.6;
+    padding: 40px 20px;
+  }
+  .container { max-width: 860px; margin: 0 auto; }
+
+  /* Header */
+  .header {
+    border-bottom: 3px solid #1a1a1a;
+    padding-bottom: 20px;
+    margin-bottom: 36px;
+  }
+  .header-label {
+    font-size: 0.75em;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #888;
+    margin-bottom: 8px;
+  }
+  .header h1 {
+    font-size: 1.7em;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 12px;
+  }
+  .header .question-block {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-left: 4px solid #1a1a1a;
+    padding: 14px 16px;
+    font-size: 0.92em;
+    color: #333;
+    border-radius: 0 4px 4px 0;
+  }
+
+  /* Verdict card */
+  .verdict-card {
+    background: #fff;
+    border: 2px solid #1a1a1a;
+    border-radius: 6px;
+    padding: 32px;
+    margin-bottom: 36px;
+  }
+  .verdict-card .section-label {
+    font-size: 0.7em;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #888;
+    margin-bottom: 6px;
+  }
+  .verdict-card h2 {
+    font-size: 1.25em;
+    font-weight: 700;
+    margin-bottom: 16px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+  }
+  .verdict-card .verdict-section {
+    margin-bottom: 24px;
+  }
+  .verdict-card .verdict-section:last-child { margin-bottom: 0; }
+  .verdict-card .verdict-section h3 {
+    font-size: 0.85em;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #555;
+    margin-bottom: 8px;
+  }
+  .verdict-card .verdict-section p {
+    font-size: 0.95em;
+    color: #222;
+  }
+  .verdict-card .verdict-section p + p { margin-top: 10px; }
+
+  .one-thing {
+    background: #1a1a1a;
+    color: #fff;
+    border-radius: 6px;
+    padding: 20px 24px;
+    margin-top: 24px;
+  }
+  .one-thing .label {
+    font-size: 0.7em;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #aaa;
+    margin-bottom: 6px;
+  }
+  .one-thing p { font-size: 0.95em; line-height: 1.5; }
+
+  /* Alignment grid */
+  .alignment-section {
+    margin-bottom: 36px;
+  }
+  .alignment-section h2 {
+    font-size: 1em;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #555;
+    margin-bottom: 14px;
+  }
+  .advisor-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 8px;
+  }
+  .advisor-chip {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 12px 8px;
+    text-align: center;
+    font-size: 0.78em;
+  }
+  .advisor-chip .name {
+    font-weight: 700;
+    margin-bottom: 6px;
+    font-size: 0.9em;
+  }
+  .advisor-chip .vote {
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 20px;
+    font-weight: 700;
+    font-size: 0.85em;
+  }
+  .vote-blueprint { background: #dbeafe; color: #1e3a5f; }
+  .vote-ledger    { background: #fef9ec; color: #7a5c00; border: 1px solid #e8d89a; }
+  .vote-terminal  { background: #d1fae5; color: #065f46; }
+
+  /* Collapsible advisor sections */
+  .collapsibles { margin-bottom: 36px; }
+  .collapsibles h2 {
+    font-size: 1em;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #555;
+    margin-bottom: 14px;
+  }
+  details {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    margin-bottom: 8px;
+    overflow: hidden;
+  }
+  summary {
+    padding: 14px 16px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.92em;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    user-select: none;
+    list-style: none;
+  }
+  summary::-webkit-details-marker { display: none; }
+  summary::before {
+    content: "▶";
+    font-size: 0.7em;
+    color: #aaa;
+    transition: transform 0.15s;
+    flex-shrink: 0;
+  }
+  details[open] summary::before { transform: rotate(90deg); }
+  .detail-body {
+    padding: 0 16px 16px 16px;
+    font-size: 0.9em;
+    color: #333;
+    border-top: 1px solid #eee;
+    padding-top: 14px;
+    line-height: 1.65;
+  }
+  .advisor-tag {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 12px;
+    font-size: 0.75em;
+    font-weight: 600;
+    margin-left: auto;
+  }
+  .tag-blueprint { background: #dbeafe; color: #1e3a5f; }
+  .tag-ledger    { background: #fef9ec; color: #7a5c00; border: 1px solid #e8d89a; }
+  .tag-terminal  { background: #d1fae5; color: #065f46; }
+  .tag-split     { background: #f3e8ff; color: #5b21b6; }
+
+  /* Peer review section */
+  .peer-section { margin-bottom: 36px; }
+  .peer-section h2 {
+    font-size: 1em;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #555;
+    margin-bottom: 14px;
+  }
+  .peer-consensus {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 16px;
+    font-size: 0.88em;
+  }
+  .peer-consensus .pc-row {
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+    padding: 8px 0;
+    border-bottom: 1px solid #f0f0f0;
+  }
+  .peer-consensus .pc-row:last-child { border-bottom: none; }
+  .pc-label {
+    font-weight: 700;
+    font-size: 0.82em;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: #888;
+    min-width: 120px;
+    padding-top: 1px;
+  }
+  .pc-value { color: #222; line-height: 1.5; }
+
+  /* Footer */
+  .footer {
+    border-top: 1px solid #ddd;
+    padding-top: 16px;
+    font-size: 0.78em;
+    color: #aaa;
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <!-- Header -->
+  <div class="header">
+    <div class="header-label">LLM Council Report &mdash; 2026-05-12</div>
+    <h1>Bid Tool: Theme Decision</h1>
+    <div class="question-block">
+      <strong>Question counciled:</strong> Is Ledger/Foreman's Office actually the right aesthetic direction for the Streamlit bid decision tool, or is Industrial/Blueprint or Green-Screen Terminal stronger — given that daily usability and flag readability (green/yellow/red) are non-negotiable constraints?
+    </div>
+  </div>
+
+  <!-- Chairman Verdict -->
+  <div class="verdict-card">
+    <div class="section-label">Chairman's Verdict</div>
+    <h2>Ledger — with a mandatory color correction</h2>
+
+    <div class="verdict-section">
+      <h3>Where the Council Agrees</h3>
+      <p>Green-Screen Terminal is eliminated. Every advisor who engaged with it seriously arrived at the same structural problem: a monochrome phosphor palette cannot carry a three-state flag system without breaking the aesthetic. Red on black is not a flag — it is a dimly lit warning.</p>
+      <p>The flag verdict is the load-bearing element. All five advisors agreed: any aesthetic that compromises green/yellow/red clarity fails the brief. "Muted" is the wrong word for a decision signal, regardless of which direction you choose.</p>
+    </div>
+
+    <div class="verdict-section">
+      <h3>Where the Council Clashes</h3>
+      <p><strong>Blueprint camp (Contrarian, First Principles, Outsider):</strong> Dark navy provides maximum contrast headroom for flag colors. Cyan handles informational content; the full flag palette stays uncompromised. Estimators are already visually calibrated to blueprint language in their daily work.</p>
+      <p><strong>Ledger camp (Executor):</strong> Red specifically is harder to read on dark backgrounds than on cream. Semantic colors at full saturation land cleanly on off-white. Blueprint requires custom CSS work (grid background, cyan legibility tuning) that Ledger does not. The foreman's desk mental model maps directly to the three-section layout.</p>
+    </div>
+
+    <div class="verdict-section">
+      <h3>Blind Spots the Council Caught</h3>
+      <p><strong>Monitor calibration variance</strong> — missed by all five advisors, caught unanimously by peer review. Construction office monitors are commodity hardware: aging, uncalibrated, often under fluorescent light. Dark themes (Blueprint) wash out and turn muddy gray on cheap displays. Cream themes (Ledger) are more robust to that variance. This is the deciding factor.</p>
+      <p><strong>Colorblindness exposure</strong> — the original Ledger framing specified "muted accounting greens and reds," which would have created a functional failure mode for ~8% of the (male-dominated) workforce. The fix is straightforward: use full-saturation semantic colors, not period-appropriate muted tones.</p>
+    </div>
+
+    <div class="verdict-section">
+      <h3>The Recommendation</h3>
+      <p>Blueprint wins on contrast theory. Ledger wins on deployment reality. A cream base that blooms slightly under fluorescent light is still a readable cream base. A navy base that washes out under glare becomes an indeterminate gray that undermines the entire visual hierarchy on a commodity monitor.</p>
+      <p>Discard "muted accounting greens and reds" entirely. Use full-saturation semantic flag colors: <strong>#2D6A2D</strong> green, <strong>#B8860B</strong> amber-gold, <strong>#B22222</strong> red. These read on cream under deuteranopia. The foreman's desk aesthetic does not require soft colors — it requires dark ink on light paper, which is fully compatible with punchy flags.</p>
+    </div>
+
+    <div class="one-thing">
+      <div class="label">The One Thing to Do First</div>
+      <p>Run the Ledger flag colors (#2D6A2D, #B8860B, #B22222 on #F5F0E8) through a deuteranopia simulator — Coblis or Figma's accessibility filter — on a screenshot taken from or simulated on a low-calibration commodity display. Confirm the three flags are distinguishable before writing a single line of CSS.</p>
+    </div>
+  </div>
+
+  <!-- Advisor Alignment Grid -->
+  <div class="alignment-section">
+    <h2>Advisor Positions</h2>
+    <div class="advisor-grid">
+      <div class="advisor-chip">
+        <div class="name">Contrarian</div>
+        <span class="vote vote-blueprint">Blueprint</span>
+      </div>
+      <div class="advisor-chip">
+        <div class="name">First Principles</div>
+        <span class="vote vote-blueprint">Blueprint</span>
+      </div>
+      <div class="advisor-chip">
+        <div class="name">Expansionist</div>
+        <span class="vote vote-terminal">Terminal</span>
+      </div>
+      <div class="advisor-chip">
+        <div class="name">Outsider</div>
+        <span class="vote vote-blueprint">Blueprint</span>
+      </div>
+      <div class="advisor-chip">
+        <div class="name">Executor</div>
+        <span class="vote vote-ledger">Ledger</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Advisor Responses (collapsible) -->
+  <div class="collapsibles">
+    <h2>Advisor Responses</h2>
+
+    <details>
+      <summary>The Contrarian <span class="advisor-tag tag-blueprint">Blueprint</span></summary>
+      <div class="detail-body">
+        <p>The Ledger recommendation has a fatal practical flaw that nobody is talking about: muted accounting greens and reds are a colorblind disaster on a daily-use tool where flag colors are non-negotiable. Roughly 8% of men have red-green color vision deficiency. If your estimator pool skews male — and in commercial plumbing it almost certainly does — you're handing a critical go/no-go verdict system to people who can't reliably distinguish your primary signal colors. "Muted" makes this worse, not better. High contrast saves it; soft cream-and-muted kills it.</p>
+        <p>Second problem: the Ledger direction optimizes for aesthetic legibility — clean ink on cream feels readable — but handwriting-adjacent typography and paper textures actively fight the scanning speed a daily tool demands. Estimators aren't reading this thing slowly over coffee. They're running 15 bids before noon.</p>
+        <p>Industrial/Blueprint is stronger for this use case. Dark navy with high-contrast cyan delivers the flag readability Ledger can't. The technical grid aesthetic signals "precision instrument" rather than "vintage accounting ledger," which matches a model-predicted benchmark price far better conceptually. You're not evoking a foreman doing manual arithmetic — you're evoking engineered certainty. Green-Screen is the weakest option. Monochrome phosphor cannot carry a three-state flag system without hacks that destroy the aesthetic entirely.</p>
+        <p>The council should pressure-test one specific thing before accepting any recommendation: render all three directions with the actual red/yellow/green flags under deuteranopia simulation.</p>
+      </div>
+    </details>
+
+    <details>
+      <summary>The First Principles Thinker <span class="advisor-tag tag-blueprint">Blueprint</span></summary>
+      <div class="detail-body">
+        <p>The actual question is: what problem is this tool solving, and what does the interface need to do to solve it? The tool has one job: get an estimator to a correct bid decision quickly and confidently, under time pressure, every day. That means the interface must do two things without friction — surface the flag verdict instantly and make the confidence indicator trustworthy at a glance.</p>
+        <p>Non-negotiable perceptual requirements: green/yellow/red flags must be unambiguous. Ledger's muted accounting greens and reds fail this directly. "Muted" is the wrong word when the flag verdict drives manager escalation. The aesthetic constraint is actively fighting the functional requirement.</p>
+        <p>Blueprint wins on first principles. Dark navy background gives you maximum contrast for the flag colors without washing them out. Cyan technical text is readable and distinct. The drafting-paper grid provides visual structure that helps estimators orient quickly across three sections. Most importantly, Blueprint's aesthetic vocabulary is already associated with precision and consequence in construction contexts — it primes the user to treat the output seriously.</p>
+        <p>The real question nobody asked: are all three sections weighted equally in the layout? If the flag verdict is the decision output, it should dominate the visual hierarchy regardless of theme.</p>
+      </div>
+    </details>
+
+    <details>
+      <summary>The Expansionist <span class="advisor-tag tag-terminal">Terminal</span></summary>
+      <div class="detail-body">
+        <p>Ledger is fine. But you're thinking too small. The real opportunity here isn't which aesthetic wins — it's that this tool is already the estimator's primary pricing check, meaning it has a natural growth vector into something far more powerful. The aesthetic choice should be made in service of that expansion, not just today's UI.</p>
+        <p>Green-Screen Terminal is the sleeper pick. Phosphor green on black has a cult following among power users. It signals "serious tool for serious people." Terminal's monospaced, structured layout is naturally extensible. When you add a second model, a historical win-rate overlay, competitor pricing signals, or a margin sensitivity table — and you will — Terminal's grid-like aesthetic absorbs complexity gracefully. Ledger gets cluttered fast.</p>
+        <p>The green/yellow/red flag system renders with maximum contrast on black. No accessibility workarounds, no muted-color compromise. Ledger is the safe answer. Terminal is the answer that sets up this tool to become the estimating platform the company didn't know they were building.</p>
+        <p><em>Note from peer review: Terminal's monochrome palette structurally cannot carry a three-state flag system without breaking the aesthetic. The scalability argument doesn't fix a broken current function.</em></p>
+      </div>
+    </details>
+
+    <details>
+      <summary>The Outsider <span class="advisor-tag tag-blueprint">Blueprint</span></summary>
+      <div class="detail-body">
+        <p>Ledger has a problem nobody on the inside is saying out loud: it looks like accounting software for a business that sells furniture, not a daily decision tool for a guy who's been reading pipe specs since 6am.</p>
+        <p>Muted is the enemy of a flag. A flag needs to land. You cannot soften a stop sign. Green-Screen has the opposite problem: black plus phosphor green gives you exactly two colors of semantic meaning, and your flag system needs three.</p>
+        <p>Industrial/Blueprint is the one direction where the color language actually works with the tool's job. Navy background, cyan for informational content — and you still have full, uncompromised saturation available for green/yellow/red flags because those colors aren't already doing double duty in the theme. The flags pop against dark navy in a way they simply cannot pop against cream.</p>
+        <p>There's also something the insider is missing: estimators reading blueprints all day are already visually calibrated to that language. The tool isn't borrowing an aesthetic — it's speaking the user's existing visual vocabulary. The "1975 foreman's desk" framing sounds compelling in a pitch meeting. But the foreman's desk didn't have a three-color decision flag system on it. This tool does.</p>
+      </div>
+    </details>
+
+    <details>
+      <summary>The Executor <span class="advisor-tag tag-ledger">Ledger</span></summary>
+      <div class="detail-body">
+        <p>Ledger wins because it survives Monday morning. On a cream background with dark ink typography, the flag colors — green, yellow, red at full saturation — pop immediately without any calibration. On dark navy or black, you are fighting contrast ratios for red specifically. Phosphor green on black means your "red flag" is competing with the background darkness in a way that requires a beat of cognitive adjustment every single time.</p>
+        <p>Practical first steps: background #F5F0E8, body text #1A1A1A, flag colors #2D6A2D / #B8860B / #B22222. Those read clean on cream without custom CSS heroics.</p>
+        <p>The foreman's desk framing maps directly to the existing UI structure. Job cost inputs look like ledger line items. The benchmark price reads like a quoted figure. The flag verdict reads like a foreman's stamp — approved, review, reject. Blueprint requires maintaining a custom grid background and managing cyan text legibility across different monitors. Ledger requires none of that. It is the path with fewest implementation obstacles and fewest daily cognitive friction points.</p>
+      </div>
+    </details>
+  </div>
+
+  <!-- Peer Review Highlights -->
+  <div class="peer-section">
+    <h2>Peer Review Highlights</h2>
+    <details>
+      <summary>Peer Review Consensus (5 reviewers)</summary>
+      <div class="detail-body">
+        <div class="peer-consensus">
+          <div class="pc-row">
+            <span class="pc-label">Strongest response</span>
+            <span class="pc-value">Response D (Contrarian) — 4/5 reviewers. Only response with a concrete, empirically grounded failure mode (colorblindness) and an actionable test to verify it (deuteranopia simulation). One reviewer chose Response B (First Principles) for its functional derivation approach.</span>
+          </div>
+          <div class="pc-row">
+            <span class="pc-label">Biggest blind spot</span>
+            <span class="pc-value">Response A (Expansionist) — unanimous. Argued Terminal is scalable and future-proof while never addressing that its monochrome palette structurally cannot carry a three-state flag system. Future-facing argument built on a broken current function.</span>
+          </div>
+          <div class="pc-row">
+            <span class="pc-label">What all five missed</span>
+            <span class="pc-value">Monitor calibration variance in the field — raised by all 5 reviewers, missed by all 5 advisors. Estimators work on commodity, uncalibrated monitors under fluorescent or ambient light. Dark themes (Blueprint) wash out on cheap displays. Cream themes (Ledger) are more robust to monitor variance — which partially rehabilitates Ledger on a practical axis the advisory round didn't test.</span>
+          </div>
+        </div>
+      </div>
+    </details>
+  </div>
+
+  <!-- Footer -->
+  <div class="footer">
+    Council conducted 2026-05-12 &bull; Bid Decision Tool &bull; Chicago Booth Lab — Team 4 &bull; 5 advisors &bull; 5 peer reviewers &bull; 1 chairman synthesis
+  </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,1363 @@
+Job #,Customer Name,Job Type,✏️ Property Type,Completion Date,Predicted Revenue ($),Actual Revenue ($),Revenue Error ($),Revenue Error %,Predicted GP%,Actual GP%,GP% Error (pp),Flag: Low Margin,Flag: Under-billed
+500000,Customer 137,Hydro Jetting,Multifamily / Light Commercial,2025-11-10,1133.87,1071.86,62.01,0.0579,0.5178,0.4986,1.92,False,False
+500001,Customer 183,Emergency Call,Single-family Residential,2025-01-31,575.4,615.39,-39.99,-0.065,0.5998,0.5777,2.21,False,False
+500002,Customer 141,Backflow Repairs/Replacement,Commercial,2025-09-29,2442.95,2820.94,-377.99,-0.134,0.6824,0.6914,-0.9,False,False
+500003,Customer 131,Backflow Testing,Commercial,2025-07-06,457.59,473.45,-15.86,-0.0335,0.7868,0.7789,0.79,False,False
+500004,Customer 103,Investigation/Estimate Only,Multifamily / Light Commercial,2025-10-04,662.5,937.45,-274.95,-0.2933,0.6068,0.6213,-1.45,False,False
+500005,Customer 054,Toilet,Multifamily / Light Commercial,2025-06-14,479.85,511.72,-31.87,-0.0623,0.6361,0.5505,8.56,False,False
+500006,Customer 062,Hydro Jetting,Multifamily / Light Commercial,2025-02-27,418.42,435.6,-17.18,-0.0394,0.6128,0.4345,17.83,False,False
+500008,Customer 016,Investigation/Estimate Only,Commercial,2025-08-19,160.84,191.74,-30.9,-0.1612,0.5477,0.5333,1.44,False,False
+500010,Customer 088,Emergency Call,Commercial,2025-05-17,963.62,866.43,97.19,0.1122,0.5125,0.513,-0.05,False,True
+500011,Customer 171,Leak Detection,Commercial,2025-05-06,3308.52,3420.77,-112.25,-0.0328,0.5684,0.5479,2.05,False,False
+500012,Customer 145,General Plumbing Service,Multifamily / Light Commercial,2025-06-25,481.05,531.76,-50.71,-0.0954,0.401,0.4536,-5.26,False,False
+500013,Customer 130,Main Line Stoppage,Multifamily / Light Commercial,2025-04-06,596.09,626.67,-30.58,-0.0488,0.5432,0.482,6.12,False,False
+500014,Customer 118,Emergency Call,Multifamily / Light Commercial,2025-04-14,2700.34,2563.78,136.56,0.0533,0.4635,0.4282,3.53,False,False
+500015,Customer 025,Secondary Stoppage,Commercial,2025-04-12,530.44,524.68,5.76,0.011,0.6131,0.6467,-3.36,False,False
+500016,Customer 073,Water Repipe/Install,Commercial,2025-01-05,4231.7,4728.93,-497.23,-0.1051,0.4625,0.3903,7.22,True,False
+500017,Customer 018,Investigation/Estimate Only,Multifamily / Light Commercial,2025-12-05,1514.08,1486.07,28.01,0.0188,0.8515,0.85,0.15,False,False
+500018,Customer 167,Main Line Stoppage,Commercial,2025-03-28,969.16,976.58,-7.42,-0.0076,0.465,0.5426,-7.76,False,False
+500019,Customer 166,General Plumbing Service,Commercial,2025-03-02,639.69,771.56,-131.87,-0.1709,0.7401,0.712,2.81,False,False
+500020,Customer 057,Hydro Jetting,Commercial,2025-02-25,2304.61,2408.86,-104.25,-0.0433,0.5382,0.5192,1.9,False,False
+500021,Customer 065,Emergency Call,Multifamily / Light Commercial,2025-12-27,696.32,640.65,55.67,0.0869,0.4945,0.4177,7.68,False,False
+500022,Customer 070,Toilet,Multifamily / Light Commercial,2025-06-24,561.35,516.98,44.37,0.0858,0.3878,0.3213,6.65,True,False
+500023,Customer 196,Commercial Water Heater,Multifamily / Light Commercial,2025-04-30,3171.67,3284.98,-113.31,-0.0345,0.3775,0.3862,-0.87,True,False
+500024,Customer 108,Hydro Jetting,Multifamily / Light Commercial,2025-05-28,1082.0,982.28,99.72,0.1015,0.4918,0.5296,-3.78,False,False
+500026,Customer 099,Fixtures,Commercial,2025-04-25,276.34,323.96,-47.62,-0.147,0.4473,0.4472,0.01,False,False
+500027,Customer 154,Investigation/Estimate Only,Commercial,2025-04-01,149.53,174.35,-24.82,-0.1424,0.6203,0.5912,2.91,False,False
+500028,Customer 117,Investigation/Estimate Only,Commercial,2025-10-21,427.22,443.95,-16.73,-0.0377,0.2839,0.2452,3.87,True,False
+500029,Customer 062,Backflow Testing,Commercial,2025-01-22,788.97,644.25,144.72,0.2246,0.834,0.8099,2.41,False,True
+500031,Customer 156,Toilet,Commercial,2025-10-16,610.89,596.29,14.6,0.0245,0.1739,0.1812,-0.73,True,False
+500032,Customer 170,Secondary Stoppage,Multifamily / Light Commercial,2025-11-01,571.26,595.87,-24.61,-0.0413,0.6971,0.6174,7.97,False,False
+500033,Customer 209,Emergency Call,Multifamily / Light Commercial,2025-07-07,797.77,647.74,150.03,0.2316,0.1103,0.1642,-5.39,True,True
+500034,Customer 055,Fixtures,Commercial,2025-03-23,596.83,623.67,-26.84,-0.043,0.7962,0.5978,19.84,False,False
+500035,Customer 021,Secondary Stoppage,Commercial,2025-05-04,682.33,511.03,171.3,0.3352,0.4562,0.3952,6.1,True,True
+500036,Customer 129,Investigation/Estimate Only,Multifamily / Light Commercial,2025-03-23,559.74,606.23,-46.49,-0.0767,0.2666,0.3568,-9.02,True,False
+500037,Customer 072,Fixtures,Multifamily / Light Commercial,2025-08-30,857.2,1010.56,-153.36,-0.1518,0.5316,0.5168,1.48,False,False
+500038,Customer 096,Secondary Stoppage,Multifamily / Light Commercial,2025-04-17,795.39,815.75,-20.36,-0.025,0.6353,0.5735,6.18,False,False
+500039,Customer 052,General Plumbing Service,Commercial,2025-08-19,255.29,265.2,-9.91,-0.0374,0.3725,0.4004,-2.79,False,False
+500040,Customer 088,Emergency Call,Multifamily / Light Commercial,2025-08-28,496.86,565.36,-68.5,-0.1212,0.3278,0.4474,-11.96,False,False
+500041,Customer 087,Backflow Repairs/Replacement,Commercial,2025-12-10,10514.74,7562.95,2951.79,0.3903,0.3042,0.3873,-8.31,True,True
+500042,Customer 078,Backflow Testing,Commercial,2025-05-16,514.23,490.77,23.46,0.0478,0.7545,0.7111,4.34,False,False
+500043,Customer 164,Secondary Stoppage,Commercial,2025-12-17,260.51,243.55,16.96,0.0696,0.2718,0.4122,-14.04,False,False
+500044,Customer 131,Backflow Repairs/Replacement,Commercial,2025-05-27,673.86,724.02,-50.16,-0.0693,0.2788,0.3947,-11.59,True,False
+500045,Customer 105,Main Line Stoppage,Commercial,2025-09-06,634.84,695.07,-60.23,-0.0867,0.6406,0.5977,4.29,False,False
+500046,Customer 025,Emergency Call,Commercial,2025-08-30,1095.6,949.53,146.07,0.1538,0.5577,0.5755,-1.78,False,True
+500049,Customer 070,Investigation/Estimate Only,Commercial,2025-10-17,1192.76,1593.27,-400.51,-0.2514,0.7943,0.85,-5.57,False,False
+500050,Customer 092,Secondary Stoppage,Commercial,2025-05-10,710.05,856.96,-146.91,-0.1714,0.2531,0.2927,-3.96,True,False
+500051,Customer 032,Investigation/Estimate Only,Commercial,2025-06-29,437.68,454.54,-16.86,-0.0371,0.4278,0.5455,-11.77,False,False
+500052,Customer 086,Main Line Stoppage,Commercial,2025-07-02,2157.36,1793.83,363.53,0.2027,0.564,0.5252,3.88,False,True
+500053,Customer 059,General Plumbing Service,Commercial,2025-09-15,280.58,297.28,-16.7,-0.0562,0.4682,0.5327,-6.45,False,False
+500054,Customer 187,Backflow Testing,Commercial,2025-08-14,383.84,361.29,22.55,0.0624,0.6274,0.6703,-4.29,False,False
+500055,Customer 190,Hydro Jetting,Multifamily / Light Commercial,2025-01-29,2792.63,2781.06,11.57,0.0042,0.707,0.6793,2.77,False,False
+500056,Customer 002,Fixtures,Multifamily / Light Commercial,2025-10-23,1172.54,981.67,190.87,0.1944,0.6085,0.629,-2.05,False,True
+500057,Customer 133,Water Repipe/Install,Commercial,2025-10-04,4752.68,6234.73,-1482.05,-0.2377,0.3451,0.4015,-5.64,False,False
+500059,Customer 084,Investigation/Estimate Only,Multifamily / Light Commercial,2025-12-18,86.91,78.27,8.64,0.1104,0.2581,0.4173,-15.92,False,False
+500060,Customer 104,General Plumbing Service,Single-family Residential,2025-08-30,676.91,697.73,-20.82,-0.0298,0.6749,0.6455,2.94,False,False
+500061,Customer 174,Fixtures,Multifamily / Light Commercial,2025-02-01,2784.73,2445.46,339.27,0.1387,0.5197,0.5134,0.63,False,True
+500062,Customer 084,Water Repipe/Install,Multifamily / Light Commercial,2025-06-29,6981.86,7960.09,-978.23,-0.1229,0.3807,0.4221,-4.14,False,False
+500063,Customer 015,Hydro Jetting,Multifamily / Light Commercial,2025-11-02,1463.23,1457.9,5.33,0.0037,0.5923,0.6753,-8.3,False,False
+500064,Customer 082,General Plumbing Service,Multifamily / Light Commercial,2025-04-13,1276.19,1296.12,-19.93,-0.0154,0.6117,0.6107,0.1,False,False
+500065,Customer 056,Water Repipe/Install,Commercial,2025-12-07,3129.15,3682.94,-553.79,-0.1504,0.638,0.5996,3.84,False,False
+500066,Customer 085,Water Repipe/Install,Commercial,2025-06-02,4683.34,5796.66,-1113.32,-0.1921,0.53,0.5222,0.78,False,False
+500067,Customer 051,Secondary Stoppage,Commercial,2025-03-24,965.34,1057.4,-92.06,-0.0871,0.8582,0.7272,13.1,False,False
+500068,Customer 033,Investigation/Estimate Only,Commercial,2025-05-11,319.31,313.21,6.1,0.0195,0.4213,0.3649,5.64,True,False
+500069,Customer 217,Emergency Call,Commercial,2025-07-11,445.71,502.8,-57.09,-0.1135,0.5307,0.5393,-0.86,False,False
+500070,Customer 029,Secondary Stoppage,Commercial,2025-09-09,1162.66,1223.22,-60.56,-0.0495,0.6967,0.6376,5.91,False,False
+500071,Customer 156,Emergency Call,Multifamily / Light Commercial,2025-12-05,692.23,965.28,-273.05,-0.2829,0.8311,0.8272,0.39,False,False
+500072,Customer 158,Backflow Repairs/Replacement,Multifamily / Light Commercial,2025-03-13,3634.56,3848.53,-213.97,-0.0556,0.6406,0.637,0.36,False,False
+500073,Customer 136,Secondary Stoppage,Multifamily / Light Commercial,2025-12-17,897.11,777.7,119.41,0.1535,0.6326,0.5289,10.37,False,True
+500074,Customer 201,Investigation/Estimate Only,Commercial,2025-07-12,296.95,268.54,28.41,0.1058,0.2627,0.3345,-7.18,True,False
+500075,Customer 002,Secondary Stoppage,Commercial,2025-02-16,454.83,460.84,-6.01,-0.013,0.61,0.6081,0.19,False,False
+500076,Customer 067,Secondary Stoppage,Multifamily / Light Commercial,2025-12-05,1397.32,1348.05,49.27,0.0365,0.9,0.8057,9.43,False,False
+500077,Customer 041,General Plumbing Service,Multifamily / Light Commercial,2025-05-08,779.01,889.52,-110.51,-0.1242,0.7705,0.7458,2.47,False,False
+500078,Customer 127,Water Repipe/Install,Single-family Residential,2025-08-15,3448.69,2773.0,675.69,0.2437,0.4561,0.4856,-2.95,False,True
+500079,Customer 140,Hydro Jetting,Multifamily / Light Commercial,2025-09-12,534.78,408.18,126.6,0.3102,0.3823,0.5188,-13.65,False,True
+500080,Customer 198,General Plumbing Service,Multifamily / Light Commercial,2025-01-05,314.35,306.77,7.58,0.0247,0.5265,0.7081,-18.16,False,False
+500081,Customer 084,Emergency Call,Commercial,2025-03-22,435.94,313.94,122.0,0.3886,0.7096,0.5435,16.61,False,True
+500082,Customer 052,Main Line Stoppage,Commercial,2025-09-08,538.09,599.23,-61.14,-0.102,0.5861,0.5614,2.47,False,False
+500083,Customer 204,Investigation/Estimate Only,Commercial,2025-04-29,245.25,301.91,-56.66,-0.1877,0.7062,0.7529,-4.67,False,False
+500084,Customer 149,Investigation/Estimate Only,Multifamily / Light Commercial,2025-01-04,127.4,142.58,-15.18,-0.1065,0.059,0.031,2.8,True,False
+500085,Customer 169,Investigation/Estimate Only,Multifamily / Light Commercial,2025-01-09,141.73,146.55,-4.82,-0.0329,0.1293,0.2051,-7.58,True,False
+500086,Customer 098,Backflow Testing,Commercial,2025-10-29,242.32,179.92,62.4,0.3468,0.5454,0.5719,-2.65,False,True
+500087,Customer 099,Fixtures,Multifamily / Light Commercial,2025-02-26,1380.96,1441.76,-60.8,-0.0422,0.5475,0.6228,-7.53,False,False
+500088,Customer 086,Investigation/Estimate Only,Commercial,2025-02-06,289.91,332.83,-42.92,-0.129,0.2673,0.3804,-11.31,True,False
+500089,Customer 165,Fixtures,Commercial,2025-07-25,697.16,805.75,-108.59,-0.1348,0.391,0.5594,-16.84,False,False
+500090,Customer 047,Investigation/Estimate Only,Commercial,2025-02-13,159.07,135.84,23.23,0.171,0.1085,0.2363,-12.78,True,True
+500091,Customer 215,Backflow Testing,Commercial,2025-08-27,285.05,247.96,37.09,0.1496,0.5951,0.5134,8.17,False,True
+500092,Customer 039,Emergency Call,Multifamily / Light Commercial,2025-07-18,1559.0,1681.45,-122.45,-0.0728,0.6371,0.7161,-7.9,False,False
+500093,Customer 102,Emergency Call,Commercial,2025-08-25,753.31,1048.25,-294.94,-0.2814,0.6679,0.6251,4.28,False,False
+500094,Customer 070,Secondary Stoppage,Multifamily / Light Commercial,2025-06-29,578.02,695.81,-117.79,-0.1693,0.449,0.3725,7.65,True,False
+500095,Customer 142,General Plumbing Service,Multifamily / Light Commercial,2025-10-12,1966.43,1562.91,403.52,0.2582,0.6572,0.6559,0.13,False,True
+500096,Customer 150,Emergency Call,Commercial,2025-08-24,2531.99,2294.88,237.11,0.1033,0.5745,0.5984,-2.39,False,False
+500097,Customer 203,Investigation/Estimate Only,Commercial,2025-06-01,277.09,274.4,2.69,0.0098,0.5947,0.5841,1.06,False,False
+500098,Customer 174,Investigation/Estimate Only,Multifamily / Light Commercial,2025-01-06,123.63,96.56,27.07,0.2803,0.1583,0.1916,-3.33,True,True
+500099,Customer 055,Toilet,Commercial,2025-04-10,1508.12,1165.7,342.42,0.2937,0.873,0.7767,9.63,False,True
+500100,Customer 046,Leak Detection,Multifamily / Light Commercial,2025-02-17,1265.1,1271.96,-6.86,-0.0054,0.6105,0.4604,15.01,False,False
+500101,Customer 196,Backflow Testing,Commercial,2025-01-06,490.01,491.3,-1.29,-0.0026,0.8024,0.6864,11.6,False,False
+500103,Customer 022,Toilet,Multifamily / Light Commercial,2025-03-17,482.8,528.98,-46.18,-0.0873,0.3088,0.4809,-17.21,False,False
+500104,Customer 182,Hydro Jetting,Commercial,2025-01-29,1620.07,1692.32,-72.25,-0.0427,0.6839,0.7189,-3.5,False,False
+500105,Customer 143,Backflow Testing,Commercial,2025-04-25,388.77,500.31,-111.54,-0.2229,0.7704,0.7701,0.03,False,False
+500106,Customer 006,Emergency Call,Single-family Residential,2025-07-04,157.25,202.52,-45.27,-0.2235,0.4112,0.3742,3.7,True,False
+500107,Customer 173,Secondary Stoppage,Commercial,2025-03-07,236.68,319.15,-82.47,-0.2584,0.2746,0.4128,-13.82,False,False
+500108,Customer 134,Investigation/Estimate Only,Commercial,2025-04-10,531.51,457.15,74.36,0.1627,0.5799,0.7194,-13.95,False,True
+500109,Customer 136,Leak Detection,Commercial,2025-01-08,483.69,631.62,-147.93,-0.2342,0.6486,0.5441,10.45,False,False
+500110,Customer 191,Fixtures,Commercial,2025-01-19,418.04,323.44,94.6,0.2925,0.5863,0.631,-4.47,False,True
+500112,Customer 102,Secondary Stoppage,Multifamily / Light Commercial,2025-06-15,238.02,267.31,-29.29,-0.1096,0.3181,0.4371,-11.9,False,False
+500113,Customer 136,Water Repipe/Install,Commercial,2025-09-01,3787.97,3004.89,783.08,0.2606,0.332,0.4203,-8.83,False,True
+500114,Customer 044,Investigation/Estimate Only,Multifamily / Light Commercial,2025-10-15,150.03,158.72,-8.69,-0.0548,-0.0104,-0.0416,3.12,True,False
+500115,Customer 034,Backflow Repairs/Replacement,Commercial,2025-08-18,1016.12,1328.13,-312.01,-0.2349,0.2777,0.3435,-6.58,True,False
+500116,Customer 186,Hydro Jetting,Commercial,2025-08-14,764.41,640.98,123.43,0.1926,0.5569,0.5376,1.93,False,True
+500117,Customer 048,Backflow Testing,Multifamily / Light Commercial,2025-12-08,262.72,217.07,45.65,0.2103,0.654,0.7323,-7.83,False,True
+500119,Customer 060,General Plumbing Service,Commercial,2025-10-19,552.34,639.21,-86.87,-0.1359,0.3823,0.5218,-13.95,False,False
+500121,Customer 132,General Plumbing Service,Multifamily / Light Commercial,2025-07-27,1054.1,1109.28,-55.18,-0.0497,0.7787,0.6647,11.4,False,False
+500122,Customer 177,Investigation/Estimate Only,Multifamily / Light Commercial,2025-11-03,237.42,274.75,-37.33,-0.1359,0.3926,0.3607,3.19,True,False
+500123,Customer 098,Emergency Call,Commercial,2025-02-20,1708.63,1740.09,-31.46,-0.0181,0.6505,0.6772,-2.67,False,False
+500125,Customer 054,Fixtures,Multifamily / Light Commercial,2025-07-25,1032.86,1016.42,16.44,0.0162,0.7619,0.8036,-4.17,False,False
+500126,Customer 037,Emergency Call,Commercial,2025-03-22,814.78,860.11,-45.33,-0.0527,0.6293,0.5121,11.72,False,False
+500127,Customer 195,Investigation/Estimate Only,Commercial,2025-01-23,523.47,719.87,-196.4,-0.2728,0.8973,0.85,4.73,False,False
+500128,Customer 071,Investigation/Estimate Only,Commercial,2025-09-20,169.36,185.53,-16.17,-0.0872,0.4467,0.355,9.17,True,False
+500129,Customer 083,Water Repipe/Install,Commercial,2025-06-07,5380.14,4866.58,513.56,0.1055,0.5446,0.5913,-4.67,False,False
+500130,Customer 016,Investigation/Estimate Only,Commercial,2025-04-24,408.21,421.42,-13.21,-0.0313,0.6176,0.6135,0.41,False,False
+500131,Customer 099,Leak Detection,Multifamily / Light Commercial,2025-05-23,1565.74,1646.62,-80.88,-0.0491,0.77,0.7378,3.22,False,False
+500132,Customer 202,Water Repipe/Install,Multifamily / Light Commercial,2025-12-28,4093.84,4758.16,-664.32,-0.1396,0.4177,0.4617,-4.4,False,False
+500133,Customer 091,Emergency Call,Multifamily / Light Commercial,2025-06-06,641.08,705.65,-64.57,-0.0915,0.5844,0.592,-0.76,False,False
+500134,Customer 144,Water Repipe/Install,Single-family Residential,2025-01-29,4587.22,3786.89,800.33,0.2113,0.4054,0.4521,-4.67,False,True
+500135,Customer 041,Investigation/Estimate Only,Commercial,2025-04-13,213.29,257.28,-43.99,-0.171,0.2917,0.2598,3.19,True,False
+500136,Customer 032,Toilet,Commercial,2025-02-23,2137.68,1929.1,208.58,0.1081,0.4499,0.5556,-10.57,False,False
+500137,Customer 161,Fixtures,Multifamily / Light Commercial,2025-09-08,485.02,481.62,3.4,0.0071,0.6652,0.6194,4.58,False,False
+500138,Customer 015,Hydro Jetting,Commercial,2025-10-20,2403.86,2318.71,85.15,0.0367,0.8065,0.7816,2.49,False,False
+500139,Customer 099,Investigation/Estimate Only,Multifamily / Light Commercial,2025-11-03,197.18,221.51,-24.33,-0.1098,0.6678,0.6841,-1.63,False,False
+500140,Customer 070,Fixtures,Multifamily / Light Commercial,2025-08-20,500.85,528.75,-27.9,-0.0528,0.4812,0.4452,3.6,False,False
+500141,Customer 004,Fixtures,Commercial,2025-10-08,1429.6,1430.83,-1.23,-0.0009,0.4709,0.5001,-2.92,False,False
+500142,Customer 117,Video Camera Inspection,Commercial,2025-06-02,1868.67,2026.98,-158.31,-0.0781,0.6193,0.6729,-5.36,False,False
+500144,Customer 016,Fixtures,Commercial,2025-02-09,1489.64,1419.09,70.55,0.0497,0.7359,0.6924,4.35,False,False
+500145,Customer 180,Secondary Stoppage,Commercial,2025-07-16,513.91,480.91,33.0,0.0686,0.6773,0.6303,4.7,False,False
+500146,Customer 119,Emergency Call,Commercial,2025-07-23,499.55,376.76,122.79,0.3259,0.4742,0.5148,-4.06,False,True
+500147,Customer 160,Fixtures,Multifamily / Light Commercial,2025-01-12,412.57,396.04,16.53,0.0417,0.6014,0.6488,-4.74,False,False
+500148,Customer 022,Emergency Call,Multifamily / Light Commercial,2025-07-20,742.81,1041.57,-298.76,-0.2868,0.398,0.4126,-1.46,False,False
+500149,Customer 192,Investigation/Estimate Only,Multifamily / Light Commercial,2025-09-21,1450.38,1234.94,215.44,0.1745,0.7243,0.7685,-4.42,False,True
+500150,Customer 003,Main Line Stoppage,Commercial,2025-05-15,1060.56,1094.02,-33.46,-0.0306,0.7661,0.6441,12.2,False,False
+500151,Customer 200,Commercial Water Heater,Commercial,2025-07-18,5085.09,3906.23,1178.86,0.3018,0.6498,0.6245,2.53,False,True
+500152,Customer 145,Investigation/Estimate Only,Commercial,2025-04-15,192.52,157.72,34.8,0.2206,0.2671,0.2659,0.12,True,True
+500153,Customer 075,Water Repipe/Install,Commercial,2025-04-09,3132.36,3389.23,-256.87,-0.0758,0.5205,0.5951,-7.46,False,False
+500154,Customer 002,Investigation/Estimate Only,Multifamily / Light Commercial,2025-02-17,428.4,386.54,41.86,0.1083,0.2701,0.211,5.91,True,False
+500155,Customer 135,General Plumbing Service,Commercial,2025-04-30,2309.13,2534.98,-225.85,-0.0891,0.621,0.6699,-4.89,False,False
+500157,Customer 134,General Plumbing Service,Multifamily / Light Commercial,2025-12-08,676.46,676.19,0.27,0.0004,0.3499,0.4021,-5.22,False,False
+500158,Customer 171,Backflow Testing,Commercial,2025-08-21,174.69,158.61,16.08,0.1014,0.6816,0.6198,6.18,False,False
+500159,Customer 059,Hydro Jetting,Commercial,2025-08-16,1443.8,1237.24,206.56,0.167,0.4664,0.4354,3.1,False,True
+500160,Customer 053,Investigation/Estimate Only,Commercial,2025-08-13,1206.74,1063.88,142.86,0.1343,0.3454,0.5457,-20.03,False,True
+500161,Customer 049,Leak Detection,Multifamily / Light Commercial,2025-06-23,954.66,944.04,10.62,0.0112,0.434,0.4466,-1.26,False,False
+500162,Customer 050,Secondary Stoppage,Multifamily / Light Commercial,2025-06-04,1513.13,1102.45,410.68,0.3725,0.4823,0.4723,1.0,False,True
+500163,Customer 026,Investigation/Estimate Only,Commercial,2025-08-15,630.47,666.99,-36.52,-0.0548,0.4123,0.4395,-2.72,False,False
+500164,Customer 055,Water Repipe/Install,Multifamily / Light Commercial,2025-10-14,2456.4,3236.7,-780.3,-0.2411,0.6112,0.5984,1.28,False,False
+500166,Customer 067,Main Line Stoppage,Multifamily / Light Commercial,2025-07-26,404.62,513.61,-108.99,-0.2122,0.4139,0.5587,-14.48,False,False
+500167,Customer 172,Main Line Stoppage,Commercial,2025-06-21,1073.47,879.1,194.37,0.2211,0.1417,0.3682,-22.65,True,True
+500169,Customer 168,Video Camera Inspection,Multifamily / Light Commercial,2025-04-16,1399.07,1415.34,-16.27,-0.0115,0.6047,0.6827,-7.8,False,False
+500170,Customer 119,Secondary Stoppage,Commercial,2025-01-29,1068.44,1043.54,24.9,0.0239,0.7549,0.7323,2.26,False,False
+500171,Customer 070,Fixtures,Multifamily / Light Commercial,2025-06-10,824.12,897.13,-73.01,-0.0814,0.3246,0.5826,-25.8,False,False
+500172,Customer 205,Secondary Stoppage,Multifamily / Light Commercial,2025-09-18,382.1,409.94,-27.84,-0.0679,0.3701,0.4376,-6.75,False,False
+500173,Customer 046,Video Camera Inspection,Commercial,2025-09-08,544.03,616.86,-72.83,-0.1181,0.5258,0.6796,-15.38,False,False
+500174,Customer 103,Investigation/Estimate Only,Multifamily / Light Commercial,2025-12-26,494.14,461.52,32.62,0.0707,0.6276,0.647,-1.94,False,False
+500175,Customer 100,Investigation/Estimate Only,Multifamily / Light Commercial,2025-01-15,205.79,208.84,-3.05,-0.0146,0.4612,0.3046,15.66,True,False
+500176,Customer 165,Emergency Call,Multifamily / Light Commercial,2025-10-05,2088.18,1960.27,127.91,0.0653,0.8118,0.8292,-1.74,False,False
+500178,Customer 176,Commercial Water Heater,Multifamily / Light Commercial,2025-06-09,5382.02,5121.27,260.75,0.0509,0.4811,0.4897,-0.86,False,False
+500179,Customer 203,Hydro Jetting,Multifamily / Light Commercial,2025-04-14,2292.43,2448.87,-156.44,-0.0639,0.642,0.5749,6.71,False,False
+500180,Customer 086,Commercial Water Heater,Multifamily / Light Commercial,2025-05-11,4444.0,5688.76,-1244.76,-0.2188,0.5545,0.5528,0.17,False,False
+500181,Customer 193,Commercial Water Heater,Multifamily / Light Commercial,2025-09-07,3974.76,5174.59,-1199.83,-0.2319,0.356,0.3732,-1.72,True,False
+500182,Customer 038,Fixtures,Multifamily / Light Commercial,2025-11-11,750.09,515.88,234.21,0.454,0.7086,0.6345,7.41,False,True
+500183,Customer 202,Secondary Stoppage,Commercial,2025-08-23,2050.54,1678.4,372.14,0.2217,0.7804,0.7426,3.78,False,True
+500184,Customer 040,Hydro Jetting,Commercial,2025-07-07,2367.72,1971.41,396.31,0.201,0.7587,0.7356,2.31,False,True
+500185,Customer 188,General Plumbing Service,Commercial,2025-08-27,1405.67,1563.92,-158.25,-0.1012,0.7291,0.7402,-1.11,False,False
+500186,Customer 086,Emergency Call,Multifamily / Light Commercial,2025-01-26,408.12,407.54,0.58,0.0014,0.6461,0.6738,-2.77,False,False
+500187,Customer 213,Investigation/Estimate Only,Multifamily / Light Commercial,2025-08-10,149.52,170.35,-20.83,-0.1223,0.4934,0.42,7.34,False,False
+500188,Customer 029,Hydro Jetting,Multifamily / Light Commercial,2025-01-16,2562.43,3190.33,-627.9,-0.1968,0.8018,0.8287,-2.69,False,False
+500189,Customer 103,Secondary Stoppage,Commercial,2025-12-17,757.14,830.49,-73.35,-0.0883,0.6175,0.519,9.85,False,False
+500190,Customer 199,Video Camera Inspection,Multifamily / Light Commercial,2025-11-21,736.36,614.18,122.18,0.1989,0.5456,0.6294,-8.38,False,True
+500191,Customer 011,Secondary Stoppage,Multifamily / Light Commercial,2025-07-05,789.07,700.7,88.37,0.1261,0.5024,0.3877,11.47,True,True
+500192,Customer 059,Investigation/Estimate Only,Commercial,2025-05-17,217.17,254.15,-36.98,-0.1455,0.2702,0.2324,3.78,True,False
+500193,Customer 019,Main Line Stoppage,Multifamily / Light Commercial,2025-09-25,391.95,411.38,-19.43,-0.0472,0.2798,0.3573,-7.75,True,False
+500194,Customer 071,Investigation/Estimate Only,Multifamily / Light Commercial,2025-08-21,316.68,284.69,31.99,0.1124,0.2049,0.1642,4.07,True,True
+500195,Customer 086,Investigation/Estimate Only,Multifamily / Light Commercial,2025-09-15,1045.19,1143.09,-97.9,-0.0856,0.7472,0.7992,-5.2,False,False
+500197,Customer 057,Commercial Water Heater,Multifamily / Light Commercial,2025-03-28,4431.02,4378.75,52.27,0.0119,0.4914,0.4887,0.27,False,False
+500198,Customer 035,Secondary Stoppage,Single-family Residential,2025-01-27,975.2,919.76,55.44,0.0603,0.698,0.7369,-3.89,False,False
+500199,Customer 038,Secondary Stoppage,Multifamily / Light Commercial,2025-04-14,352.71,333.17,19.54,0.0586,0.4827,0.4933,-1.06,False,False
+500200,Customer 207,Hydro Jetting,Multifamily / Light Commercial,2025-07-13,1513.07,1457.51,55.56,0.0381,0.7537,0.6784,7.53,False,False
+500203,Customer 043,Investigation/Estimate Only,Multifamily / Light Commercial,2025-04-12,376.76,417.72,-40.96,-0.0981,0.5721,0.5306,4.15,False,False
+500204,Customer 012,Investigation/Estimate Only,Commercial,2025-12-09,449.65,490.16,-40.51,-0.0826,0.205,0.295,-9.0,True,False
+500205,Customer 212,Secondary Stoppage,Single-family Residential,2025-05-14,849.04,1023.0,-173.96,-0.17,0.4361,0.5215,-8.54,False,False
+500206,Customer 156,Investigation/Estimate Only,Commercial,2025-11-05,233.49,304.9,-71.41,-0.2342,0.1192,0.0975,2.17,True,False
+500207,Customer 168,Backflow Testing,Commercial,2025-05-23,394.18,401.08,-6.9,-0.0172,0.7563,0.7288,2.75,False,False
+500208,Customer 064,Investigation/Estimate Only,Multifamily / Light Commercial,2025-06-11,304.37,271.17,33.2,0.1224,0.1524,0.2064,-5.4,True,True
+500209,Customer 142,Fixtures,Commercial,2025-08-09,765.48,965.35,-199.87,-0.207,0.7796,0.6523,12.73,False,False
+500210,Customer 014,Backflow Testing,Multifamily / Light Commercial,2025-04-07,724.07,695.59,28.48,0.0409,0.8041,0.739,6.51,False,False
+500211,Customer 149,Water Repipe/Install,Commercial,2025-03-22,3884.19,3475.18,409.01,0.1177,0.3414,0.3914,-5.0,True,True
+500212,Customer 128,Secondary Stoppage,Single-family Residential,2025-05-19,457.88,632.01,-174.13,-0.2755,0.5127,0.5705,-5.78,False,False
+500213,Customer 073,Main Line Stoppage,Multifamily / Light Commercial,2025-10-21,1222.85,1274.58,-51.73,-0.0406,0.6155,0.6337,-1.82,False,False
+500214,Customer 157,Backflow Testing,Commercial,2025-02-22,621.6,498.5,123.1,0.2469,0.6436,0.6701,-2.65,False,True
+500215,Customer 143,Hydro Jetting,Multifamily / Light Commercial,2025-06-09,896.0,827.49,68.51,0.0828,0.813,0.7125,10.05,False,False
+500216,Customer 097,Investigation/Estimate Only,Commercial,2025-09-03,187.24,260.26,-73.02,-0.2806,0.6257,0.5469,7.88,False,False
+500218,Customer 006,Leak Detection,Multifamily / Light Commercial,2025-06-08,1041.9,948.26,93.64,0.0987,0.5707,0.5679,0.28,False,False
+500219,Customer 207,Emergency Call,Multifamily / Light Commercial,2025-01-30,1033.58,1164.15,-130.57,-0.1122,0.556,0.5018,5.42,False,False
+500220,Customer 062,Secondary Stoppage,Commercial,2025-01-06,938.53,850.35,88.18,0.1037,0.8269,0.7611,6.58,False,False
+500221,Customer 067,Fixtures,Commercial,2025-06-21,591.16,659.42,-68.26,-0.1035,0.5588,0.5541,0.47,False,False
+500222,Customer 150,General Plumbing Service,Multifamily / Light Commercial,2025-10-23,708.31,713.99,-5.68,-0.008,0.4753,0.4431,3.22,False,False
+500223,Customer 057,Toilet,Multifamily / Light Commercial,2025-01-11,1063.81,1157.11,-93.3,-0.0806,0.5646,0.5171,4.75,False,False
+500224,Customer 083,Secondary Stoppage,Commercial,2025-11-20,806.23,805.85,0.38,0.0005,0.6618,0.6228,3.9,False,False
+500225,Customer 157,Leak Detection,Commercial,2025-09-04,803.92,878.69,-74.77,-0.0851,-0.009,0.0533,-6.23,True,False
+500226,Customer 131,Investigation/Estimate Only,Commercial,2025-01-03,1178.67,1219.56,-40.89,-0.0335,0.6303,0.6845,-5.42,False,False
+500227,Customer 145,Water Repipe/Install,Multifamily / Light Commercial,2025-05-06,10834.73,13154.38,-2319.65,-0.1763,0.5188,0.5419,-2.31,False,False
+500228,Customer 002,General Plumbing Service,Commercial,2025-03-22,1730.7,1612.05,118.65,0.0736,0.6616,0.7181,-5.65,False,False
+500229,Customer 100,Investigation/Estimate Only,Commercial,2025-12-13,224.54,218.79,5.75,0.0263,0.3432,0.461,-11.78,False,False
+500230,Customer 105,Investigation/Estimate Only,Multifamily / Light Commercial,2025-07-22,284.43,375.48,-91.05,-0.2425,0.3471,0.293,5.41,True,False
+500231,Customer 140,Emergency Call,Commercial,2025-04-29,1233.72,1073.79,159.93,0.1489,0.6345,0.6068,2.77,False,True
+500232,Customer 034,Toilet,Multifamily / Light Commercial,2025-04-12,1413.71,1452.11,-38.4,-0.0264,0.461,0.5681,-10.71,False,False
+500233,Customer 036,Water Repipe/Install,Commercial,2025-07-25,8016.07,7826.17,189.9,0.0243,0.5148,0.5341,-1.93,False,False
+500234,Customer 168,Video Camera Inspection,Multifamily / Light Commercial,2025-01-02,548.49,492.06,56.43,0.1147,0.6536,0.6683,-1.47,False,True
+500235,Customer 149,Main Line Stoppage,Multifamily / Light Commercial,2025-04-04,1959.12,1867.19,91.93,0.0492,0.4896,0.475,1.46,False,False
+500236,Customer 179,Fixtures,Multifamily / Light Commercial,2025-03-02,2482.8,2113.42,369.38,0.1748,0.5455,0.6321,-8.66,False,True
+500237,Customer 060,Hydro Jetting,Commercial,2025-08-15,1383.45,1447.11,-63.66,-0.044,0.5776,0.6859,-10.83,False,False
+500238,Customer 220,Investigation/Estimate Only,Multifamily / Light Commercial,2025-09-02,165.25,143.05,22.2,0.1552,0.0099,-0.0317,4.16,True,True
+500239,Customer 061,Investigation/Estimate Only,Multifamily / Light Commercial,2025-06-20,360.8,354.27,6.53,0.0184,0.364,0.4867,-12.27,False,False
+500240,Customer 144,Main Line Stoppage,Commercial,2025-02-21,353.86,328.82,25.04,0.0762,0.2056,0.2242,-1.86,True,False
+500242,Customer 203,Secondary Stoppage,Commercial,2025-11-04,1059.23,998.76,60.47,0.0605,0.6696,0.6957,-2.61,False,False
+500243,Customer 074,Fixtures,Multifamily / Light Commercial,2025-03-16,624.01,526.1,97.91,0.1861,0.3448,0.3547,-0.99,True,True
+500244,Customer 177,Water Repipe/Install,Multifamily / Light Commercial,2025-03-01,1359.95,1227.16,132.79,0.1082,0.6721,0.6519,2.02,False,False
+500245,Customer 073,Commercial Water Heater,Multifamily / Light Commercial,2025-02-10,5979.92,6405.51,-425.59,-0.0664,0.3497,0.2218,12.79,True,False
+500246,Customer 174,Water Repipe/Install,Multifamily / Light Commercial,2025-10-26,7406.55,8194.81,-788.26,-0.0962,0.4049,0.5329,-12.8,False,False
+500247,Customer 100,Emergency Call,Multifamily / Light Commercial,2025-02-13,297.8,300.04,-2.24,-0.0075,0.5806,0.5105,7.01,False,False
+500248,Customer 014,Emergency Call,Commercial,2025-08-01,1400.27,1580.47,-180.2,-0.114,0.2181,0.4191,-20.1,False,False
+500249,Customer 042,Emergency Call,Commercial,2025-12-31,322.53,382.97,-60.44,-0.1578,0.1502,0.0387,11.15,True,False
+500250,Customer 151,General Plumbing Service,Multifamily / Light Commercial,2025-08-23,1470.57,2160.08,-689.51,-0.3192,0.3952,0.5586,-16.34,False,False
+500251,Customer 043,Commercial Water Heater,Commercial,2025-05-31,6118.35,7970.64,-1852.29,-0.2324,0.6734,0.4785,19.49,False,False
+500252,Customer 061,Fixtures,Multifamily / Light Commercial,2025-03-17,4331.57,3337.6,993.97,0.2978,0.5428,0.574,-3.12,False,True
+500253,Customer 120,Secondary Stoppage,Multifamily / Light Commercial,2025-01-01,334.93,371.52,-36.59,-0.0985,0.5411,0.4379,10.32,False,False
+500254,Customer 056,Secondary Stoppage,Commercial,2025-02-26,827.62,643.8,183.82,0.2855,0.5993,0.5126,8.67,False,True
+500255,Customer 029,Hydro Jetting,Multifamily / Light Commercial,2025-12-14,1945.22,1834.29,110.93,0.0605,0.6776,0.7125,-3.49,False,False
+500256,Customer 138,Main Line Stoppage,Commercial,2025-02-22,1191.56,1200.52,-8.96,-0.0075,0.6204,0.6492,-2.88,False,False
+500257,Customer 152,Investigation/Estimate Only,Single-family Residential,2025-01-08,336.95,434.83,-97.88,-0.2251,0.3453,0.4123,-6.7,False,False
+500258,Customer 162,Investigation/Estimate Only,Multifamily / Light Commercial,2025-10-25,906.5,905.87,0.63,0.0007,0.9,0.85,5.0,False,False
+500259,Customer 208,Water Repipe/Install,Multifamily / Light Commercial,2025-06-02,11377.2,8861.94,2515.26,0.2838,0.4643,0.4982,-3.39,False,True
+500260,Customer 028,Investigation/Estimate Only,Commercial,2025-05-11,357.17,289.52,67.65,0.2337,0.4211,0.4866,-6.55,False,True
+500261,Customer 094,Main Line Stoppage,Commercial,2025-09-19,1434.36,1377.69,56.67,0.0411,0.5961,0.5531,4.3,False,False
+500262,Customer 052,Secondary Stoppage,Commercial,2025-07-10,443.32,535.61,-92.29,-0.1723,0.4308,0.5026,-7.18,False,False
+500263,Customer 199,Investigation/Estimate Only,Commercial,2025-11-30,438.5,512.01,-73.51,-0.1436,0.415,0.4413,-2.63,False,False
+500264,Customer 119,Leak Detection,Commercial,2025-06-20,1577.95,1809.34,-231.39,-0.1279,0.7613,0.7527,0.86,False,False
+500265,Customer 022,Investigation/Estimate Only,Commercial,2025-09-18,790.53,663.35,127.18,0.1917,0.3894,0.4408,-5.14,False,True
+500266,Customer 153,Secondary Stoppage,Single-family Residential,2025-11-17,367.33,295.1,72.23,0.2448,0.5677,0.607,-3.93,False,True
+500267,Customer 010,Investigation/Estimate Only,Commercial,2025-06-19,1438.52,1397.46,41.06,0.0294,0.8742,0.7514,12.28,False,False
+500268,Customer 061,Investigation/Estimate Only,Commercial,2025-04-14,227.29,238.11,-10.82,-0.0454,0.0214,0.0377,-1.63,True,False
+500269,Customer 159,Investigation/Estimate Only,Multifamily / Light Commercial,2025-12-22,531.26,431.11,100.15,0.2323,0.4455,0.4743,-2.88,False,True
+500270,Customer 112,Investigation/Estimate Only,Multifamily / Light Commercial,2025-03-24,116.46,136.5,-20.04,-0.1468,0.2905,0.3045,-1.4,True,False
+500271,Customer 168,Investigation/Estimate Only,Multifamily / Light Commercial,2025-01-15,490.04,486.26,3.78,0.0078,0.3759,0.3395,3.64,True,False
+500272,Customer 126,Investigation/Estimate Only,Multifamily / Light Commercial,2025-07-31,595.61,556.93,38.68,0.0695,0.4393,0.522,-8.27,False,False
+500273,Customer 186,Water Repipe/Install,Multifamily / Light Commercial,2025-12-27,5749.53,6604.25,-854.72,-0.1294,0.733,0.6988,3.42,False,False
+500274,Customer 124,Backflow Testing,Multifamily / Light Commercial,2025-02-01,341.17,377.15,-35.98,-0.0954,0.7266,0.7061,2.05,False,False
+500275,Customer 013,Emergency Call,Multifamily / Light Commercial,2025-11-07,786.49,880.79,-94.3,-0.1071,0.3626,0.5057,-14.31,False,False
+500276,Customer 016,Secondary Stoppage,Multifamily / Light Commercial,2025-10-31,894.49,737.72,156.77,0.2125,0.8095,0.666,14.35,False,True
+500277,Customer 171,Fixtures,Commercial,2025-12-06,1579.18,1226.88,352.3,0.2872,0.7603,0.6434,11.69,False,True
+500278,Customer 009,Commercial Water Heater,Commercial,2025-06-03,6889.37,6772.75,116.62,0.0172,0.3266,0.3906,-6.4,True,False
+500279,Customer 083,Backflow Repairs/Replacement,Commercial,2025-04-03,704.96,734.51,-29.55,-0.0402,0.3153,0.4051,-8.98,False,False
+500280,Customer 004,Investigation/Estimate Only,Commercial,2025-07-06,526.96,579.06,-52.1,-0.09,0.6004,0.5822,1.82,False,False
+500281,Customer 067,Secondary Stoppage,Multifamily / Light Commercial,2025-02-21,196.03,195.98,0.05,0.0003,0.3313,0.4454,-11.41,False,False
+500282,Customer 131,Secondary Stoppage,Commercial,2025-11-04,273.91,298.55,-24.64,-0.0825,0.7887,0.6796,10.91,False,False
+500283,Customer 039,Secondary Stoppage,Commercial,2025-08-31,1315.26,1334.69,-19.43,-0.0146,0.6884,0.7259,-3.75,False,False
+500284,Customer 103,Water Repipe/Install,Commercial,2025-06-26,9659.0,9095.23,563.77,0.062,0.6694,0.5397,12.97,False,False
+500285,Customer 220,Emergency Call,Multifamily / Light Commercial,2025-07-08,2400.78,2556.19,-155.41,-0.0608,0.6502,0.7162,-6.6,False,False
+500286,Customer 016,Investigation/Estimate Only,Commercial,2025-09-17,2588.11,2663.87,-75.76,-0.0284,0.841,0.85,-0.9,False,False
+500287,Customer 015,Emergency Call,Multifamily / Light Commercial,2025-07-10,1099.04,1130.49,-31.45,-0.0278,0.697,0.5956,10.14,False,False
+500288,Customer 060,Fixtures,Multifamily / Light Commercial,2025-11-03,1325.03,1391.3,-66.27,-0.0476,0.4867,0.5126,-2.59,False,False
+500289,Customer 182,Investigation/Estimate Only,Commercial,2025-12-04,475.37,509.08,-33.71,-0.0662,0.8464,0.8246,2.18,False,False
+500290,Customer 090,Backflow Repairs/Replacement,Multifamily / Light Commercial,2025-12-13,436.38,391.61,44.77,0.1143,0.568,0.4806,8.74,False,True
+500291,Customer 141,Investigation/Estimate Only,Commercial,2025-08-15,93.43,127.22,-33.79,-0.2656,0.4663,0.5108,-4.45,False,False
+500292,Customer 008,Leak Detection,Commercial,2025-09-29,1572.6,1272.18,300.42,0.2361,0.5035,0.6044,-10.09,False,True
+500293,Customer 162,Investigation/Estimate Only,Multifamily / Light Commercial,2025-04-24,427.48,418.96,8.52,0.0203,0.465,0.5817,-11.67,False,False
+500294,Customer 015,Backflow Repairs/Replacement,Multifamily / Light Commercial,2025-01-14,1029.44,943.14,86.3,0.0915,0.5241,0.4774,4.67,False,False
+500295,Customer 157,Leak Detection,Commercial,2025-05-27,1394.39,1257.61,136.78,0.1088,0.507,0.4759,3.11,False,False
+500296,Customer 033,Tankless Water Heater,Multifamily / Light Commercial,2025-11-15,7485.76,8375.29,-889.53,-0.1062,0.4953,0.4104,8.49,False,False
+500297,Customer 189,Main Line Stoppage,Commercial,2025-02-18,1309.98,1518.21,-208.23,-0.1372,0.6379,0.6598,-2.19,False,False
+500298,Customer 066,Hydro Jetting,Multifamily / Light Commercial,2025-07-19,613.84,726.3,-112.46,-0.1548,0.6474,0.7619,-11.45,False,False
+500299,Customer 041,General Plumbing Service,Multifamily / Light Commercial,2025-03-12,513.87,533.65,-19.78,-0.0371,0.4279,0.6161,-18.82,False,False
+500300,Customer 075,Hydro Jetting,Multifamily / Light Commercial,2025-06-06,3123.41,2826.92,296.49,0.1049,0.695,0.4656,22.94,False,False
+500302,Customer 037,Fixtures,Commercial,2025-09-26,323.36,354.39,-31.03,-0.0876,0.4786,0.4364,4.22,False,False
+500303,Customer 132,Fixtures,Multifamily / Light Commercial,2025-10-23,523.67,479.91,43.76,0.0912,0.5428,0.5319,1.09,False,False
+500304,Customer 067,Backflow Repairs/Replacement,Multifamily / Light Commercial,2025-10-04,2103.52,3262.22,-1158.7,-0.3552,0.7194,0.6971,2.23,False,False
+500305,Customer 078,Fixtures,Multifamily / Light Commercial,2025-09-15,256.52,272.27,-15.75,-0.0578,0.3154,0.4299,-11.45,False,False
+500306,Customer 178,Emergency Call,Commercial,2025-03-27,3478.44,2960.2,518.24,0.1751,0.7864,0.85,-6.36,False,True
+500307,Customer 028,General Plumbing Service,Commercial,2025-07-13,461.17,473.31,-12.14,-0.0256,0.7502,0.6107,13.95,False,False
+500308,Customer 088,Secondary Stoppage,Commercial,2025-02-08,1698.01,1939.19,-241.18,-0.1244,0.8701,0.8174,5.27,False,False
+500309,Customer 041,Investigation/Estimate Only,Commercial,2025-05-17,125.3,138.99,-13.69,-0.0985,0.2592,0.3203,-6.11,True,False
+500310,Customer 107,Fixtures,Commercial,2025-07-04,239.94,439.61,-199.67,-0.4542,0.4766,0.5747,-9.81,False,False
+500311,Customer 073,Emergency Call,Commercial,2025-09-02,2846.22,3355.48,-509.26,-0.1518,0.5349,0.5762,-4.13,False,False
+500313,Customer 016,Emergency Call,Commercial,2025-10-24,1022.46,882.51,139.95,0.1586,0.3278,0.353,-2.52,True,True
+500315,Customer 013,Emergency Call,Multifamily / Light Commercial,2025-11-18,350.06,383.58,-33.52,-0.0874,0.7676,0.6037,16.39,False,False
+500316,Customer 173,Emergency Call,Multifamily / Light Commercial,2025-07-12,1052.36,1131.18,-78.82,-0.0697,0.6487,0.6638,-1.51,False,False
+500317,Customer 202,Backflow Testing,Commercial,2025-07-19,157.33,241.96,-84.63,-0.3498,0.5739,0.6691,-9.52,False,False
+500318,Customer 103,Secondary Stoppage,Commercial,2025-09-10,534.47,707.56,-173.09,-0.2446,0.5901,0.5948,-0.47,False,False
+500319,Customer 069,Video Camera Inspection,Multifamily / Light Commercial,2025-10-27,333.05,282.6,50.45,0.1785,0.445,0.4239,2.11,False,True
+500320,Customer 171,Leak Detection,Multifamily / Light Commercial,2025-02-27,613.37,561.39,51.98,0.0926,0.316,0.4184,-10.24,False,False
+500321,Customer 217,Fixtures,Commercial,2025-07-06,1895.88,2354.01,-458.13,-0.1946,0.5697,0.5375,3.22,False,False
+500322,Customer 027,Emergency Call,Multifamily / Light Commercial,2025-01-11,1012.27,1118.02,-105.75,-0.0946,0.6376,0.5409,9.67,False,False
+500323,Customer 213,Fixtures,Multifamily / Light Commercial,2025-06-23,563.83,566.31,-2.48,-0.0044,0.2511,0.24,1.11,True,False
+500324,Customer 208,Backflow Repairs/Replacement,Multifamily / Light Commercial,2025-10-24,3044.07,3709.65,-665.58,-0.1794,0.3986,0.4624,-6.38,False,False
+500325,Customer 032,General Plumbing Service,Commercial,2025-11-12,164.42,235.1,-70.68,-0.3006,0.1527,0.195,-4.23,True,False
+500326,Customer 013,Main Line Stoppage,Multifamily / Light Commercial,2025-04-14,470.23,481.73,-11.5,-0.0239,0.5685,0.7012,-13.27,False,False
+500327,Customer 158,Fixtures,Commercial,2025-05-22,782.42,720.53,61.89,0.0859,0.5417,0.5524,-1.07,False,False
+500328,Customer 018,General Plumbing Service,Multifamily / Light Commercial,2025-07-21,281.36,258.42,22.94,0.0888,0.5011,0.4762,2.49,False,False
+500329,Customer 133,Secondary Stoppage,Commercial,2025-05-25,844.37,746.38,97.99,0.1313,0.7072,0.7789,-7.17,False,True
+500330,Customer 015,Hydro Jetting,Commercial,2025-03-06,666.79,869.38,-202.59,-0.233,0.6121,0.4569,15.52,False,False
+500331,Customer 152,Secondary Stoppage,Single-family Residential,2025-04-22,827.51,820.38,7.13,0.0087,0.849,0.7856,6.34,False,False
+500332,Customer 051,Backflow Testing,Commercial,2025-05-28,259.62,270.51,-10.89,-0.0403,0.4837,0.6271,-14.34,False,False
+500333,Customer 022,Backflow Repairs/Replacement,Commercial,2025-07-09,4534.32,4594.43,-60.11,-0.0131,0.3807,0.5225,-14.18,False,False
+500334,Customer 015,Investigation/Estimate Only,Commercial,2025-12-03,459.85,474.94,-15.09,-0.0318,0.5948,0.6735,-7.87,False,False
+500335,Customer 042,Water Repipe/Install,Commercial,2025-07-18,16182.43,17961.86,-1779.43,-0.0991,0.8591,0.7332,12.59,False,False
+500336,Customer 119,Investigation/Estimate Only,Commercial,2025-05-22,111.78,204.22,-92.44,-0.4526,0.2621,0.1908,7.13,True,False
+500337,Customer 017,Backflow Testing,Commercial,2025-08-30,570.16,485.54,84.62,0.1743,0.9,0.8041,9.59,False,True
+500338,Customer 177,Investigation/Estimate Only,Multifamily / Light Commercial,2025-10-10,734.55,699.91,34.64,0.0495,0.3639,0.3631,0.08,True,False
+500339,Customer 133,Video Camera Inspection,Multifamily / Light Commercial,2025-06-07,446.02,573.76,-127.74,-0.2226,0.7059,0.7227,-1.68,False,False
+500340,Customer 066,Investigation/Estimate Only,Commercial,2025-06-28,159.86,149.27,10.59,0.0709,0.2094,0.3092,-9.98,True,False
+500341,Customer 218,Toilet,Multifamily / Light Commercial,2025-03-21,421.87,452.21,-30.34,-0.0671,0.4204,0.3924,2.8,True,False
+500342,Customer 145,Main Line Stoppage,Commercial,2025-11-12,500.14,533.68,-33.54,-0.0628,0.3409,0.3566,-1.57,True,False
+500343,Customer 148,Water Repipe/Install,Multifamily / Light Commercial,2025-11-13,6233.92,7046.07,-812.15,-0.1153,0.6715,0.6903,-1.88,False,False
+500344,Customer 039,Hydro Jetting,Commercial,2025-03-05,4103.2,3797.36,305.84,0.0805,0.6339,0.5045,12.94,False,False
+500345,Customer 157,Main Line Stoppage,Multifamily / Light Commercial,2025-05-07,1506.76,1712.18,-205.42,-0.12,0.5788,0.5889,-1.01,False,False
+500346,Customer 124,Video Camera Inspection,Commercial,2025-04-10,374.91,448.74,-73.83,-0.1645,0.642,0.5355,10.65,False,False
+500347,Customer 217,Secondary Stoppage,Multifamily / Light Commercial,2025-12-03,609.36,520.93,88.43,0.1698,0.3858,0.5128,-12.7,False,True
+500348,Customer 106,Water Repipe/Install,Commercial,2025-01-24,5063.44,5203.05,-139.61,-0.0268,0.8337,0.6187,21.5,False,False
+500349,Customer 150,Investigation/Estimate Only,Multifamily / Light Commercial,2025-03-17,765.19,782.5,-17.31,-0.0221,0.3136,0.3435,-2.99,True,False
+500350,Customer 076,Water Repipe/Install,Commercial,2025-04-25,8189.49,7418.89,770.6,0.1039,0.5476,0.491,5.66,False,False
+500351,Customer 009,Investigation/Estimate Only,Multifamily / Light Commercial,2025-07-24,196.3,218.14,-21.84,-0.1001,0.2693,0.2,6.93,True,False
+500353,Customer 191,Water Repipe/Install,Multifamily / Light Commercial,2025-07-15,5088.85,5473.19,-384.34,-0.0702,0.5623,0.6021,-3.98,False,False
+500354,Customer 163,Fixtures,Multifamily / Light Commercial,2025-09-30,547.19,523.2,23.99,0.0459,0.4115,0.346,6.55,True,False
+500355,Customer 081,Fixtures,Single-family Residential,2025-10-30,279.64,363.74,-84.1,-0.2312,0.6933,0.6236,6.97,False,False
+500356,Customer 154,Hydro Jetting,Commercial,2025-02-06,1375.81,1331.65,44.16,0.0332,0.6817,0.7388,-5.71,False,False
+500357,Customer 001,Main Line Stoppage,Commercial,2025-02-20,679.55,766.43,-86.88,-0.1134,0.4459,0.502,-5.61,False,False
+500358,Customer 009,Fixtures,Commercial,2025-02-04,2753.31,2440.18,313.13,0.1283,0.6805,0.6769,0.36,False,True
+500359,Customer 112,Water Repipe/Install,Commercial,2025-11-29,11038.45,10201.9,836.55,0.082,0.4346,0.4438,-0.92,False,False
+500360,Customer 138,Leak Detection,Multifamily / Light Commercial,2025-08-27,2033.64,1914.59,119.05,0.0622,0.5584,0.4469,11.15,False,False
+500361,Customer 207,Investigation/Estimate Only,Single-family Residential,2025-07-13,161.54,212.84,-51.3,-0.241,0.381,0.3248,5.62,True,False
+500363,Customer 057,Investigation/Estimate Only,Multifamily / Light Commercial,2025-08-02,657.77,668.13,-10.36,-0.0155,0.8444,0.85,-0.56,False,False
+500364,Customer 180,General Plumbing Service,Multifamily / Light Commercial,2025-03-27,381.0,462.71,-81.71,-0.1766,0.5787,0.5302,4.85,False,False
+500365,Customer 109,Emergency Call,Multifamily / Light Commercial,2025-07-06,5411.03,5441.12,-30.09,-0.0055,0.5415,0.7052,-16.37,False,False
+500366,Customer 182,Hydro Jetting,Multifamily / Light Commercial,2025-09-14,982.14,1504.72,-522.58,-0.3473,0.4551,0.5043,-4.92,False,False
+500367,Customer 039,General Plumbing Service,Commercial,2025-01-14,413.06,537.22,-124.16,-0.2311,0.5221,0.4991,2.3,False,False
+500368,Customer 006,Emergency Call,Multifamily / Light Commercial,2025-08-10,684.77,581.12,103.65,0.1784,0.6301,0.5409,8.92,False,True
+500369,Customer 013,Commercial Water Heater,Multifamily / Light Commercial,2025-07-01,3314.7,3140.83,173.87,0.0554,0.552,0.536,1.6,False,False
+500370,Customer 218,Hydro Jetting,Commercial,2025-01-26,747.19,789.07,-41.88,-0.0531,0.4694,0.3527,11.67,True,False
+500371,Customer 018,Secondary Stoppage,Commercial,2025-04-07,1338.05,1549.23,-211.18,-0.1363,0.8185,0.7491,6.94,False,False
+500372,Customer 207,Emergency Call,Single-family Residential,2025-06-13,850.22,1015.36,-165.14,-0.1626,0.602,0.6411,-3.91,False,False
+500373,Customer 160,Secondary Stoppage,Single-family Residential,2025-05-06,2251.05,2185.44,65.61,0.03,0.7991,0.8103,-1.12,False,False
+500374,Customer 033,Investigation/Estimate Only,Multifamily / Light Commercial,2025-04-16,1087.57,1146.67,-59.1,-0.0515,0.8827,0.85,3.27,False,False
+500375,Customer 191,Investigation/Estimate Only,Multifamily / Light Commercial,2025-08-25,938.5,761.77,176.73,0.232,0.473,0.5089,-3.59,False,True
+500376,Customer 032,Video Camera Inspection,Commercial,2025-05-28,460.89,474.03,-13.14,-0.0277,0.799,0.6765,12.25,False,False
+500377,Customer 032,Emergency Call,Commercial,2025-07-01,2481.78,2460.11,21.67,0.0088,0.5747,0.6634,-8.87,False,False
+500378,Customer 127,Emergency Call,Multifamily / Light Commercial,2025-10-19,1465.11,1850.53,-385.42,-0.2083,0.7739,0.7486,2.53,False,False
+500379,Customer 064,Backflow Testing,Multifamily / Light Commercial,2025-02-04,187.88,198.63,-10.75,-0.0541,0.649,0.5902,5.88,False,False
+500380,Customer 064,Water Repipe/Install,Multifamily / Light Commercial,2025-05-12,3194.51,3111.89,82.62,0.0265,0.3423,0.3674,-2.51,True,False
+500381,Customer 043,Video Camera Inspection,Multifamily / Light Commercial,2025-01-27,653.0,691.68,-38.68,-0.0559,0.5801,0.6232,-4.31,False,False
+500382,Customer 134,Hydro Jetting,Commercial,2025-12-05,1632.54,1760.8,-128.26,-0.0728,0.5044,0.5105,-0.61,False,False
+500383,Customer 006,Fixtures,Multifamily / Light Commercial,2025-03-09,822.44,784.0,38.44,0.049,0.6791,0.6141,6.5,False,False
+500384,Customer 054,Emergency Call,Commercial,2025-10-27,8599.57,7007.34,1592.23,0.2272,0.5345,0.5745,-4.0,False,True
+500386,Customer 108,Backflow Testing,Commercial,2025-04-29,268.32,262.61,5.71,0.0217,0.4403,0.5258,-8.55,False,False
+500387,Customer 154,Video Camera Inspection,Commercial,2025-08-11,1135.96,969.56,166.4,0.1716,0.8485,0.7565,9.2,False,True
+500388,Customer 048,Investigation/Estimate Only,Multifamily / Light Commercial,2025-10-31,642.49,587.69,54.8,0.0932,0.6918,0.6599,3.19,False,False
+500389,Customer 143,Backflow Repairs/Replacement,Commercial,2025-03-06,2572.7,2212.78,359.92,0.1627,0.7389,0.6583,8.06,False,True
+500390,Customer 168,General Plumbing Service,Commercial,2025-03-19,1059.73,1166.41,-106.68,-0.0915,0.4609,0.4002,6.07,False,False
+500391,Customer 086,Investigation/Estimate Only,Multifamily / Light Commercial,2025-11-18,787.55,812.78,-25.23,-0.031,0.8679,0.6935,17.44,False,False
+500392,Customer 057,Water Repipe/Install,Multifamily / Light Commercial,2025-04-28,2424.27,2500.32,-76.05,-0.0304,0.1524,0.0632,8.92,True,False
+500393,Customer 123,Backflow Testing,Commercial,2025-03-18,260.32,240.6,19.72,0.082,0.612,0.6699,-5.79,False,False
+500394,Customer 128,Investigation/Estimate Only,Commercial,2025-09-29,302.56,270.42,32.14,0.1189,0.4462,0.4086,3.76,False,True
+500396,Customer 125,Main Line Stoppage,Multifamily / Light Commercial,2025-11-13,637.15,625.42,11.73,0.0188,0.4508,0.4954,-4.46,False,False
+500401,Customer 168,Leak Detection,Commercial,2025-06-05,837.05,739.77,97.28,0.1315,0.5155,0.5518,-3.63,False,True
+500402,Customer 069,Hydro Jetting,Multifamily / Light Commercial,2025-05-03,2082.17,2274.35,-192.18,-0.0845,0.4564,0.5694,-11.3,False,False
+500403,Customer 204,Investigation/Estimate Only,Commercial,2025-12-17,184.43,162.81,21.62,0.1328,0.4126,0.4355,-2.29,False,True
+500404,Customer 179,Ejection Pump System,Multifamily / Light Commercial,2025-08-19,2830.2,2455.98,374.22,0.1524,0.4325,0.3889,4.36,True,True
+500405,Customer 202,Commercial Water Heater,Commercial,2025-12-11,6424.93,5832.23,592.7,0.1016,0.3557,0.361,-0.53,True,False
+500406,Customer 164,Secondary Stoppage,Commercial,2025-10-02,1026.41,1006.16,20.25,0.0201,0.4272,0.5151,-8.79,False,False
+500407,Customer 143,Backflow Repairs/Replacement,Commercial,2025-09-18,1645.64,1486.58,159.06,0.107,0.4389,0.5607,-12.18,False,False
+500408,Customer 116,Investigation/Estimate Only,Multifamily / Light Commercial,2025-02-10,129.88,149.99,-20.11,-0.1341,0.5536,0.3847,16.89,True,False
+500409,Customer 205,Ejection Pump System,Multifamily / Light Commercial,2025-01-26,8237.39,7999.37,238.02,0.0298,0.3723,0.3463,2.6,True,False
+500410,Customer 187,General Plumbing Service,Commercial,2025-01-17,743.74,711.66,32.08,0.0451,0.5075,0.5734,-6.59,False,False
+500412,Customer 019,Investigation/Estimate Only,Multifamily / Light Commercial,2025-03-15,389.96,487.1,-97.14,-0.1994,0.7348,0.6979,3.69,False,False
+500413,Customer 001,Commercial Water Heater,Multifamily / Light Commercial,2025-12-28,28931.61,27008.91,1922.7,0.0712,0.5653,0.3902,17.51,True,False
+500414,Customer 052,Investigation/Estimate Only,Commercial,2025-02-18,282.25,347.31,-65.06,-0.1873,0.2719,0.2223,4.96,True,False
+500415,Customer 014,Secondary Stoppage,Commercial,2025-12-12,772.46,825.44,-52.98,-0.0642,0.6161,0.8391,-22.3,False,False
+500416,Customer 047,Investigation/Estimate Only,Multifamily / Light Commercial,2025-09-01,989.4,983.53,5.87,0.006,0.9,0.85,5.0,False,False
+500417,Customer 025,Hydro Jetting,Multifamily / Light Commercial,2025-02-08,662.83,744.43,-81.6,-0.1096,0.2799,0.4278,-14.79,False,False
+500420,Customer 138,General Plumbing Service,Commercial,2025-05-04,2724.28,2690.96,33.32,0.0124,0.7864,0.8029,-1.65,False,False
+500421,Customer 078,Investigation/Estimate Only,Commercial,2025-04-26,285.73,282.91,2.82,0.01,0.2734,0.3641,-9.07,True,False
+500422,Customer 039,Investigation/Estimate Only,Commercial,2025-07-12,172.93,197.19,-24.26,-0.123,0.1953,0.2545,-5.92,True,False
+500423,Customer 155,Investigation/Estimate Only,Commercial,2025-02-17,152.69,140.7,11.99,0.0852,-0.0052,-0.028,2.28,True,False
+500424,Customer 214,Water Repipe/Install,Commercial,2025-02-17,7285.91,8229.17,-943.26,-0.1146,0.1187,0.2844,-16.57,True,False
+500425,Customer 174,Main Line Stoppage,Commercial,2025-09-11,755.41,562.4,193.01,0.3432,0.3856,0.3928,-0.72,True,True
+500426,Customer 215,Secondary Stoppage,Commercial,2025-12-28,373.21,379.44,-6.23,-0.0164,0.7729,0.6811,9.18,False,False
+500427,Customer 130,Backflow Repairs/Replacement,Multifamily / Light Commercial,2025-04-10,782.1,948.8,-166.7,-0.1757,0.2683,0.3358,-6.75,True,False
+500428,Customer 149,Investigation/Estimate Only,Commercial,2025-12-07,687.88,807.04,-119.16,-0.1477,0.4213,0.5325,-11.12,False,False
+500429,Customer 033,Main Line Stoppage,Commercial,2025-05-06,887.48,757.15,130.33,0.1721,0.5716,0.5827,-1.11,False,True
+500430,Customer 188,Leak Detection,Multifamily / Light Commercial,2025-05-03,921.83,982.1,-60.27,-0.0614,0.3878,0.4149,-2.71,False,False
+500431,Customer 165,Hydro Jetting,Multifamily / Light Commercial,2025-02-02,1496.31,1881.12,-384.81,-0.2046,0.5224,0.57,-4.76,False,False
+500432,Customer 056,Backflow Testing,Multifamily / Light Commercial,2025-06-04,298.54,264.65,33.89,0.1281,0.5611,0.6562,-9.51,False,True
+500433,Customer 079,Backflow Repairs/Replacement,Multifamily / Light Commercial,2025-07-01,5499.39,5864.99,-365.6,-0.0623,0.5098,0.4683,4.15,False,False
+500434,Customer 135,Investigation/Estimate Only,Multifamily / Light Commercial,2025-08-31,153.05,139.39,13.66,0.098,0.169,0.1214,4.76,True,False
+500435,Customer 003,Secondary Stoppage,Commercial,2025-02-27,346.21,303.6,42.61,0.1403,0.4708,0.5561,-8.53,False,True
+500436,Customer 180,Investigation/Estimate Only,Commercial,2025-03-10,248.86,239.02,9.84,0.0412,0.5619,0.6361,-7.42,False,False
+500437,Customer 062,Fixtures,Multifamily / Light Commercial,2025-06-07,909.5,669.05,240.45,0.3594,0.5291,0.5182,1.09,False,True
+500438,Customer 017,Hydro Jetting,Commercial,2025-01-26,773.98,1044.1,-270.12,-0.2587,0.5305,0.6077,-7.72,False,False
+500439,Customer 073,General Plumbing Service,Commercial,2025-02-22,1530.59,1744.64,-214.05,-0.1227,0.6832,0.6689,1.43,False,False
+500441,Customer 061,Investigation/Estimate Only,Commercial,2025-12-15,255.81,266.02,-10.21,-0.0384,0.6009,0.4835,11.74,False,False
+500442,Customer 119,Hydro Jetting,Commercial,2025-07-29,6379.96,4764.09,1615.87,0.3392,0.6425,0.6473,-0.48,False,True
+500443,Customer 179,Secondary Stoppage,Commercial,2025-02-22,150.03,118.16,31.87,0.2697,0.3375,0.4346,-9.71,False,True
+500445,Customer 168,Backflow Testing,Multifamily / Light Commercial,2025-07-10,322.48,270.24,52.24,0.1933,0.6831,0.6517,3.14,False,True
+500446,Customer 064,Tankless Water Heater,Commercial,2025-09-19,4991.2,5666.14,-674.94,-0.1191,0.489,0.5032,-1.42,False,False
+500447,Customer 154,Water Repipe/Install,Multifamily / Light Commercial,2025-03-13,505.76,562.97,-57.21,-0.1016,0.6202,0.6322,-1.2,False,False
+500449,Customer 031,Water Repipe/Install,Multifamily / Light Commercial,2025-01-28,16613.05,18970.82,-2357.77,-0.1243,0.565,0.527,3.8,False,False
+500450,Customer 174,Investigation/Estimate Only,Multifamily / Light Commercial,2025-08-17,366.96,415.83,-48.87,-0.1175,0.6056,0.5503,5.53,False,False
+500451,Customer 178,Commercial Water Heater,Commercial,2025-03-15,3314.99,2708.53,606.46,0.2239,0.4124,0.4096,0.28,False,True
+500452,Customer 216,Backflow Testing,Multifamily / Light Commercial,2025-11-28,179.64,186.46,-6.82,-0.0366,0.585,0.5899,-0.49,False,False
+500453,Customer 149,Investigation/Estimate Only,Single-family Residential,2025-01-20,242.35,246.47,-4.12,-0.0167,0.8539,0.6888,16.51,False,False
+500454,Customer 103,Investigation/Estimate Only,Multifamily / Light Commercial,2025-08-27,325.76,291.86,33.9,0.1162,0.5169,0.4209,9.6,False,True
+500455,Customer 043,Secondary Stoppage,Single-family Residential,2025-02-20,604.61,805.64,-201.03,-0.2495,0.8197,0.753,6.67,False,False
+500456,Customer 065,Tankless Water Heater,Multifamily / Light Commercial,2025-09-08,2205.52,2188.24,17.28,0.0079,0.2845,0.274,1.05,True,False
+500457,Customer 143,Fixtures,Commercial,2025-06-30,1041.77,1246.93,-205.16,-0.1645,0.5906,0.6711,-8.05,False,False
+500458,Customer 077,Hydro Jetting,Multifamily / Light Commercial,2025-12-20,1514.55,1584.53,-69.98,-0.0442,0.7532,0.663,9.02,False,False
+500459,Customer 107,General Plumbing Service,Multifamily / Light Commercial,2025-08-26,208.68,228.81,-20.13,-0.088,0.5183,0.5068,1.15,False,False
+500460,Customer 037,Water Repipe/Install,Multifamily / Light Commercial,2025-05-16,11747.31,12990.46,-1243.15,-0.0957,0.3858,0.432,-4.62,False,False
+500461,Customer 097,Investigation/Estimate Only,Commercial,2025-02-01,128.26,124.06,4.2,0.0339,0.2412,0.2607,-1.95,True,False
+500462,Customer 053,Video Camera Inspection,Multifamily / Light Commercial,2025-08-06,958.03,927.26,30.77,0.0332,0.6968,0.7741,-7.73,False,False
+500463,Customer 025,Secondary Stoppage,Commercial,2025-06-10,421.84,436.22,-14.38,-0.033,0.5849,0.5003,8.46,False,False
+500464,Customer 030,Water Repipe/Install,Multifamily / Light Commercial,2025-01-20,9080.55,8602.24,478.31,0.0556,0.6825,0.6279,5.46,False,False
+500465,Customer 115,Backflow Testing,Commercial,2025-08-01,700.34,805.26,-104.92,-0.1303,0.8426,0.8281,1.45,False,False
+500466,Customer 081,General Plumbing Service,Multifamily / Light Commercial,2025-03-18,864.74,784.53,80.21,0.1022,0.6236,0.627,-0.34,False,False
+500467,Customer 022,Video Camera Inspection,Multifamily / Light Commercial,2025-03-27,1190.1,1228.08,-37.98,-0.0309,0.6211,0.6756,-5.45,False,False
+500468,Customer 114,Investigation/Estimate Only,Commercial,2025-01-04,2291.42,2470.67,-179.25,-0.0726,0.6796,0.85,-17.04,False,False
+500469,Customer 037,Fixtures,Multifamily / Light Commercial,2025-05-16,1352.75,1535.84,-183.09,-0.1192,0.4124,0.5254,-11.3,False,False
+500470,Customer 004,Emergency Call,Commercial,2025-03-21,3875.77,4021.38,-145.61,-0.0362,0.786,0.8454,-5.94,False,False
+500471,Customer 030,Fixtures,Single-family Residential,2025-01-27,538.85,420.78,118.07,0.2806,0.402,0.4734,-7.14,False,True
+500472,Customer 099,Investigation/Estimate Only,Multifamily / Light Commercial,2025-06-08,295.63,298.46,-2.83,-0.0095,0.1498,0.1267,2.31,True,False
+500473,Customer 210,Investigation/Estimate Only,Commercial,2025-03-22,542.88,655.38,-112.5,-0.1717,0.7855,0.7206,6.49,False,False
+500474,Customer 054,Secondary Stoppage,Commercial,2025-02-18,681.69,599.12,82.57,0.1378,0.4828,0.4931,-1.03,False,True
+500475,Customer 063,Secondary Stoppage,Commercial,2025-06-20,538.67,579.71,-41.04,-0.0708,0.5231,0.4104,11.27,False,False
+500476,Customer 054,Emergency Call,Commercial,2025-01-24,562.58,539.61,22.97,0.0426,0.4284,0.491,-6.26,False,False
+500477,Customer 079,Water Repipe/Install,Multifamily / Light Commercial,2025-12-28,6121.34,6733.03,-611.69,-0.0908,0.4624,0.4732,-1.08,False,False
+500478,Customer 158,General Plumbing Service,Multifamily / Light Commercial,2025-06-21,549.28,460.76,88.52,0.1921,0.5418,0.5459,-0.41,False,True
+500479,Customer 071,Emergency Call,Commercial,2025-12-30,1174.76,1288.98,-114.22,-0.0886,0.7134,0.626,8.74,False,False
+500480,Customer 145,Emergency Call,Multifamily / Light Commercial,2025-11-18,995.95,823.32,172.63,0.2097,0.4696,0.4611,0.85,False,True
+500481,Customer 198,Secondary Stoppage,Commercial,2025-12-24,241.75,286.91,-45.16,-0.1574,0.4555,0.4448,1.07,False,False
+500482,Customer 209,Water Repipe/Install,Multifamily / Light Commercial,2025-07-18,22166.98,23185.66,-1018.68,-0.0439,0.3474,0.4798,-13.24,False,False
+500483,Customer 124,Secondary Stoppage,Commercial,2025-06-04,2534.09,2094.29,439.8,0.21,0.7393,0.8113,-7.2,False,True
+500484,Customer 157,Investigation/Estimate Only,Multifamily / Light Commercial,2025-09-20,104.84,102.26,2.58,0.0252,0.3741,0.2864,8.77,True,False
+500485,Customer 203,Emergency Call,Multifamily / Light Commercial,2025-01-30,3146.43,2346.82,799.61,0.3407,0.4579,0.6239,-16.6,False,True
+500486,Customer 174,Fixtures,Commercial,2025-11-03,569.46,593.42,-23.96,-0.0404,0.4277,0.3203,10.74,True,False
+500487,Customer 066,Secondary Stoppage,Multifamily / Light Commercial,2025-04-29,973.19,937.06,36.13,0.0386,0.6259,0.5859,4.0,False,False
+500488,Customer 030,Water Repipe/Install,Single-family Residential,2025-01-03,8136.34,6327.98,1808.36,0.2858,0.3325,0.3923,-5.98,True,True
+500489,Customer 026,Water Repipe/Install,Commercial,2025-03-28,10718.97,13868.3,-3149.33,-0.2271,0.536,0.6026,-6.66,False,False
+500490,Customer 195,Backflow Testing,Commercial,2025-03-30,212.07,281.13,-69.06,-0.2457,0.8283,0.6766,15.17,False,False
+500491,Customer 123,General Plumbing Service,Multifamily / Light Commercial,2025-01-06,664.38,754.4,-90.02,-0.1193,0.8265,0.7136,11.29,False,False
+500492,Customer 066,General Plumbing Service,Commercial,2025-09-02,1140.04,1016.07,123.97,0.122,0.7239,0.7335,-0.96,False,True
+500493,Customer 077,Secondary Stoppage,Commercial,2025-02-04,732.09,965.15,-233.06,-0.2415,0.5943,0.5835,1.08,False,False
+500494,Customer 062,Main Line Stoppage,Commercial,2025-11-06,1069.78,981.85,87.93,0.0896,0.4305,0.4822,-5.17,False,False
+500495,Customer 177,Fixtures,Multifamily / Light Commercial,2025-06-15,327.53,303.55,23.98,0.079,0.5941,0.5833,1.08,False,False
+500496,Customer 135,Emergency Call,Commercial,2025-09-20,479.69,368.38,111.31,0.3022,0.521,0.5749,-5.39,False,True
+500497,Customer 194,General Plumbing Service,Commercial,2025-05-04,677.99,586.08,91.91,0.1568,0.4989,0.5052,-0.63,False,True
+500498,Customer 067,Emergency Call,Multifamily / Light Commercial,2025-02-18,900.13,853.52,46.61,0.0546,0.6462,0.5014,14.48,False,False
+500499,Customer 104,Fixtures,Multifamily / Light Commercial,2025-03-07,1566.8,1301.47,265.33,0.2039,0.8424,0.85,-0.76,False,True
+500500,Customer 027,Hydro Jetting,Multifamily / Light Commercial,2025-08-24,846.79,783.46,63.33,0.0808,0.4951,0.5789,-8.38,False,False
+500501,Customer 214,Commercial Water Heater,Commercial,2025-09-19,9262.81,9949.43,-686.62,-0.069,0.3542,0.4635,-10.93,False,False
+500502,Customer 113,Leak Detection,Multifamily / Light Commercial,2025-04-08,1179.84,1424.39,-244.55,-0.1717,0.6723,0.6621,1.02,False,False
+500503,Customer 122,Fixtures,Multifamily / Light Commercial,2025-05-11,682.91,746.68,-63.77,-0.0854,0.4883,0.5492,-6.09,False,False
+500504,Customer 092,Fixtures,Commercial,2025-12-11,916.8,922.34,-5.54,-0.006,0.6793,0.6596,1.97,False,False
+500505,Customer 060,Main Line Stoppage,Multifamily / Light Commercial,2025-11-07,787.81,767.66,20.15,0.0262,0.4093,0.5389,-12.96,False,False
+500506,Customer 209,Secondary Stoppage,Commercial,2025-05-31,790.08,1162.36,-372.28,-0.3203,0.6423,0.5871,5.52,False,False
+500507,Customer 108,Backflow Repairs/Replacement,Commercial,2025-03-29,2370.55,2451.28,-80.73,-0.0329,0.4655,0.5503,-8.48,False,False
+500508,Customer 149,Fixtures,Commercial,2025-04-20,406.09,404.36,1.73,0.0043,0.4749,0.4712,0.37,False,False
+500509,Customer 009,Investigation/Estimate Only,Multifamily / Light Commercial,2025-07-16,140.3,129.65,10.65,0.0821,0.1606,0.1877,-2.71,True,False
+500510,Customer 061,Investigation/Estimate Only,Commercial,2025-07-26,209.64,168.52,41.12,0.244,0.3345,0.197,13.75,True,True
+500513,Customer 023,Secondary Stoppage,Commercial,2025-06-30,524.19,509.99,14.2,0.0278,0.4994,0.4857,1.37,False,False
+500514,Customer 179,Emergency Call,Commercial,2025-10-19,481.09,557.1,-76.01,-0.1364,0.5743,0.4187,15.56,False,False
+500515,Customer 068,Investigation/Estimate Only,Multifamily / Light Commercial,2025-02-25,425.7,585.33,-159.63,-0.2727,0.6191,0.5742,4.49,False,False
+500516,Customer 061,Secondary Stoppage,Commercial,2025-05-30,274.76,249.09,25.67,0.1031,0.6015,0.4875,11.4,False,False
+500517,Customer 125,Hydro Jetting,Commercial,2025-02-28,1717.92,1975.45,-257.53,-0.1304,0.5355,0.5522,-1.67,False,False
+500519,Customer 010,Main Line Stoppage,Commercial,2025-08-12,393.67,348.37,45.3,0.13,0.3466,0.319,2.76,True,True
+500520,Customer 001,Backflow Repairs/Replacement,Multifamily / Light Commercial,2025-04-15,2510.9,2075.79,435.11,0.2096,0.5373,0.4398,9.75,False,True
+500521,Customer 018,Emergency Call,Commercial,2025-04-07,377.61,491.43,-113.82,-0.2316,0.6377,0.5653,7.24,False,False
+500522,Customer 035,Investigation/Estimate Only,Commercial,2025-12-30,735.08,678.69,56.39,0.0831,0.5107,0.4682,4.25,False,False
+500523,Customer 154,Water Repipe/Install,Commercial,2025-03-04,4440.48,3719.33,721.15,0.1939,0.5128,0.539,-2.62,False,True
+500524,Customer 066,Investigation/Estimate Only,Commercial,2025-03-11,653.5,566.85,86.65,0.1529,0.5552,0.5679,-1.27,False,True
+500525,Customer 016,Emergency Call,Commercial,2025-12-06,171.85,250.68,-78.83,-0.3145,0.4885,0.3975,9.1,True,False
+500526,Customer 004,Toilet,Multifamily / Light Commercial,2025-07-20,392.06,449.63,-57.57,-0.128,0.524,0.4163,10.77,False,False
+500527,Customer 105,Ejection Pump System,Commercial,2025-01-16,5085.68,6294.37,-1208.69,-0.192,0.4288,0.4762,-4.74,False,False
+500528,Customer 185,Hydro Jetting,Multifamily / Light Commercial,2025-06-05,1955.58,1813.21,142.37,0.0785,0.4554,0.5149,-5.95,False,False
+500529,Customer 075,Secondary Stoppage,Multifamily / Light Commercial,2025-07-26,649.22,611.32,37.9,0.062,0.4783,0.5506,-7.23,False,False
+500530,Customer 015,Backflow Testing,Commercial,2025-04-03,147.98,248.57,-100.59,-0.4047,0.6985,0.6321,6.64,False,False
+500531,Customer 051,Backflow Testing,Multifamily / Light Commercial,2025-07-20,189.78,198.75,-8.97,-0.0451,0.4404,0.5148,-7.44,False,False
+500532,Customer 110,Emergency Call,Commercial,2025-08-25,487.75,435.45,52.3,0.1201,0.487,0.4216,6.54,False,True
+500533,Customer 042,General Plumbing Service,Commercial,2025-04-02,376.1,367.93,8.17,0.0222,0.4336,0.3899,4.37,True,False
+500534,Customer 216,Investigation/Estimate Only,Commercial,2025-10-24,277.95,271.98,5.97,0.022,0.7724,0.816,-4.36,False,False
+500535,Customer 168,Secondary Stoppage,Multifamily / Light Commercial,2025-06-15,583.34,617.13,-33.79,-0.0548,0.5806,0.4555,12.51,False,False
+500537,Customer 210,Investigation/Estimate Only,Commercial,2025-02-02,112.33,133.54,-21.21,-0.1588,0.0748,0.1918,-11.7,True,False
+500538,Customer 072,Investigation/Estimate Only,Multifamily / Light Commercial,2025-04-29,377.62,378.59,-0.97,-0.0026,0.7019,0.5691,13.28,False,False
+500539,Customer 031,Backflow Repairs/Replacement,Multifamily / Light Commercial,2025-09-21,3720.96,3692.11,28.85,0.0078,0.69,0.6645,2.55,False,False
+500540,Customer 207,Ejection Pump System,Commercial,2025-11-23,4884.46,4471.77,412.69,0.0923,0.0893,0.2552,-16.59,True,False
+500541,Customer 212,Water Repipe/Install,Multifamily / Light Commercial,2025-03-22,1462.89,1324.51,138.38,0.1045,0.5085,0.3811,12.74,True,False
+500542,Customer 069,Backflow Repairs/Replacement,Multifamily / Light Commercial,2025-12-24,1608.83,1588.37,20.46,0.0129,0.5249,0.4471,7.78,False,False
+500543,Customer 131,Ejection Pump System,Multifamily / Light Commercial,2025-03-12,7409.47,6364.23,1045.24,0.1642,0.1525,0.1868,-3.43,True,True
+500544,Customer 039,Investigation/Estimate Only,Single-family Residential,2025-06-01,120.82,128.02,-7.2,-0.0562,-0.0552,0.022,-7.72,True,False
+500545,Customer 142,Emergency Call,Commercial,2025-04-25,366.67,468.05,-101.38,-0.2166,0.3594,0.4849,-12.55,False,False
+500547,Customer 157,Investigation/Estimate Only,Multifamily / Light Commercial,2025-11-26,385.1,359.38,25.72,0.0716,0.7187,0.5255,19.32,False,False
+500548,Customer 126,Hydro Jetting,Commercial,2025-09-25,1545.59,1516.84,28.75,0.019,0.4697,0.5436,-7.39,False,False
+500549,Customer 155,Emergency Call,Commercial,2025-10-18,1066.73,992.73,74.0,0.0745,0.7489,0.85,-10.11,False,False
+500550,Customer 123,Fixtures,Single-family Residential,2025-04-03,504.45,622.52,-118.07,-0.1897,0.6703,0.6489,2.14,False,False
+500551,Customer 181,Investigation/Estimate Only,Commercial,2025-12-12,182.73,144.04,38.69,0.2686,-0.1186,0.0124,-13.1,True,True
+500553,Customer 107,Leak Detection,Multifamily / Light Commercial,2025-08-26,897.13,810.73,86.4,0.1066,0.3079,0.3864,-7.85,True,False
+500554,Customer 092,Investigation/Estimate Only,Commercial,2025-09-12,1370.79,1432.68,-61.89,-0.0432,0.8674,0.7878,7.96,False,False
+500555,Customer 118,Secondary Stoppage,Commercial,2025-08-30,467.05,543.28,-76.23,-0.1403,0.7666,0.7295,3.71,False,False
+500556,Customer 032,Secondary Stoppage,Single-family Residential,2025-08-08,610.09,525.23,84.86,0.1616,0.6721,0.703,-3.09,False,True
+500559,Customer 024,Fixtures,Commercial,2025-11-27,1256.89,1505.74,-248.85,-0.1653,0.5043,0.5028,0.15,False,False
+500560,Customer 140,Investigation/Estimate Only,Multifamily / Light Commercial,2025-05-23,754.4,563.32,191.08,0.3392,0.4246,0.46,-3.54,False,True
+500561,Customer 147,Secondary Stoppage,Commercial,2025-07-06,623.24,686.37,-63.13,-0.092,0.6183,0.6233,-0.5,False,False
+500562,Customer 105,Backflow Repairs/Replacement,Multifamily / Light Commercial,2025-03-07,3790.36,3012.82,777.54,0.2581,0.3163,0.3772,-6.09,True,True
+500563,Customer 008,General Plumbing Service,Commercial,2025-05-10,1226.05,1260.94,-34.89,-0.0277,0.5301,0.5765,-4.64,False,False
+500564,Customer 008,General Plumbing Service,Commercial,2025-10-09,1045.19,844.86,200.33,0.2371,0.4817,0.5306,-4.89,False,True
+500565,Customer 061,General Plumbing Service,Multifamily / Light Commercial,2025-08-22,328.52,369.22,-40.7,-0.1102,0.2232,0.2813,-5.81,True,False
+500566,Customer 023,Hydro Jetting,Multifamily / Light Commercial,2025-03-19,1005.2,1002.37,2.83,0.0028,0.5044,0.4209,8.35,False,False
+500567,Customer 021,Investigation/Estimate Only,Single-family Residential,2025-07-19,283.82,253.25,30.57,0.1207,0.37,0.3084,6.16,True,True
+500568,Customer 036,Emergency Call,Commercial,2025-10-24,425.2,386.79,38.41,0.0993,0.2934,0.368,-7.46,True,False
+500569,Customer 042,Fixtures,Multifamily / Light Commercial,2025-02-15,723.85,621.27,102.58,0.1651,0.4437,0.5393,-9.56,False,True
+500570,Customer 185,Emergency Call,Multifamily / Light Commercial,2025-01-23,1271.84,1372.17,-100.33,-0.0731,0.5887,0.6013,-1.26,False,False
+500571,Customer 141,Backflow Repairs/Replacement,Commercial,2025-05-24,4285.97,4232.13,53.84,0.0127,0.8986,0.7262,17.24,False,False
+500572,Customer 007,Fixtures,Commercial,2025-08-28,2554.87,2151.91,402.96,0.1873,0.5522,0.6344,-8.22,False,True
+500573,Customer 139,Hydro Jetting,Multifamily / Light Commercial,2025-04-25,959.09,1072.55,-113.46,-0.1058,0.5475,0.5604,-1.29,False,False
+500574,Customer 031,Backflow Repairs/Replacement,Commercial,2025-10-27,5011.16,4614.83,396.33,0.0859,0.5,0.4929,0.71,False,False
+500575,Customer 093,Fixtures,Multifamily / Light Commercial,2025-11-06,1257.62,1300.37,-42.75,-0.0329,0.6317,0.6404,-0.87,False,False
+500576,Customer 009,Leak Detection,Single-family Residential,2025-07-14,950.04,921.58,28.46,0.0309,0.526,0.5627,-3.67,False,False
+500577,Customer 020,Water Repipe/Install,Commercial,2025-05-19,2162.57,2135.49,27.08,0.0127,0.5035,0.4111,9.24,False,False
+500578,Customer 030,Backflow Repairs/Replacement,Commercial,2025-01-16,2141.76,2428.97,-287.21,-0.1182,0.2445,0.2081,3.64,True,False
+500581,Customer 078,Fixtures,Commercial,2025-06-11,1742.26,1813.16,-70.9,-0.0391,0.7336,0.6659,6.77,False,False
+500582,Customer 137,Investigation/Estimate Only,Multifamily / Light Commercial,2025-07-08,210.91,206.42,4.49,0.0218,0.5068,0.4596,4.72,False,False
+500583,Customer 159,Emergency Call,Commercial,2025-10-03,804.16,816.74,-12.58,-0.0154,0.5622,0.4907,7.15,False,False
+500584,Customer 161,Leak Detection,Multifamily / Light Commercial,2025-09-11,1685.6,1363.85,321.75,0.2359,0.6217,0.4949,12.68,False,True
+500585,Customer 128,General Plumbing Service,Commercial,2025-02-19,387.98,336.94,51.04,0.1515,0.6641,0.5576,10.65,False,True
+500586,Customer 121,Investigation/Estimate Only,Commercial,2025-09-03,200.75,192.38,8.37,0.0435,0.4663,0.2803,18.6,True,False
+500588,Customer 053,Secondary Stoppage,Multifamily / Light Commercial,2025-10-02,597.36,674.58,-77.22,-0.1145,0.6779,0.5805,9.74,False,False
+500589,Customer 108,Investigation/Estimate Only,Commercial,2025-06-25,134.08,152.99,-18.91,-0.1236,-0.0647,-0.0111,-5.36,True,False
+500590,Customer 003,Leak Detection,Commercial,2025-07-10,1675.82,1293.0,382.82,0.2961,0.7273,0.6595,6.78,False,True
+500592,Customer 082,Secondary Stoppage,Multifamily / Light Commercial,2025-08-30,155.03,182.71,-27.68,-0.1515,0.62,0.5632,5.68,False,False
+500594,Customer 211,Investigation/Estimate Only,Multifamily / Light Commercial,2025-05-05,187.32,184.17,3.15,0.0171,0.592,0.4384,15.36,False,False
+500595,Customer 110,Secondary Stoppage,Commercial,2025-04-07,398.69,378.21,20.48,0.0541,0.4575,0.5349,-7.74,False,False
+500596,Customer 190,Backflow Testing,Commercial,2025-05-03,456.58,478.95,-22.37,-0.0467,0.7414,0.6968,4.46,False,False
+500599,Customer 006,General Plumbing Service,Commercial,2025-09-19,127.59,150.17,-22.58,-0.1504,0.2928,0.3473,-5.45,True,False
+500601,Customer 208,Hydro Jetting,Commercial,2025-12-13,2331.84,2643.01,-311.17,-0.1177,0.7559,0.7149,4.1,False,False
+500602,Customer 105,Leak Detection,Multifamily / Light Commercial,2025-03-08,1226.8,1336.35,-109.55,-0.082,0.5159,0.5331,-1.72,False,False
+500603,Customer 071,Backflow Testing,Multifamily / Light Commercial,2025-09-02,200.73,224.64,-23.91,-0.1064,0.6054,0.567,3.84,False,False
+500604,Customer 099,Toilet,Multifamily / Light Commercial,2025-03-07,1377.34,1148.59,228.75,0.1992,0.3331,0.4459,-11.28,False,True
+500605,Customer 057,Hydro Jetting,Multifamily / Light Commercial,2025-07-19,1685.59,1687.9,-2.31,-0.0014,0.5239,0.4604,6.35,False,False
+500606,Customer 192,Commercial Water Heater,Multifamily / Light Commercial,2025-06-29,2313.19,2510.44,-197.25,-0.0786,0.5783,0.5618,1.65,False,False
+500607,Customer 220,Investigation/Estimate Only,Single-family Residential,2025-06-13,196.16,193.06,3.1,0.0161,0.47,0.4578,1.22,False,False
+500609,Customer 159,Emergency Call,Commercial,2025-10-30,401.49,364.93,36.56,0.1002,0.399,0.243,15.6,True,False
+500610,Customer 074,Water Repipe/Install,Multifamily / Light Commercial,2025-04-26,4191.45,4419.93,-228.48,-0.0517,0.5165,0.5471,-3.06,False,False
+500611,Customer 011,General Plumbing Service,Multifamily / Light Commercial,2025-11-07,302.65,266.58,36.07,0.1353,0.2829,0.2555,2.74,True,True
+500612,Customer 203,Toilet,Commercial,2025-03-09,630.88,779.51,-148.63,-0.1907,0.5848,0.5768,0.8,False,False
+500613,Customer 014,Tankless Water Heater,Multifamily / Light Commercial,2025-04-17,5714.21,4860.28,853.93,0.1757,0.378,0.3622,1.58,True,True
+500614,Customer 046,Secondary Stoppage,Commercial,2025-04-24,853.31,854.46,-1.15,-0.0013,0.8072,0.6295,17.77,False,False
+500615,Customer 006,Hydro Jetting,Multifamily / Light Commercial,2025-12-14,1339.63,1349.35,-9.72,-0.0072,0.711,0.7059,0.51,False,False
+500616,Customer 104,Hydro Jetting,Commercial,2025-02-13,4318.17,4819.13,-500.96,-0.104,0.5681,0.6135,-4.54,False,False
+500617,Customer 132,Emergency Call,Commercial,2025-05-25,487.67,597.76,-110.09,-0.1842,0.5323,0.3826,14.97,True,False
+500618,Customer 071,Investigation/Estimate Only,Commercial,2025-06-04,284.88,379.84,-94.96,-0.25,0.3367,0.3613,-2.46,True,False
+500619,Customer 016,Investigation/Estimate Only,Commercial,2025-10-20,572.12,646.04,-73.92,-0.1144,0.6145,0.7429,-12.84,False,False
+500621,Customer 206,Fixtures,Commercial,2025-12-19,529.41,486.52,42.89,0.0882,0.357,0.4163,-5.93,False,False
+500622,Customer 178,Tankless Water Heater,Commercial,2025-09-28,5124.15,5987.5,-863.35,-0.1442,0.3875,0.4872,-9.97,False,False
+500623,Customer 207,Fixtures,Commercial,2025-09-14,476.84,621.1,-144.26,-0.2323,0.5139,0.6579,-14.4,False,False
+500624,Customer 117,Tankless Water Heater,Commercial,2025-10-02,10914.93,12638.28,-1723.35,-0.1364,0.5106,0.5396,-2.9,False,False
+500625,Customer 121,Emergency Call,Commercial,2025-02-28,539.11,572.14,-33.03,-0.0577,0.6454,0.651,-0.56,False,False
+500626,Customer 173,Main Line Stoppage,Commercial,2025-06-13,1935.35,2041.13,-105.78,-0.0518,0.9,0.85,5.0,False,False
+500627,Customer 136,Investigation/Estimate Only,Commercial,2025-08-02,364.81,372.0,-7.19,-0.0193,0.1724,0.122,5.04,True,False
+500628,Customer 097,Water Repipe/Install,Commercial,2025-03-18,5115.45,4429.38,686.07,0.1549,0.5,0.4533,4.67,False,True
+500629,Customer 065,Main Line Stoppage,Commercial,2025-02-13,1038.51,874.62,163.89,0.1874,0.3488,0.4203,-7.15,False,True
+500630,Customer 107,Leak Detection,Commercial,2025-02-19,1750.88,1345.98,404.9,0.3008,0.4477,0.3769,7.08,True,True
+500631,Customer 015,Main Line Stoppage,Multifamily / Light Commercial,2025-10-16,699.12,924.44,-225.32,-0.2437,0.6632,0.5519,11.13,False,False
+500632,Customer 043,Investigation/Estimate Only,Single-family Residential,2025-08-28,155.35,178.23,-22.88,-0.1284,0.4315,0.3999,3.16,True,False
+500633,Customer 163,Emergency Call,Multifamily / Light Commercial,2025-04-13,1219.26,1103.63,115.63,0.1048,0.6949,0.6611,3.38,False,False
+500634,Customer 191,Investigation/Estimate Only,Multifamily / Light Commercial,2025-09-27,214.08,229.73,-15.65,-0.0681,0.1881,0.2893,-10.12,True,False
+500635,Customer 023,Investigation/Estimate Only,Multifamily / Light Commercial,2025-09-11,214.0,189.53,24.47,0.1291,0.3112,0.2268,8.44,True,True
+500636,Customer 022,Backflow Testing,Commercial,2025-10-26,738.35,716.1,22.25,0.0311,0.9,0.8017,9.83,False,False
+500637,Customer 019,Backflow Testing,Multifamily / Light Commercial,2025-11-29,250.96,202.9,48.06,0.2369,0.5752,0.5494,2.58,False,True
+500638,Customer 175,Hydro Jetting,Multifamily / Light Commercial,2025-11-19,2109.03,1823.78,285.25,0.1564,0.7175,0.765,-4.75,False,True
+500639,Customer 069,Commercial Water Heater,Multifamily / Light Commercial,2025-03-08,5929.84,5115.67,814.17,0.1592,0.3344,0.3474,-1.3,True,True
+500640,Customer 072,Hydro Jetting,Multifamily / Light Commercial,2025-10-08,982.46,1047.15,-64.69,-0.0618,0.6239,0.6575,-3.36,False,False
+500641,Customer 003,Main Line Stoppage,Commercial,2025-05-24,244.19,247.81,-3.62,-0.0146,0.5398,0.5686,-2.88,False,False
+500642,Customer 214,Investigation/Estimate Only,Multifamily / Light Commercial,2025-05-28,134.39,140.84,-6.45,-0.0458,0.3137,0.2619,5.18,True,False
+500643,Customer 096,Secondary Stoppage,Multifamily / Light Commercial,2025-08-25,2019.59,2608.9,-589.31,-0.2259,0.7362,0.7138,2.24,False,False
+500644,Customer 176,General Plumbing Service,Commercial,2025-08-08,255.64,209.41,46.23,0.2208,0.531,0.4507,8.03,False,True
+500645,Customer 156,Backflow Repairs/Replacement,Multifamily / Light Commercial,2025-06-03,637.66,573.53,64.13,0.1118,0.4423,0.4126,2.97,False,True
+500646,Customer 032,Investigation/Estimate Only,Commercial,2025-12-31,566.67,597.6,-30.93,-0.0518,0.573,0.6421,-6.91,False,False
+500647,Customer 177,Fixtures,Single-family Residential,2025-03-05,755.39,631.76,123.63,0.1957,0.4065,0.4466,-4.01,False,True
+500648,Customer 122,Backflow Testing,Multifamily / Light Commercial,2025-02-05,700.94,774.14,-73.2,-0.0946,0.7465,0.7915,-4.5,False,False
+500649,Customer 133,Investigation/Estimate Only,Commercial,2025-01-11,121.48,167.72,-46.24,-0.2757,0.5188,0.5337,-1.49,False,False
+500650,Customer 045,Emergency Call,Multifamily / Light Commercial,2025-10-25,642.34,558.02,84.32,0.1511,0.9,0.8378,6.22,False,True
+500651,Customer 187,Commercial Water Heater,Commercial,2025-05-29,4158.11,5144.8,-986.69,-0.1918,0.4944,0.338,15.64,True,False
+500652,Customer 205,General Plumbing Service,Multifamily / Light Commercial,2025-06-09,1037.78,1069.18,-31.4,-0.0294,0.8279,0.761,6.69,False,False
+500654,Customer 021,Backflow Repairs/Replacement,Multifamily / Light Commercial,2025-06-08,2039.07,1977.92,61.15,0.0309,0.5525,0.543,0.95,False,False
+500655,Customer 187,Emergency Call,Multifamily / Light Commercial,2025-07-29,929.02,878.24,50.78,0.0578,0.4421,0.551,-10.89,False,False
+500656,Customer 196,Backflow Repairs/Replacement,Commercial,2025-01-22,805.53,714.59,90.94,0.1273,0.4769,0.4593,1.76,False,True
+500657,Customer 112,Secondary Stoppage,Commercial,2025-02-27,1173.97,1079.88,94.09,0.0871,0.6852,0.7484,-6.32,False,False
+500658,Customer 128,Water Repipe/Install,Commercial,2025-12-07,926.49,855.89,70.6,0.0825,0.4992,0.3688,13.04,True,False
+500659,Customer 050,Emergency Call,Commercial,2025-06-14,178.07,202.03,-23.96,-0.1186,0.2375,0.366,-12.85,True,False
+500661,Customer 208,Commercial Water Heater,Commercial,2025-05-15,2616.87,2506.25,110.62,0.0441,0.4015,0.3707,3.08,True,False
+500662,Customer 107,Secondary Stoppage,Commercial,2025-05-03,796.37,1028.68,-232.31,-0.2258,0.5559,0.6258,-6.99,False,False
+500663,Customer 061,Investigation/Estimate Only,Commercial,2025-04-11,518.27,419.88,98.39,0.2343,0.5002,0.501,-0.08,False,True
+500664,Customer 153,Emergency Call,Multifamily / Light Commercial,2025-04-18,562.7,712.62,-149.92,-0.2104,0.8296,0.7763,5.33,False,False
+500665,Customer 006,Backflow Testing,Commercial,2025-09-24,192.84,203.41,-10.57,-0.052,0.791,0.7092,8.18,False,False
+500666,Customer 018,Main Line Stoppage,Multifamily / Light Commercial,2025-02-08,1602.24,1997.38,-395.14,-0.1978,0.681,0.6859,-0.49,False,False
+500667,Customer 054,Ejection Pump System,Commercial,2025-04-24,7303.39,8201.68,-898.29,-0.1095,0.6378,0.5769,6.09,False,False
+500668,Customer 100,Secondary Stoppage,Commercial,2025-06-20,445.94,445.04,0.9,0.002,0.6123,0.6653,-5.3,False,False
+500669,Customer 081,Emergency Call,Multifamily / Light Commercial,2025-07-17,1389.51,1509.21,-119.7,-0.0793,0.6447,0.6251,1.96,False,False
+500670,Customer 042,Investigation/Estimate Only,Commercial,2025-11-18,600.3,512.36,87.94,0.1716,0.5795,0.4993,8.02,False,True
+500671,Customer 078,Water Repipe/Install,Commercial,2025-12-03,5458.76,5279.09,179.67,0.034,0.593,0.5664,2.66,False,False
+500672,Customer 074,Ejection Pump System,Multifamily / Light Commercial,2025-04-19,1891.45,2032.59,-141.14,-0.0694,0.1703,0.2126,-4.23,True,False
+500673,Customer 116,Backflow Testing,Commercial,2025-07-16,368.01,375.53,-7.52,-0.02,0.6255,0.6478,-2.23,False,False
+500674,Customer 124,Water Repipe/Install,Commercial,2025-01-09,9669.45,8173.98,1495.47,0.183,0.5753,0.494,8.13,False,True
+500675,Customer 195,Emergency Call,Multifamily / Light Commercial,2025-08-14,1614.75,1421.02,193.73,0.1363,0.7094,0.7967,-8.73,False,True
+500676,Customer 178,Leak Detection,Commercial,2025-02-25,1161.12,1400.32,-239.2,-0.1708,0.2973,0.3728,-7.55,True,False
+500677,Customer 065,Fixtures,Multifamily / Light Commercial,2025-01-27,143.25,159.54,-16.29,-0.1021,0.5948,0.5467,4.81,False,False
+500678,Customer 199,Investigation/Estimate Only,Commercial,2025-09-03,669.19,624.7,44.49,0.0712,0.5504,0.5855,-3.51,False,False
+500679,Customer 115,Emergency Call,Single-family Residential,2025-03-07,1077.34,1023.11,54.23,0.053,0.3939,0.5101,-11.62,False,False
+500680,Customer 042,Investigation/Estimate Only,Multifamily / Light Commercial,2025-06-24,295.22,350.43,-55.21,-0.1575,0.8682,0.7601,10.81,False,False
+500681,Customer 075,Secondary Stoppage,Single-family Residential,2025-02-06,505.57,454.5,51.07,0.1124,0.4366,0.5246,-8.8,False,True
+500682,Customer 164,Investigation/Estimate Only,Multifamily / Light Commercial,2025-09-30,202.16,233.34,-31.18,-0.1336,0.5276,0.5436,-1.6,False,False
+500683,Customer 181,Fixtures,Commercial,2025-10-07,859.01,718.49,140.52,0.1956,0.3759,0.4255,-4.96,False,True
+500684,Customer 083,General Plumbing Service,Multifamily / Light Commercial,2025-07-29,753.7,698.25,55.45,0.0794,0.605,0.6288,-2.38,False,False
+500685,Customer 035,Emergency Call,Commercial,2025-11-02,524.08,631.26,-107.18,-0.1698,0.5317,0.6025,-7.08,False,False
+500686,Customer 043,Emergency Call,Multifamily / Light Commercial,2025-06-09,228.36,248.04,-19.68,-0.0793,0.5573,0.5002,5.71,False,False
+500687,Customer 023,Toilet,Multifamily / Light Commercial,2025-03-10,1457.55,1587.69,-130.14,-0.082,0.6682,0.6593,0.89,False,False
+500688,Customer 154,Hydro Jetting,Commercial,2025-02-25,959.04,936.58,22.46,0.024,0.6267,0.548,7.87,False,False
+500689,Customer 111,Fixtures,Multifamily / Light Commercial,2025-03-22,770.44,794.76,-24.32,-0.0306,0.4294,0.4781,-4.87,False,False
+500690,Customer 100,Secondary Stoppage,Commercial,2025-03-15,638.14,770.54,-132.4,-0.1718,0.8208,0.6502,17.06,False,False
+500691,Customer 148,Commercial Water Heater,Multifamily / Light Commercial,2025-04-28,16162.68,20436.81,-4274.13,-0.2091,0.3137,0.4661,-15.24,False,False
+500692,Customer 183,Secondary Stoppage,Multifamily / Light Commercial,2025-03-20,1197.38,1106.27,91.11,0.0824,0.5859,0.7127,-12.68,False,False
+500693,Customer 176,Secondary Stoppage,Commercial,2025-08-04,332.96,319.25,13.71,0.0429,0.7464,0.6062,14.02,False,False
+500694,Customer 031,Leak Detection,Multifamily / Light Commercial,2025-02-24,629.28,619.47,9.81,0.0158,0.5557,0.5178,3.79,False,False
+500695,Customer 130,Fixtures,Multifamily / Light Commercial,2025-08-15,423.16,406.65,16.51,0.0406,0.5874,0.5601,2.73,False,False
+500696,Customer 195,Hydro Jetting,Commercial,2025-05-02,505.34,557.06,-51.72,-0.0928,0.5445,0.51,3.45,False,False
+500697,Customer 171,Water Repipe/Install,Multifamily / Light Commercial,2025-09-08,1357.05,1320.6,36.45,0.0276,0.3792,0.3335,4.57,True,False
+500699,Customer 087,Secondary Stoppage,Multifamily / Light Commercial,2025-11-27,768.71,556.72,211.99,0.3808,0.6134,0.5894,2.4,False,True
+500700,Customer 196,Secondary Stoppage,Commercial,2025-06-10,842.63,716.41,126.22,0.1762,0.5465,0.6238,-7.73,False,True
+500701,Customer 008,Secondary Stoppage,Multifamily / Light Commercial,2025-04-18,1021.0,1067.17,-46.17,-0.0433,0.5961,0.5306,6.55,False,False
+500702,Customer 116,Investigation/Estimate Only,Multifamily / Light Commercial,2025-08-04,179.53,194.82,-15.29,-0.0785,0.5295,0.4766,5.29,False,False
+500703,Customer 026,Commercial Water Heater,Commercial,2025-08-29,8443.53,14788.98,-6345.45,-0.4291,0.5498,0.4355,11.43,False,False
+500704,Customer 197,Secondary Stoppage,Commercial,2025-06-10,523.11,450.84,72.27,0.1603,0.5546,0.4135,14.11,False,True
+500705,Customer 009,Water Repipe/Install,Multifamily / Light Commercial,2025-07-24,7825.89,6999.96,825.93,0.118,0.6736,0.6472,2.64,False,True
+500706,Customer 006,Main Line Stoppage,Multifamily / Light Commercial,2025-06-21,1334.88,1453.44,-118.56,-0.0816,0.5369,0.6351,-9.82,False,False
+500708,Customer 045,Emergency Call,Commercial,2025-04-25,909.39,1158.1,-248.71,-0.2148,0.6596,0.5178,14.18,False,False
+500709,Customer 110,Fixtures,Commercial,2025-11-28,731.99,885.42,-153.43,-0.1733,0.3778,0.4593,-8.15,False,False
+500710,Customer 066,Ejection Pump System,Single-family Residential,2025-09-04,13907.34,13038.22,869.12,0.0667,0.6862,0.6592,2.7,False,False
+500711,Customer 079,Backflow Testing,Commercial,2025-02-04,244.62,247.94,-3.32,-0.0134,0.6382,0.6587,-2.05,False,False
+500712,Customer 125,Main Line Stoppage,Multifamily / Light Commercial,2025-12-18,813.43,736.98,76.45,0.1037,0.5833,0.6178,-3.45,False,False
+500713,Customer 124,Leak Detection,Commercial,2025-09-17,467.58,461.59,5.99,0.013,0.5802,0.5191,6.11,False,False
+500714,Customer 206,Main Line Stoppage,Multifamily / Light Commercial,2025-01-19,894.99,781.64,113.35,0.145,0.5028,0.4832,1.96,False,True
+500715,Customer 106,Secondary Stoppage,Commercial,2025-09-23,222.83,211.13,11.7,0.0554,0.7045,0.6634,4.11,False,False
+500716,Customer 125,Water Repipe/Install,Commercial,2025-08-04,10430.07,9276.79,1153.28,0.1243,0.4909,0.5562,-6.53,False,True
+500717,Customer 150,Investigation/Estimate Only,Multifamily / Light Commercial,2025-12-01,1269.24,1848.73,-579.49,-0.3135,0.8361,0.85,-1.39,False,False
+500719,Customer 147,Toilet,Commercial,2025-07-09,1446.94,1775.72,-328.78,-0.1852,0.4846,0.5462,-6.16,False,False
+500720,Customer 190,Fixtures,Commercial,2025-04-25,1340.0,1417.47,-77.47,-0.0547,0.5985,0.6144,-1.59,False,False
+500721,Customer 070,Emergency Call,Commercial,2025-04-28,1778.2,1530.38,247.82,0.1619,0.6662,0.6757,-0.95,False,True
+500722,Customer 040,Investigation/Estimate Only,Commercial,2025-08-14,516.17,402.6,113.57,0.2821,0.9,0.85,5.0,False,True
+500723,Customer 077,Toilet,Commercial,2025-10-30,1361.02,1395.4,-34.38,-0.0246,0.5577,0.5785,-2.08,False,False
+500724,Customer 061,Investigation/Estimate Only,Multifamily / Light Commercial,2025-11-22,154.34,169.93,-15.59,-0.0917,0.0158,0.1858,-17.0,True,False
+500725,Customer 129,Investigation/Estimate Only,Commercial,2025-10-09,794.05,1123.52,-329.47,-0.2932,0.7916,0.68,11.16,False,False
+500726,Customer 191,Secondary Stoppage,Multifamily / Light Commercial,2025-08-11,1643.35,1454.89,188.46,0.1295,0.6044,0.5685,3.59,False,True
+500727,Customer 132,Investigation/Estimate Only,Commercial,2025-07-02,1229.49,1340.08,-110.59,-0.0825,0.8309,0.8414,-1.05,False,False
+500728,Customer 028,Fixtures,Commercial,2025-05-04,513.34,355.56,157.78,0.4438,0.4059,0.4409,-3.5,False,True
+500729,Customer 070,Fixtures,Multifamily / Light Commercial,2025-10-08,1069.65,1203.09,-133.44,-0.1109,0.5767,0.6525,-7.58,False,False
+500730,Customer 152,Secondary Stoppage,Commercial,2025-04-27,1393.91,1059.37,334.54,0.3158,0.8443,0.6893,15.5,False,True
+500731,Customer 073,Investigation/Estimate Only,Multifamily / Light Commercial,2025-04-08,482.14,433.48,48.66,0.1123,0.6067,0.6026,0.41,False,True
+500732,Customer 130,Investigation/Estimate Only,Commercial,2025-11-13,668.78,790.74,-121.96,-0.1542,0.5451,0.6841,-13.9,False,False
+500733,Customer 153,Emergency Call,Multifamily / Light Commercial,2025-08-04,1221.9,1180.78,41.12,0.0348,0.5911,0.5649,2.62,False,False
+500734,Customer 073,Investigation/Estimate Only,Multifamily / Light Commercial,2025-05-10,1370.23,1228.13,142.1,0.1157,0.9,0.85,5.0,False,True
+500735,Customer 143,Backflow Testing,Multifamily / Light Commercial,2025-11-12,273.12,282.67,-9.55,-0.0338,0.6973,0.6848,1.25,False,False
+500736,Customer 088,Secondary Stoppage,Commercial,2025-12-18,849.36,754.52,94.84,0.1257,0.4095,0.4816,-7.21,False,True
+500737,Customer 030,Secondary Stoppage,Commercial,2025-04-27,1651.34,1471.27,180.07,0.1224,0.6882,0.7675,-7.93,False,True
+500738,Customer 082,Emergency Call,Commercial,2025-07-10,1596.12,1465.07,131.05,0.0894,0.3222,0.3956,-7.34,True,False
+500739,Customer 098,Emergency Call,Multifamily / Light Commercial,2025-06-26,1105.99,1108.73,-2.74,-0.0025,0.4843,0.3626,12.17,True,False
+500740,Customer 001,Investigation/Estimate Only,Commercial,2025-09-14,204.02,247.67,-43.65,-0.1762,0.623,0.6287,-0.57,False,False
+500741,Customer 197,Investigation/Estimate Only,Commercial,2025-12-14,242.14,244.96,-2.82,-0.0115,0.456,0.5903,-13.43,False,False
+500742,Customer 117,Backflow Repairs/Replacement,Commercial,2025-07-20,2425.46,2363.05,62.41,0.0264,0.5753,0.5446,3.07,False,False
+500743,Customer 008,Investigation/Estimate Only,Commercial,2025-10-19,662.43,921.84,-259.41,-0.2814,0.4687,0.4574,1.13,False,False
+500745,Customer 189,Fixtures,Commercial,2025-11-20,549.89,536.28,13.61,0.0254,0.5772,0.6131,-3.59,False,False
+500746,Customer 003,Emergency Call,Commercial,2025-05-28,1025.4,1040.51,-15.11,-0.0145,0.6161,0.6977,-8.16,False,False
+500747,Customer 036,Emergency Call,Multifamily / Light Commercial,2025-05-21,594.72,738.32,-143.6,-0.1945,0.3319,0.417,-8.51,False,False
+500750,Customer 160,Secondary Stoppage,Multifamily / Light Commercial,2025-08-12,209.84,220.87,-11.03,-0.0499,0.6673,0.5804,8.69,False,False
+500751,Customer 094,Secondary Stoppage,Multifamily / Light Commercial,2025-02-25,415.17,435.54,-20.37,-0.0468,0.5989,0.5791,1.98,False,False
+500752,Customer 135,Secondary Stoppage,Commercial,2025-01-15,711.81,552.0,159.81,0.2895,0.6149,0.5766,3.83,False,True
+500753,Customer 003,Fixtures,Multifamily / Light Commercial,2025-07-09,890.21,861.76,28.45,0.033,0.5916,0.572,1.96,False,False
+500754,Customer 145,Backflow Testing,Single-family Residential,2025-10-22,863.93,747.73,116.2,0.1554,0.8147,0.7885,2.62,False,True
+500755,Customer 202,Secondary Stoppage,Multifamily / Light Commercial,2025-06-24,738.92,752.21,-13.29,-0.0177,0.45,0.4875,-3.75,False,False
+500756,Customer 116,Emergency Call,Multifamily / Light Commercial,2025-07-24,735.79,1023.48,-287.69,-0.2811,0.5445,0.561,-1.65,False,False
+500757,Customer 101,Leak Detection,Multifamily / Light Commercial,2025-10-19,2025.2,1839.67,185.53,0.1008,0.6109,0.5177,9.32,False,False
+500759,Customer 210,Fixtures,Commercial,2025-11-28,392.22,435.19,-42.97,-0.0987,0.697,0.5838,11.32,False,False
+500760,Customer 008,Backflow Testing,Multifamily / Light Commercial,2025-08-21,284.47,299.55,-15.08,-0.0503,0.4813,0.5791,-9.78,False,False
+500761,Customer 064,Investigation/Estimate Only,Single-family Residential,2025-09-24,1026.63,1219.2,-192.57,-0.1579,0.8333,0.85,-1.67,False,False
+500762,Customer 031,Investigation/Estimate Only,Commercial,2025-10-13,191.88,189.81,2.07,0.0109,0.4887,0.4216,6.71,False,False
+500763,Customer 191,Investigation/Estimate Only,Commercial,2025-08-17,402.3,346.88,55.42,0.1598,0.4124,0.2618,15.06,True,True
+500764,Customer 107,Leak Detection,Multifamily / Light Commercial,2025-01-19,1092.89,958.75,134.14,0.1399,0.7053,0.5627,14.26,False,True
+500765,Customer 203,Investigation/Estimate Only,Commercial,2025-06-06,562.76,454.6,108.16,0.2379,0.5928,0.6565,-6.37,False,True
+500766,Customer 147,Secondary Stoppage,Multifamily / Light Commercial,2025-02-21,2655.73,2109.07,546.66,0.2592,0.8986,0.7966,10.2,False,True
+500767,Customer 123,Investigation/Estimate Only,Multifamily / Light Commercial,2025-07-06,111.5,160.86,-49.36,-0.3069,0.3089,0.3042,0.47,True,False
+500768,Customer 114,Investigation/Estimate Only,Multifamily / Light Commercial,2025-02-22,256.96,313.0,-56.04,-0.179,0.4804,0.3968,8.36,True,False
+500769,Customer 045,General Plumbing Service,Multifamily / Light Commercial,2025-07-05,798.53,1095.72,-297.19,-0.2712,0.7864,0.7233,6.31,False,False
+500770,Customer 124,Secondary Stoppage,Multifamily / Light Commercial,2025-05-06,309.96,283.12,26.84,0.0948,0.4102,0.5113,-10.11,False,False
+500771,Customer 151,Water Repipe/Install,Multifamily / Light Commercial,2025-01-08,3854.65,4301.88,-447.23,-0.104,0.3992,0.3552,4.4,True,False
+500772,Customer 213,Water Repipe/Install,Multifamily / Light Commercial,2025-02-15,5238.37,5653.18,-414.81,-0.0734,0.5756,0.4951,8.05,False,False
+500773,Customer 121,Backflow Repairs/Replacement,Multifamily / Light Commercial,2025-07-03,3417.09,3531.84,-114.75,-0.0325,0.2782,0.2798,-0.16,True,False
+500774,Customer 207,Investigation/Estimate Only,Multifamily / Light Commercial,2025-01-29,394.46,373.05,21.41,0.0574,0.3431,0.3628,-1.97,True,False
+500775,Customer 208,Backflow Repairs/Replacement,Commercial,2025-11-09,1142.27,1469.72,-327.45,-0.2228,0.2508,0.3765,-12.57,True,False
+500777,Customer 097,Investigation/Estimate Only,Commercial,2025-09-16,402.22,495.85,-93.63,-0.1888,0.6559,0.6012,5.47,False,False
+500778,Customer 032,Hydro Jetting,Multifamily / Light Commercial,2025-03-04,1699.96,1699.63,0.33,0.0002,0.6203,0.6036,1.67,False,False
+500780,Customer 194,Secondary Stoppage,Commercial,2025-08-20,695.92,589.86,106.06,0.1798,0.3638,0.4376,-7.38,False,True
+500781,Customer 031,Leak Detection,Commercial,2025-05-23,6008.22,6031.2,-22.98,-0.0038,0.8239,0.85,-2.61,False,False
+500782,Customer 088,Fixtures,Commercial,2025-01-01,409.31,464.46,-55.15,-0.1187,0.4787,0.4663,1.24,False,False
+500783,Customer 154,Water Repipe/Install,Multifamily / Light Commercial,2025-07-13,2524.52,3724.75,-1200.23,-0.3222,0.5051,0.5498,-4.47,False,False
+500784,Customer 053,Tankless Water Heater,Commercial,2025-10-18,2459.41,2151.9,307.51,0.1429,0.3188,0.3186,0.02,True,True
+500785,Customer 215,Emergency Call,Commercial,2025-01-13,508.15,571.2,-63.05,-0.1104,0.3776,0.5176,-14.0,False,False
+500787,Customer 007,Secondary Stoppage,Multifamily / Light Commercial,2025-05-20,1476.9,1783.94,-307.04,-0.1721,0.8584,0.7504,10.8,False,False
+500788,Customer 055,Main Line Stoppage,Commercial,2025-07-06,2020.34,2720.26,-699.92,-0.2573,0.5624,0.5611,0.13,False,False
+500789,Customer 163,Water Repipe/Install,Commercial,2025-06-23,11297.88,14408.08,-3110.2,-0.2159,0.4367,0.5246,-8.79,False,False
+500790,Customer 190,Secondary Stoppage,Single-family Residential,2025-06-05,537.8,628.4,-90.6,-0.1442,0.4256,0.6224,-19.68,False,False
+500791,Customer 204,Emergency Call,Multifamily / Light Commercial,2025-04-04,1272.27,1319.55,-47.28,-0.0358,0.5288,0.4465,8.23,False,False
+500792,Customer 188,Secondary Stoppage,Multifamily / Light Commercial,2025-01-22,178.29,217.77,-39.48,-0.1813,0.5309,0.4863,4.46,False,False
+500793,Customer 017,Investigation/Estimate Only,Commercial,2025-01-12,202.59,197.1,5.49,0.0279,-0.0807,-0.0976,1.69,True,False
+500794,Customer 161,Investigation/Estimate Only,Commercial,2025-02-06,182.45,189.45,-7.0,-0.0369,0.3991,0.33,6.91,True,False
+500795,Customer 025,Emergency Call,Commercial,2025-09-09,779.49,584.63,194.86,0.3333,0.6257,0.5568,6.89,False,True
+500796,Customer 017,Investigation/Estimate Only,Multifamily / Light Commercial,2025-10-14,286.03,384.27,-98.24,-0.2557,0.4785,0.4629,1.56,False,False
+500797,Customer 153,Investigation/Estimate Only,Commercial,2025-06-08,245.96,240.14,5.82,0.0242,0.3789,0.3992,-2.03,True,False
+500798,Customer 106,Backflow Testing,Commercial,2025-01-29,459.02,447.34,11.68,0.0261,0.6706,0.704,-3.34,False,False
+500799,Customer 143,Backflow Testing,Multifamily / Light Commercial,2025-06-01,190.5,225.33,-34.83,-0.1546,0.4769,0.4432,3.37,False,False
+500800,Customer 188,Hydro Jetting,Multifamily / Light Commercial,2025-12-26,2233.21,2201.75,31.46,0.0143,0.5755,0.4637,11.18,False,False
+500803,Customer 184,Water Repipe/Install,Commercial,2025-07-16,9035.1,8100.04,935.06,0.1154,0.4226,0.4308,-0.82,False,True
+500804,Customer 097,Investigation/Estimate Only,Commercial,2025-05-01,271.57,267.7,3.87,0.0145,0.6558,0.5377,11.81,False,False
+500805,Customer 116,Investigation/Estimate Only,Commercial,2025-06-09,1789.68,1481.93,307.75,0.2077,0.8799,0.85,2.99,False,True
+500806,Customer 110,Backflow Testing,Multifamily / Light Commercial,2025-06-22,110.77,164.51,-53.74,-0.3267,0.5714,0.5409,3.05,False,False
+500807,Customer 200,Investigation/Estimate Only,Commercial,2025-06-23,380.7,435.75,-55.05,-0.1263,0.8328,0.6404,19.24,False,False
+500808,Customer 011,Fixtures,Multifamily / Light Commercial,2025-09-19,1609.89,1318.22,291.67,0.2213,0.7744,0.6422,13.22,False,True
+500809,Customer 194,Ejection Pump System,Multifamily / Light Commercial,2025-08-01,11641.27,10240.35,1400.92,0.1368,0.2833,0.149,13.43,True,True
+500810,Customer 180,Investigation/Estimate Only,Single-family Residential,2025-01-20,329.12,304.44,24.68,0.0811,0.1671,0.2309,-6.38,True,False
+500811,Customer 179,Investigation/Estimate Only,Commercial,2025-01-03,692.92,584.75,108.17,0.185,0.5871,0.4117,17.54,False,True
+500812,Customer 091,Ejection Pump System,Commercial,2025-05-30,7054.97,9901.49,-2846.52,-0.2875,0.2269,0.2335,-0.66,True,False
+500813,Customer 114,Water Repipe/Install,Commercial,2025-11-28,1847.89,1650.87,197.02,0.1193,0.4014,0.4196,-1.82,False,True
+500814,Customer 082,Investigation/Estimate Only,Commercial,2025-01-14,1149.76,991.47,158.29,0.1597,0.6773,0.85,-17.27,False,True
+500815,Customer 056,Commercial Water Heater,Commercial,2025-01-26,9273.22,10289.91,-1016.69,-0.0988,0.3948,0.3687,2.61,True,False
+500816,Customer 193,Commercial Water Heater,Commercial,2025-09-05,10784.36,7734.13,3050.23,0.3944,0.23,0.3167,-8.67,True,True
+500817,Customer 112,Fixtures,Multifamily / Light Commercial,2025-06-14,482.46,468.66,13.8,0.0294,0.5327,0.5,3.27,False,False
+500818,Customer 160,General Plumbing Service,Commercial,2025-03-26,2741.07,4084.53,-1343.46,-0.3289,0.7183,0.8112,-9.29,False,False
+500819,Customer 023,Secondary Stoppage,Multifamily / Light Commercial,2025-03-17,569.68,538.86,30.82,0.0572,0.8102,0.6664,14.38,False,False
+500820,Customer 174,Investigation/Estimate Only,Commercial,2025-08-31,656.33,735.78,-79.45,-0.108,0.7166,0.6725,4.41,False,False
+500821,Customer 145,Water Repipe/Install,Commercial,2025-07-11,21187.59,18035.84,3151.75,0.1747,0.4627,0.2803,18.24,True,True
+500822,Customer 220,Secondary Stoppage,Commercial,2025-08-21,446.52,412.61,33.91,0.0822,0.2787,0.3605,-8.18,True,False
+500823,Customer 030,General Plumbing Service,Commercial,2025-04-13,704.78,774.22,-69.44,-0.0897,0.505,0.3811,12.39,True,False
+500824,Customer 119,Backflow Repairs/Replacement,Commercial,2025-07-12,2412.96,1969.17,443.79,0.2254,0.4403,0.5845,-14.42,False,True
+500825,Customer 113,Investigation/Estimate Only,Single-family Residential,2025-11-10,645.94,566.16,79.78,0.1409,0.5846,0.568,1.66,False,True
+500826,Customer 119,Water Repipe/Install,Commercial,2025-04-26,2316.72,2645.22,-328.5,-0.1242,0.3329,0.3834,-5.05,True,False
+500827,Customer 012,Secondary Stoppage,Commercial,2025-05-25,727.55,744.53,-16.98,-0.0228,0.6907,0.7265,-3.58,False,False
+500828,Customer 105,Commercial Water Heater,Multifamily / Light Commercial,2025-03-01,3333.87,3093.97,239.9,0.0775,0.3515,0.3928,-4.13,True,False
+500829,Customer 066,Secondary Stoppage,Commercial,2025-08-22,1226.6,1297.49,-70.89,-0.0546,0.4826,0.5558,-7.32,False,False
+500830,Customer 136,Water Repipe/Install,Multifamily / Light Commercial,2025-01-12,11666.4,12282.49,-616.09,-0.0502,0.48,0.5808,-10.08,False,False
+500831,Customer 052,Water Repipe/Install,Commercial,2025-04-01,846.99,842.35,4.64,0.0055,0.4194,0.4548,-3.54,False,False
+500832,Customer 096,Emergency Call,Multifamily / Light Commercial,2025-09-18,1779.0,2117.53,-338.53,-0.1599,0.8221,0.8128,0.93,False,False
+500833,Customer 137,Backflow Testing,Commercial,2025-01-08,163.17,245.34,-82.17,-0.3349,0.6827,0.5896,9.31,False,False
+500834,Customer 015,Backflow Testing,Commercial,2025-12-28,272.48,263.04,9.44,0.0359,0.6142,0.5906,2.36,False,False
+500835,Customer 174,Water Repipe/Install,Multifamily / Light Commercial,2025-05-28,3187.93,4543.38,-1355.45,-0.2983,0.4697,0.3764,9.33,True,False
+500836,Customer 158,Hydro Jetting,Multifamily / Light Commercial,2025-05-26,1807.02,2123.3,-316.28,-0.149,0.6101,0.7284,-11.83,False,False
+500838,Customer 015,Emergency Call,Multifamily / Light Commercial,2025-08-22,432.74,589.35,-156.61,-0.2657,0.2491,0.2837,-3.46,True,False
+500840,Customer 063,Investigation/Estimate Only,Commercial,2025-11-19,571.71,759.51,-187.8,-0.2473,0.6279,0.571,5.69,False,False
+500842,Customer 110,Fixtures,Multifamily / Light Commercial,2025-03-15,1642.92,1544.17,98.75,0.064,0.5389,0.5114,2.75,False,False
+500843,Customer 076,Emergency Call,Commercial,2025-09-15,3611.16,3735.73,-124.57,-0.0333,0.7811,0.85,-6.89,False,False
+500844,Customer 061,Investigation/Estimate Only,Multifamily / Light Commercial,2025-04-20,477.52,496.78,-19.26,-0.0388,0.6036,0.5289,7.47,False,False
+500845,Customer 145,Commercial Water Heater,Commercial,2025-12-30,27969.39,34847.84,-6878.45,-0.1974,0.4952,0.5377,-4.25,False,False
+500846,Customer 025,Emergency Call,Multifamily / Light Commercial,2025-04-03,223.85,248.27,-24.42,-0.0984,0.3191,0.3813,-6.22,True,False
+500847,Customer 089,Backflow Testing,Multifamily / Light Commercial,2025-04-18,441.58,417.98,23.6,0.0565,0.658,0.619,3.9,False,False
+500848,Customer 077,Investigation/Estimate Only,Commercial,2025-09-18,1356.41,1367.09,-10.68,-0.0078,0.2667,0.2662,0.05,True,False
+500849,Customer 034,Toilet,Commercial,2025-10-16,1066.74,949.56,117.18,0.1234,0.4526,0.4944,-4.18,False,True
+500851,Customer 117,Secondary Stoppage,Multifamily / Light Commercial,2025-07-22,632.61,552.61,80.0,0.1448,0.6441,0.6886,-4.45,False,True
+500852,Customer 150,Backflow Repairs/Replacement,Commercial,2025-05-07,629.53,654.28,-24.75,-0.0378,0.1162,0.2018,-8.56,True,False
+500853,Customer 019,Leak Detection,Multifamily / Light Commercial,2025-08-12,428.21,592.95,-164.74,-0.2778,0.3994,0.4311,-3.17,False,False
+500854,Customer 192,Secondary Stoppage,Commercial,2025-07-23,349.63,394.39,-44.76,-0.1135,0.6555,0.5675,8.8,False,False
+500855,Customer 194,Fixtures,Multifamily / Light Commercial,2025-12-26,735.23,746.16,-10.93,-0.0146,0.5088,0.4892,1.96,False,False
+500856,Customer 153,Hydro Jetting,Commercial,2025-12-07,901.48,1020.32,-118.84,-0.1165,0.518,0.4413,7.67,False,False
+500857,Customer 204,Commercial Water Heater,Multifamily / Light Commercial,2025-08-27,10086.47,11981.94,-1895.47,-0.1582,0.4365,0.3952,4.13,True,False
+500859,Customer 181,Fixtures,Commercial,2025-11-25,981.15,970.99,10.16,0.0105,0.5964,0.6454,-4.9,False,False
+500860,Customer 160,Hydro Jetting,Multifamily / Light Commercial,2025-03-08,2126.71,1558.55,568.16,0.3645,0.336,0.4679,-13.19,False,True
+500861,Customer 124,Hydro Jetting,Commercial,2025-09-22,553.75,597.5,-43.75,-0.0732,0.3488,0.4229,-7.41,False,False
+500862,Customer 040,Hydro Jetting,Commercial,2025-10-09,1664.08,1664.78,-0.7,-0.0004,0.563,0.6167,-5.37,False,False
+500863,Customer 123,Water Repipe/Install,Multifamily / Light Commercial,2025-02-16,2229.5,2775.79,-546.29,-0.1968,0.4893,0.5492,-5.99,False,False
+500864,Customer 199,Investigation/Estimate Only,Multifamily / Light Commercial,2025-11-18,196.33,165.47,30.86,0.1865,0.0455,-0.033,7.85,True,True
+500865,Customer 217,Leak Detection,Multifamily / Light Commercial,2025-09-13,1661.29,1468.59,192.7,0.1312,0.7091,0.6315,7.76,False,True
+500866,Customer 099,Commercial Water Heater,Commercial,2025-05-07,8264.02,7372.93,891.09,0.1209,0.579,0.402,17.7,False,True
+500868,Customer 165,Investigation/Estimate Only,Commercial,2025-06-28,1507.86,1252.41,255.45,0.204,0.6661,0.7272,-6.11,False,True
+500869,Customer 017,Secondary Stoppage,Multifamily / Light Commercial,2025-12-02,610.84,652.68,-41.84,-0.0641,0.6629,0.5351,12.78,False,False
+500870,Customer 034,Hydro Jetting,Commercial,2025-12-20,813.22,851.86,-38.64,-0.0454,0.7677,0.6404,12.73,False,False
+500871,Customer 124,Investigation/Estimate Only,Commercial,2025-10-22,341.93,272.13,69.8,0.2565,0.3401,0.3587,-1.86,True,True
+500872,Customer 218,Tankless Water Heater,Commercial,2025-08-27,6280.33,5735.94,544.39,0.0949,0.6349,0.597,3.79,False,False
+500873,Customer 073,Emergency Call,Commercial,2025-02-08,850.17,1274.4,-424.23,-0.3329,0.609,0.5097,9.93,False,False
+500874,Customer 098,Backflow Testing,Commercial,2025-11-30,204.14,191.1,13.04,0.0682,0.6761,0.6808,-0.47,False,False
+500875,Customer 071,Commercial Water Heater,Commercial,2025-02-18,4139.03,4534.7,-395.67,-0.0873,0.6256,0.6365,-1.09,False,False
+500876,Customer 097,Emergency Call,Multifamily / Light Commercial,2025-03-02,370.02,326.09,43.93,0.1347,0.3357,0.3859,-5.02,True,True
+500877,Customer 002,Secondary Stoppage,Multifamily / Light Commercial,2025-01-26,378.33,356.5,21.83,0.0612,0.2781,0.4669,-18.88,False,False
+500878,Customer 131,Water Repipe/Install,Commercial,2025-12-12,2031.52,2749.32,-717.8,-0.2611,0.393,0.3874,0.56,True,False
+500879,Customer 132,Water Repipe/Install,Multifamily / Light Commercial,2025-06-30,1091.43,1049.12,42.31,0.0403,0.2039,0.2607,-5.68,True,False
+500880,Customer 070,Emergency Call,Multifamily / Light Commercial,2025-03-28,641.07,621.44,19.63,0.0316,0.439,0.525,-8.6,False,False
+500881,Customer 059,Water Repipe/Install,Commercial,2025-01-30,2153.4,2042.07,111.33,0.0545,0.3994,0.3656,3.38,True,False
+500882,Customer 168,Video Camera Inspection,Commercial,2025-05-31,399.28,367.55,31.73,0.0863,0.3129,0.429,-11.61,False,False
+500883,Customer 042,Fixtures,Commercial,2025-09-22,1461.16,1193.37,267.79,0.2244,0.6652,0.6007,6.45,False,True
+500884,Customer 011,Secondary Stoppage,Commercial,2025-12-30,819.91,771.98,47.93,0.0621,0.5803,0.5416,3.87,False,False
+500885,Customer 009,Emergency Call,Multifamily / Light Commercial,2025-07-21,7304.74,7279.74,25.0,0.0034,0.4132,0.4452,-3.2,False,False
+500886,Customer 194,Emergency Call,Single-family Residential,2025-08-10,705.16,601.57,103.59,0.1722,0.7061,0.7112,-0.51,False,True
+500887,Customer 081,Investigation/Estimate Only,Commercial,2025-11-02,1634.74,1223.23,411.51,0.3364,0.7089,0.8041,-9.52,False,True
+500888,Customer 023,Investigation/Estimate Only,Multifamily / Light Commercial,2025-11-26,162.26,142.68,19.58,0.1372,0.4753,0.4153,6.0,False,True
+500889,Customer 194,Backflow Testing,Commercial,2025-04-13,374.71,363.47,11.24,0.0309,0.7296,0.7146,1.5,False,False
+500890,Customer 033,Emergency Call,Multifamily / Light Commercial,2025-12-29,545.1,511.89,33.21,0.0649,0.2977,0.2768,2.09,True,False
+500891,Customer 075,Video Camera Inspection,Multifamily / Light Commercial,2025-07-09,1121.01,1079.55,41.46,0.0384,0.8114,0.7712,4.02,False,False
+500892,Customer 005,Secondary Stoppage,Commercial,2025-12-06,358.33,357.34,0.99,0.0028,0.5483,0.5997,-5.14,False,False
+500893,Customer 150,Investigation/Estimate Only,Commercial,2025-02-12,227.54,171.76,55.78,0.3248,0.4159,0.5374,-12.15,False,True
+500894,Customer 154,Hydro Jetting,Multifamily / Light Commercial,2025-02-05,708.3,797.96,-89.66,-0.1124,0.6652,0.5886,7.66,False,False
+500895,Customer 167,Commercial Water Heater,Single-family Residential,2025-11-19,5527.72,4711.52,816.2,0.1732,0.5021,0.447,5.51,False,True
+500896,Customer 058,Secondary Stoppage,Commercial,2025-09-03,467.88,476.88,-9.0,-0.0189,0.4348,0.4776,-4.28,False,False
+500897,Customer 073,Secondary Stoppage,Commercial,2025-03-05,442.25,568.49,-126.24,-0.2221,0.709,0.6763,3.27,False,False
+500898,Customer 207,Secondary Stoppage,Commercial,2025-11-23,197.91,203.66,-5.75,-0.0282,0.6389,0.5383,10.06,False,False
+500899,Customer 181,Fixtures,Multifamily / Light Commercial,2025-02-07,655.34,713.89,-58.55,-0.082,0.4276,0.3365,9.11,True,False
+500900,Customer 009,Fixtures,Multifamily / Light Commercial,2025-09-07,415.61,382.47,33.14,0.0866,0.4583,0.5035,-4.52,False,False
+500901,Customer 153,Secondary Stoppage,Multifamily / Light Commercial,2025-03-16,408.81,403.29,5.52,0.0137,0.4975,0.6166,-11.91,False,False
+500902,Customer 179,Investigation/Estimate Only,Multifamily / Light Commercial,2025-01-26,199.31,235.4,-36.09,-0.1533,0.207,0.3124,-10.54,True,False
+500903,Customer 124,Fixtures,Multifamily / Light Commercial,2025-10-22,1284.97,1052.69,232.28,0.2207,0.7259,0.7508,-2.49,False,True
+500904,Customer 141,Toilet,Multifamily / Light Commercial,2025-11-06,520.44,447.3,73.14,0.1635,0.6086,0.4916,11.7,False,True
+500906,Customer 007,Fixtures,Multifamily / Light Commercial,2025-02-03,525.49,424.5,100.99,0.2379,0.6621,0.7204,-5.83,False,True
+500907,Customer 008,Investigation/Estimate Only,Commercial,2025-08-13,439.06,423.99,15.07,0.0355,0.3372,0.3849,-4.77,True,False
+500908,Customer 035,Secondary Stoppage,Commercial,2025-01-11,691.77,695.5,-3.73,-0.0054,0.5297,0.5791,-4.94,False,False
+500909,Customer 218,Secondary Stoppage,Multifamily / Light Commercial,2025-09-30,1058.35,957.32,101.03,0.1055,0.5703,0.6128,-4.25,False,False
+500910,Customer 140,Hydro Jetting,Multifamily / Light Commercial,2025-12-01,1499.38,1641.58,-142.2,-0.0866,0.6377,0.6386,-0.09,False,False
+500911,Customer 173,Commercial Water Heater,Single-family Residential,2025-10-02,2456.83,2409.82,47.01,0.0195,0.2713,0.3737,-10.24,True,False
+500912,Customer 066,Leak Detection,Commercial,2025-03-26,584.84,600.67,-15.83,-0.0264,0.565,0.4783,8.67,False,False
+500913,Customer 207,Tankless Water Heater,Multifamily / Light Commercial,2025-03-11,1932.36,2474.71,-542.35,-0.2192,0.3855,0.3971,-1.16,True,False
+500914,Customer 044,Tankless Water Heater,Commercial,2025-09-06,2843.51,2790.17,53.34,0.0191,0.5797,0.3814,19.83,True,False
+500915,Customer 199,Video Camera Inspection,Commercial,2025-01-23,618.96,662.8,-43.84,-0.0661,0.6271,0.721,-9.39,False,False
+500916,Customer 007,Investigation/Estimate Only,Commercial,2025-07-16,406.26,421.6,-15.34,-0.0364,0.7644,0.6372,12.72,False,False
+500917,Customer 005,Investigation/Estimate Only,Multifamily / Light Commercial,2025-06-13,211.27,200.34,10.93,0.0546,0.2168,0.1055,11.13,True,False
+500919,Customer 175,Water Repipe/Install,Multifamily / Light Commercial,2025-03-15,4093.07,3437.01,656.06,0.1909,0.4572,0.4901,-3.29,False,True
+500920,Customer 057,Investigation/Estimate Only,Commercial,2025-10-06,397.32,455.29,-57.97,-0.1273,0.7451,0.7767,-3.16,False,False
+500921,Customer 100,Backflow Repairs/Replacement,Commercial,2025-09-13,880.08,926.87,-46.79,-0.0505,0.3473,0.421,-7.37,False,False
+500922,Customer 104,Water Repipe/Install,Multifamily / Light Commercial,2025-03-29,31482.77,35564.2,-4081.43,-0.1148,0.5705,0.6433,-7.28,False,False
+500923,Customer 174,Fixtures,Commercial,2025-05-11,592.61,676.9,-84.29,-0.1245,0.6285,0.6285,0.0,False,False
+500924,Customer 077,Investigation/Estimate Only,Multifamily / Light Commercial,2025-01-25,129.84,142.55,-12.71,-0.0892,0.3852,0.3835,0.17,True,False
+500925,Customer 002,Secondary Stoppage,Multifamily / Light Commercial,2025-06-14,807.92,832.45,-24.53,-0.0295,0.472,0.6002,-12.82,False,False
+500926,Customer 086,Investigation/Estimate Only,Commercial,2025-04-06,680.36,625.4,54.96,0.0879,0.9,0.85,5.0,False,False
+500927,Customer 064,Backflow Repairs/Replacement,Multifamily / Light Commercial,2025-02-11,1670.83,1594.2,76.63,0.0481,0.4289,0.4497,-2.08,False,False
+500928,Customer 161,Water Repipe/Install,Multifamily / Light Commercial,2025-07-24,1333.34,1584.53,-251.19,-0.1585,0.3016,0.2964,0.52,True,False
+500930,Customer 021,Secondary Stoppage,Multifamily / Light Commercial,2025-02-01,739.13,618.97,120.16,0.1941,0.2874,0.3375,-5.01,True,True
+500931,Customer 175,Emergency Call,Multifamily / Light Commercial,2025-03-09,5215.86,4568.66,647.2,0.1417,0.6486,0.67,-2.14,False,True
+500932,Customer 016,Emergency Call,Multifamily / Light Commercial,2025-01-31,1253.71,1449.67,-195.96,-0.1352,0.3428,0.3714,-2.86,True,False
+500933,Customer 137,Hydro Jetting,Commercial,2025-09-05,404.3,341.58,62.72,0.1836,0.6299,0.6301,-0.02,False,True
+500934,Customer 086,Hydro Jetting,Multifamily / Light Commercial,2025-05-04,1349.22,1286.15,63.07,0.049,0.6627,0.6639,-0.12,False,False
+500935,Customer 067,Secondary Stoppage,Multifamily / Light Commercial,2025-01-26,568.65,582.32,-13.67,-0.0235,0.6682,0.6038,6.44,False,False
+500936,Customer 107,Video Camera Inspection,Multifamily / Light Commercial,2025-03-11,360.54,342.16,18.38,0.0537,0.6307,0.6125,1.82,False,False
+500937,Customer 069,Investigation/Estimate Only,Multifamily / Light Commercial,2025-12-23,527.45,529.5,-2.05,-0.0039,0.5873,0.531,5.63,False,False
+500938,Customer 175,Commercial Water Heater,Commercial,2025-04-04,5840.16,5398.75,441.41,0.0818,0.5177,0.5185,-0.08,False,False
+500939,Customer 213,Investigation/Estimate Only,Multifamily / Light Commercial,2025-09-07,292.53,284.54,7.99,0.0281,0.5983,0.5798,1.85,False,False
+500940,Customer 180,Secondary Stoppage,Single-family Residential,2025-06-20,418.89,441.22,-22.33,-0.0506,0.5388,0.5581,-1.93,False,False
+500941,Customer 097,Backflow Repairs/Replacement,Commercial,2025-03-08,258.93,371.96,-113.03,-0.3039,0.5783,0.4981,8.02,False,False
+500943,Customer 099,Emergency Call,Multifamily / Light Commercial,2025-01-06,1707.2,1582.09,125.11,0.0791,0.5194,0.4936,2.58,False,False
+500944,Customer 175,Fixtures,Commercial,2025-09-30,926.81,981.84,-55.03,-0.056,0.5232,0.5358,-1.26,False,False
+500945,Customer 122,Secondary Stoppage,Multifamily / Light Commercial,2025-05-03,1111.64,995.48,116.16,0.1167,0.6337,0.6487,-1.5,False,True
+500946,Customer 103,Backflow Testing,Commercial,2025-07-02,321.58,299.91,21.67,0.0723,0.6183,0.627,-0.87,False,False
+500947,Customer 091,Backflow Repairs/Replacement,Commercial,2025-02-25,2314.58,2441.93,-127.35,-0.0522,0.7137,0.7113,0.24,False,False
+500948,Customer 083,Commercial Water Heater,Multifamily / Light Commercial,2025-10-28,8275.15,7174.27,1100.88,0.1534,0.4791,0.4836,-0.45,False,True
+500949,Customer 122,Emergency Call,Multifamily / Light Commercial,2025-03-21,2789.0,2705.86,83.14,0.0307,0.6522,0.6969,-4.47,False,False
+500950,Customer 152,Fixtures,Multifamily / Light Commercial,2025-07-26,796.06,776.99,19.07,0.0245,0.7008,0.6396,6.12,False,False
+500951,Customer 096,Secondary Stoppage,Multifamily / Light Commercial,2025-11-15,1290.49,1317.79,-27.3,-0.0207,0.7206,0.6544,6.62,False,False
+500953,Customer 182,Investigation/Estimate Only,Multifamily / Light Commercial,2025-08-09,688.67,549.82,138.85,0.2525,0.6202,0.4775,14.27,False,True
+500954,Customer 095,Video Camera Inspection,Multifamily / Light Commercial,2025-11-21,947.81,1061.36,-113.55,-0.107,0.582,0.6303,-4.83,False,False
+500956,Customer 039,Hydro Jetting,Multifamily / Light Commercial,2025-12-18,1157.74,1216.63,-58.89,-0.0484,0.7313,0.678,5.33,False,False
+500957,Customer 206,Fixtures,Commercial,2025-07-23,1263.43,1551.36,-287.93,-0.1856,0.493,0.6457,-15.27,False,False
+500958,Customer 065,Fixtures,Commercial,2025-05-30,751.31,677.46,73.85,0.109,0.3662,0.2999,6.63,True,False
+500959,Customer 125,Fixtures,Multifamily / Light Commercial,2025-04-04,1403.39,1537.66,-134.27,-0.0873,0.4593,0.5758,-11.65,False,False
+500960,Customer 063,Fixtures,Multifamily / Light Commercial,2025-09-29,1041.27,1120.25,-78.98,-0.0705,0.5957,0.6744,-7.87,False,False
+500961,Customer 098,Emergency Call,Multifamily / Light Commercial,2025-12-23,786.06,852.13,-66.07,-0.0775,0.8766,0.85,2.66,False,False
+500962,Customer 075,Investigation/Estimate Only,Commercial,2025-09-09,1259.27,1247.53,11.74,0.0094,0.7427,0.7924,-4.97,False,False
+500963,Customer 156,Investigation/Estimate Only,Multifamily / Light Commercial,2025-01-12,195.01,240.05,-45.04,-0.1876,0.1805,0.2412,-6.07,True,False
+500964,Customer 018,Video Camera Inspection,Commercial,2025-06-21,402.78,607.04,-204.26,-0.3365,0.6691,0.7079,-3.88,False,False
+500965,Customer 185,Fixtures,Multifamily / Light Commercial,2025-09-25,472.55,442.19,30.36,0.0687,0.5658,0.5074,5.84,False,False
+500966,Customer 199,Video Camera Inspection,Multifamily / Light Commercial,2025-05-26,355.55,520.59,-165.04,-0.317,0.6147,0.6893,-7.46,False,False
+500967,Customer 124,Investigation/Estimate Only,Multifamily / Light Commercial,2025-10-10,325.49,288.52,36.97,0.1281,0.2503,0.2546,-0.43,True,True
+500968,Customer 121,Water Repipe/Install,Multifamily / Light Commercial,2025-09-16,2453.55,1988.65,464.9,0.2338,0.5204,0.5507,-3.03,False,True
+500969,Customer 154,Secondary Stoppage,Commercial,2025-01-25,1234.08,1265.25,-31.17,-0.0246,0.8269,0.7613,6.56,False,False
+500970,Customer 044,Secondary Stoppage,Commercial,2025-07-23,523.23,437.88,85.35,0.1949,0.6488,0.581,6.78,False,True
+500972,Customer 049,Investigation/Estimate Only,Multifamily / Light Commercial,2025-06-27,122.74,123.19,-0.45,-0.0037,0.1594,0.3062,-14.68,True,False
+500973,Customer 149,Leak Detection,Multifamily / Light Commercial,2025-05-21,2366.12,1908.34,457.78,0.2399,0.4995,0.4159,8.36,False,True
+500974,Customer 068,Secondary Stoppage,Commercial,2025-10-22,246.54,264.65,-18.11,-0.0684,0.5507,0.5996,-4.89,False,False
+500975,Customer 165,Water Repipe/Install,Commercial,2025-11-13,3990.72,6184.6,-2193.88,-0.3547,0.3268,0.3079,1.89,True,False
+500976,Customer 175,Fixtures,Commercial,2025-06-18,2423.39,2452.79,-29.4,-0.012,0.5664,0.6415,-7.51,False,False
+500977,Customer 046,Emergency Call,Commercial,2025-07-16,1803.0,1435.29,367.71,0.2562,0.3967,0.367,2.97,True,True
+500979,Customer 110,Secondary Stoppage,Multifamily / Light Commercial,2025-08-28,417.07,386.09,30.98,0.0802,0.6464,0.4423,20.41,False,False
+500980,Customer 065,Tankless Water Heater,Multifamily / Light Commercial,2025-08-20,4554.48,4936.03,-381.55,-0.0773,0.4574,0.4472,1.02,False,False
+500981,Customer 130,Main Line Stoppage,Commercial,2025-10-13,1601.97,1526.65,75.32,0.0493,0.6835,0.7203,-3.68,False,False
+500982,Customer 219,Hydro Jetting,Commercial,2025-12-25,617.25,538.77,78.48,0.1457,0.5938,0.6124,-1.86,False,True
+500983,Customer 001,Fixtures,Commercial,2025-10-30,1029.87,1043.27,-13.4,-0.0128,0.4612,0.5787,-11.75,False,False
+500984,Customer 211,Investigation/Estimate Only,Multifamily / Light Commercial,2025-02-19,448.49,321.74,126.75,0.394,0.45,0.3341,11.59,True,True
+500985,Customer 189,Leak Detection,Commercial,2025-06-23,475.75,515.78,-40.03,-0.0776,0.4016,0.3766,2.5,True,False
+500986,Customer 117,Emergency Call,Multifamily / Light Commercial,2025-06-18,1441.66,1253.21,188.45,0.1504,0.4051,0.489,-8.39,False,True
+500987,Customer 135,Investigation/Estimate Only,Multifamily / Light Commercial,2025-07-05,219.27,196.78,22.49,0.1143,0.3192,0.4005,-8.13,False,True
+500989,Customer 029,Main Line Stoppage,Multifamily / Light Commercial,2025-09-20,575.93,643.48,-67.55,-0.105,0.5296,0.5284,0.12,False,False
+500990,Customer 126,General Plumbing Service,Multifamily / Light Commercial,2025-06-03,595.78,636.29,-40.51,-0.0637,0.5818,0.5072,7.46,False,False
+500991,Customer 180,Hydro Jetting,Commercial,2025-04-07,2571.68,2230.98,340.7,0.1527,0.6026,0.6947,-9.21,False,True
+500992,Customer 051,Main Line Stoppage,Commercial,2025-06-17,879.33,860.64,18.69,0.0217,0.6512,0.5621,8.91,False,False
+500993,Customer 158,Secondary Stoppage,Multifamily / Light Commercial,2025-11-08,522.89,497.65,25.24,0.0507,0.3742,0.3815,-0.73,True,False
+500995,Customer 167,Emergency Call,Multifamily / Light Commercial,2025-01-08,1235.71,1637.56,-401.85,-0.2454,0.6472,0.7216,-7.44,False,False
+500996,Customer 075,General Plumbing Service,Multifamily / Light Commercial,2025-12-23,563.01,512.57,50.44,0.0984,0.5978,0.6352,-3.74,False,False
+500997,Customer 087,Investigation/Estimate Only,Commercial,2025-03-13,71.87,68.9,2.97,0.0431,0.0738,-0.0661,13.99,True,False
+500998,Customer 092,Ejection Pump System,Multifamily / Light Commercial,2025-08-09,5736.97,5792.5,-55.53,-0.0096,0.2379,0.349,-11.11,True,False
+500999,Customer 188,Secondary Stoppage,Commercial,2025-10-20,1058.28,1003.93,54.35,0.0541,0.4515,0.5101,-5.86,False,False
+501000,Customer 199,Investigation/Estimate Only,Commercial,2025-04-11,1170.52,1247.07,-76.55,-0.0614,0.9,0.85,5.0,False,False
+501001,Customer 092,Fixtures,Multifamily / Light Commercial,2025-05-05,1179.31,1294.22,-114.91,-0.0888,0.4184,0.4011,1.73,False,False
+501002,Customer 214,Investigation/Estimate Only,Multifamily / Light Commercial,2025-04-13,282.69,293.33,-10.64,-0.0363,0.3521,0.4154,-6.33,False,False
+501005,Customer 001,Emergency Call,Commercial,2025-03-10,2472.9,2657.98,-185.08,-0.0696,0.4862,0.409,7.72,False,False
+501006,Customer 135,Leak Detection,Multifamily / Light Commercial,2025-06-17,1137.0,856.77,280.23,0.3271,0.6411,0.5601,8.1,False,True
+501007,Customer 142,Secondary Stoppage,Multifamily / Light Commercial,2025-07-13,611.35,537.79,73.56,0.1368,0.6347,0.6082,2.65,False,True
+501008,Customer 214,Backflow Testing,Multifamily / Light Commercial,2025-01-06,300.78,351.9,-51.12,-0.1453,0.6565,0.7055,-4.9,False,False
+501009,Customer 158,Fixtures,Multifamily / Light Commercial,2025-11-05,689.26,527.99,161.27,0.3054,0.2674,0.3041,-3.67,True,True
+501010,Customer 007,General Plumbing Service,Commercial,2025-09-04,772.94,826.61,-53.67,-0.0649,0.6942,0.6714,2.28,False,False
+501011,Customer 125,Water Repipe/Install,Commercial,2025-01-26,6371.19,6343.16,28.03,0.0044,0.2655,0.3705,-10.5,True,False
+501012,Customer 164,Fixtures,Commercial,2025-11-04,1209.45,1065.96,143.49,0.1346,0.6757,0.5695,10.62,False,True
+501013,Customer 110,Video Camera Inspection,Commercial,2025-01-12,516.35,732.93,-216.58,-0.2955,0.8897,0.7537,13.6,False,False
+501015,Customer 179,Investigation/Estimate Only,Multifamily / Light Commercial,2025-06-19,193.0,200.12,-7.12,-0.0356,0.0909,0.1098,-1.89,True,False
+501016,Customer 135,Backflow Testing,Commercial,2025-07-03,407.32,445.65,-38.33,-0.086,0.7816,0.7531,2.85,False,False
+501017,Customer 150,Backflow Repairs/Replacement,Commercial,2025-12-16,3338.92,3239.27,99.65,0.0308,0.6659,0.571,9.49,False,False
+501018,Customer 103,Investigation/Estimate Only,Multifamily / Light Commercial,2025-12-05,1631.31,1545.52,85.79,0.0555,0.9,0.835,6.5,False,False
+501019,Customer 062,Fixtures,Commercial,2025-04-12,1508.61,1526.3,-17.69,-0.0116,0.7258,0.6012,12.46,False,False
+501020,Customer 115,Commercial Water Heater,Commercial,2025-07-31,10511.44,10710.08,-198.64,-0.0185,0.2527,0.3915,-13.88,True,False
+501022,Customer 133,Ejection Pump System,Commercial,2025-09-24,6879.89,5932.12,947.77,0.1598,0.2609,0.2861,-2.52,True,True
+501023,Customer 156,Fixtures,Multifamily / Light Commercial,2025-11-21,1201.9,1149.9,52.0,0.0452,0.5763,0.5362,4.01,False,False
+501025,Customer 218,Secondary Stoppage,Commercial,2025-04-14,467.53,464.64,2.89,0.0062,0.599,0.6385,-3.95,False,False
+501026,Customer 054,Video Camera Inspection,Multifamily / Light Commercial,2025-07-06,885.86,866.64,19.22,0.0222,0.6107,0.4681,14.26,False,False
+501028,Customer 099,Hydro Jetting,Multifamily / Light Commercial,2025-12-06,1883.24,1476.61,406.63,0.2754,0.8357,0.7053,13.04,False,True
+501029,Customer 203,Emergency Call,Multifamily / Light Commercial,2025-09-08,619.79,604.14,15.65,0.0259,0.2876,0.3529,-6.53,True,False
+501030,Customer 197,Water Repipe/Install,Multifamily / Light Commercial,2025-09-15,1744.79,1890.69,-145.9,-0.0772,0.3337,0.3467,-1.3,True,False
+501031,Customer 167,Backflow Testing,Multifamily / Light Commercial,2025-07-06,177.12,248.19,-71.07,-0.2864,0.4231,0.4831,-6.0,False,False
+501032,Customer 202,Fixtures,Multifamily / Light Commercial,2025-04-27,658.68,839.18,-180.5,-0.2151,0.4259,0.4415,-1.56,False,False
+501033,Customer 135,Leak Detection,Commercial,2025-06-04,710.92,764.47,-53.55,-0.07,0.3519,0.3699,-1.8,True,False
+501034,Customer 187,Emergency Call,Multifamily / Light Commercial,2025-07-01,3373.65,3429.4,-55.75,-0.0163,0.6652,0.5889,7.63,False,False
+501035,Customer 038,General Plumbing Service,Multifamily / Light Commercial,2025-10-25,545.94,595.58,-49.64,-0.0833,0.4873,0.5584,-7.11,False,False
+501036,Customer 016,Emergency Call,Multifamily / Light Commercial,2025-07-22,691.63,657.02,34.61,0.0527,0.1821,0.3914,-20.93,True,False
+501038,Customer 179,Emergency Call,Commercial,2025-01-10,559.57,611.74,-52.17,-0.0853,0.3369,0.4653,-12.84,False,False
+501039,Customer 169,Investigation/Estimate Only,Multifamily / Light Commercial,2025-10-04,281.57,326.34,-44.77,-0.1372,0.4213,0.5036,-8.23,False,False
+501040,Customer 117,Investigation/Estimate Only,Multifamily / Light Commercial,2025-07-05,1082.87,991.73,91.14,0.0919,0.7975,0.85,-5.25,False,False
+501041,Customer 115,General Plumbing Service,Commercial,2025-12-31,660.99,548.35,112.64,0.2054,0.6904,0.6754,1.5,False,True
+501042,Customer 135,General Plumbing Service,Commercial,2025-06-22,247.13,296.35,-49.22,-0.1661,0.3613,0.4477,-8.64,False,False
+501043,Customer 192,General Plumbing Service,Commercial,2025-06-24,815.57,786.81,28.76,0.0366,0.6357,0.7326,-9.69,False,False
+501044,Customer 186,Investigation/Estimate Only,Multifamily / Light Commercial,2025-02-16,185.5,259.72,-74.22,-0.2858,-0.1056,-0.0312,-7.44,True,False
+501045,Customer 025,Emergency Call,Commercial,2025-10-22,1149.81,1476.35,-326.54,-0.2212,0.6014,0.6907,-8.93,False,False
+501046,Customer 132,Secondary Stoppage,Single-family Residential,2025-09-14,602.03,660.35,-58.32,-0.0883,0.572,0.6164,-4.44,False,False
+501047,Customer 084,Hydro Jetting,Commercial,2025-11-11,1406.87,1202.21,204.66,0.1702,0.6482,0.696,-4.78,False,True
+501048,Customer 176,Backflow Repairs/Replacement,Commercial,2025-02-03,3314.54,3752.9,-438.36,-0.1168,0.6091,0.554,5.51,False,False
+501049,Customer 112,Secondary Stoppage,Commercial,2025-03-19,329.79,375.79,-46.0,-0.1224,0.5144,0.5936,-7.92,False,False
+501051,Customer 096,Investigation/Estimate Only,Commercial,2025-01-16,236.32,235.05,1.27,0.0054,0.2281,0.2567,-2.86,True,False
+501052,Customer 150,Secondary Stoppage,Multifamily / Light Commercial,2025-07-05,321.1,319.32,1.78,0.0056,0.3619,0.4055,-4.36,False,False
+501053,Customer 024,Investigation/Estimate Only,Multifamily / Light Commercial,2025-05-28,270.99,307.17,-36.18,-0.1178,0.3728,0.3081,6.47,True,False
+501054,Customer 206,Secondary Stoppage,Commercial,2025-12-09,671.08,517.04,154.04,0.2979,0.5414,0.5537,-1.23,False,True
+501055,Customer 034,Backflow Testing,Multifamily / Light Commercial,2025-11-09,310.47,323.34,-12.87,-0.0398,0.8138,0.7297,8.41,False,False
+501056,Customer 084,Leak Detection,Commercial,2025-11-24,530.86,521.97,8.89,0.017,0.4213,0.5135,-9.22,False,False
+501057,Customer 185,Secondary Stoppage,Commercial,2025-04-16,478.15,508.81,-30.66,-0.0603,0.5791,0.583,-0.39,False,False
+501058,Customer 213,Fixtures,Commercial,2025-08-03,780.16,731.86,48.3,0.066,0.5706,0.6167,-4.61,False,False
+501059,Customer 107,Backflow Testing,Commercial,2025-09-13,244.66,206.42,38.24,0.1853,0.5948,0.6929,-9.81,False,True
+501060,Customer 107,Video Camera Inspection,Multifamily / Light Commercial,2025-12-20,749.97,600.19,149.78,0.2496,0.6681,0.6735,-0.54,False,True
+501062,Customer 216,Secondary Stoppage,Multifamily / Light Commercial,2025-12-23,612.5,691.57,-79.07,-0.1143,0.742,0.6034,13.86,False,False
+501063,Customer 004,General Plumbing Service,Multifamily / Light Commercial,2025-05-10,555.65,476.9,78.75,0.1651,0.4552,0.5234,-6.82,False,True
+501064,Customer 006,Secondary Stoppage,Multifamily / Light Commercial,2025-02-16,451.23,416.86,34.37,0.0824,0.4052,0.4154,-1.02,False,False
+501065,Customer 105,Toilet,Commercial,2025-08-13,2880.72,2513.32,367.4,0.1462,0.5139,0.6189,-10.5,False,True
+501066,Customer 001,Emergency Call,Commercial,2025-10-13,2985.2,3026.92,-41.72,-0.0138,0.3209,0.4376,-11.67,False,False
+501068,Customer 139,Investigation/Estimate Only,Multifamily / Light Commercial,2025-01-15,529.86,545.16,-15.3,-0.0281,0.5252,0.5882,-6.3,False,False
+501069,Customer 156,Emergency Call,Single-family Residential,2025-11-24,729.9,640.06,89.84,0.1404,0.5119,0.5479,-3.6,False,True
+501070,Customer 066,Commercial Water Heater,Commercial,2025-12-07,5864.33,5129.73,734.6,0.1432,0.4921,0.5245,-3.24,False,True
+501071,Customer 175,Water Repipe/Install,Multifamily / Light Commercial,2025-02-27,4108.69,3327.26,781.43,0.2349,0.4643,0.4824,-1.81,False,True
+501072,Customer 134,Emergency Call,Multifamily / Light Commercial,2025-11-26,948.58,921.15,27.43,0.0298,0.5212,0.6531,-13.19,False,False
+501073,Customer 051,Video Camera Inspection,Multifamily / Light Commercial,2025-11-29,516.85,525.27,-8.42,-0.016,0.5415,0.5916,-5.01,False,False
+501074,Customer 157,Backflow Repairs/Replacement,Multifamily / Light Commercial,2025-12-31,1274.99,2020.52,-745.53,-0.369,0.3774,0.3373,4.01,True,False
+501076,Customer 179,Fixtures,Multifamily / Light Commercial,2025-07-31,520.98,687.03,-166.05,-0.2417,0.5865,0.6952,-10.87,False,False
+501077,Customer 034,Fixtures,Multifamily / Light Commercial,2025-12-29,1719.27,1827.33,-108.06,-0.0591,0.612,0.6404,-2.84,False,False
+501078,Customer 051,General Plumbing Service,Commercial,2025-11-26,732.92,877.91,-144.99,-0.1652,0.7461,0.7227,2.34,False,False
+501079,Customer 067,Emergency Call,Multifamily / Light Commercial,2025-08-09,2014.34,1795.12,219.22,0.1221,0.3541,0.4167,-6.26,False,True
+501080,Customer 076,Secondary Stoppage,Commercial,2025-03-13,843.69,1050.02,-206.33,-0.1965,0.7278,0.7005,2.73,False,False
+501081,Customer 196,Leak Detection,Multifamily / Light Commercial,2025-01-31,844.39,913.05,-68.66,-0.0752,0.2732,0.3949,-12.17,True,False
+501082,Customer 162,Leak Detection,Commercial,2025-04-05,2102.0,2258.53,-156.53,-0.0693,0.6294,0.5583,7.11,False,False
+501083,Customer 120,Backflow Repairs/Replacement,Commercial,2025-01-24,5346.66,4528.34,818.32,0.1807,0.4543,0.425,2.93,False,True
+501084,Customer 119,Tankless Water Heater,Commercial,2025-03-13,2438.66,2683.49,-244.83,-0.0912,0.2173,0.2128,0.45,True,False
+501085,Customer 195,Hydro Jetting,Commercial,2025-01-28,2070.93,1939.32,131.61,0.0679,0.8723,0.7823,9.0,False,False
+501086,Customer 099,Hydro Jetting,Commercial,2025-10-06,695.65,675.81,19.84,0.0294,0.4717,0.498,-2.63,False,False
+501087,Customer 050,Hydro Jetting,Commercial,2025-08-04,1454.91,1281.3,173.61,0.1355,0.569,0.6184,-4.94,False,True
+501088,Customer 031,Fixtures,Commercial,2025-07-09,974.8,864.54,110.26,0.1275,0.9,0.8424,5.76,False,True
+501089,Customer 073,Fixtures,Commercial,2025-10-23,294.55,296.03,-1.48,-0.005,0.5644,0.4171,14.73,False,False
+501090,Customer 144,Secondary Stoppage,Multifamily / Light Commercial,2025-05-30,922.7,1237.6,-314.9,-0.2544,0.4436,0.4991,-5.55,False,False
+501091,Customer 104,General Plumbing Service,Multifamily / Light Commercial,2025-05-28,959.8,994.37,-34.57,-0.0348,0.6584,0.6675,-0.91,False,False
+501092,Customer 093,Secondary Stoppage,Multifamily / Light Commercial,2025-03-17,857.82,860.4,-2.58,-0.003,0.7187,0.6351,8.36,False,False
+501093,Customer 106,Secondary Stoppage,Commercial,2025-06-12,705.54,676.52,29.02,0.0429,0.4659,0.4722,-0.63,False,False
+501094,Customer 215,Water Repipe/Install,Commercial,2025-03-05,3163.18,3556.66,-393.48,-0.1106,0.5476,0.5,4.76,False,False
+501095,Customer 220,Emergency Call,Multifamily / Light Commercial,2025-08-04,1856.21,1584.97,271.24,0.1711,0.7714,0.709,6.24,False,True
+501096,Customer 036,Secondary Stoppage,Commercial,2025-12-31,149.7,149.39,0.31,0.0021,0.2745,0.3195,-4.5,True,False
+501097,Customer 026,Main Line Stoppage,Commercial,2025-07-14,352.42,408.87,-56.45,-0.1381,0.4999,0.4664,3.35,False,False
+501098,Customer 054,Backflow Repairs/Replacement,Multifamily / Light Commercial,2025-04-20,3247.19,3486.86,-239.67,-0.0687,0.6249,0.6254,-0.05,False,False
+501099,Customer 188,Investigation/Estimate Only,Multifamily / Light Commercial,2025-09-09,121.01,93.86,27.15,0.2893,0.1311,0.2284,-9.73,True,True
+501100,Customer 102,Investigation/Estimate Only,Commercial,2025-10-27,1047.9,952.93,94.97,0.0997,0.7708,0.85,-7.92,False,False
+501101,Customer 191,Emergency Call,Multifamily / Light Commercial,2025-06-22,557.78,481.98,75.8,0.1573,0.4471,0.4993,-5.22,False,True
+501102,Customer 143,Main Line Stoppage,Commercial,2025-04-02,864.16,1024.17,-160.01,-0.1562,0.7067,0.6324,7.43,False,False
+501103,Customer 122,Backflow Repairs/Replacement,Multifamily / Light Commercial,2025-09-18,3741.51,4172.65,-431.14,-0.1033,0.7012,0.6243,7.69,False,False
+501104,Customer 062,Investigation/Estimate Only,Commercial,2025-03-10,289.33,322.27,-32.94,-0.1022,0.6264,0.5664,6.0,False,False
+501106,Customer 033,Investigation/Estimate Only,Multifamily / Light Commercial,2025-04-27,480.45,467.52,12.93,0.0277,0.3495,0.3143,3.52,True,False
+501107,Customer 115,Emergency Call,Commercial,2025-05-08,4291.9,4406.92,-115.02,-0.0261,0.7281,0.6951,3.3,False,False
+501108,Customer 062,Ejection Pump System,Multifamily / Light Commercial,2025-09-23,3614.41,3900.82,-286.41,-0.0734,0.2666,0.2444,2.22,True,False
+501109,Customer 065,Secondary Stoppage,Commercial,2025-01-05,1298.69,1373.71,-75.02,-0.0546,0.6834,0.6508,3.26,False,False
+501110,Customer 009,Investigation/Estimate Only,Multifamily / Light Commercial,2025-03-16,208.01,236.14,-28.13,-0.1191,0.3432,0.3052,3.8,True,False
+501111,Customer 176,Emergency Call,Multifamily / Light Commercial,2025-02-15,222.82,229.0,-6.18,-0.027,0.3796,0.492,-11.24,False,False
+501112,Customer 207,General Plumbing Service,Commercial,2025-05-23,1883.98,1614.4,269.58,0.167,0.6498,0.713,-6.32,False,True
+501113,Customer 110,Video Camera Inspection,Multifamily / Light Commercial,2025-07-22,417.26,539.77,-122.51,-0.227,0.4661,0.5484,-8.23,False,False
+501114,Customer 118,Tankless Water Heater,Commercial,2025-03-07,4658.3,4428.16,230.14,0.052,0.4104,0.3218,8.86,True,False
+501115,Customer 204,Investigation/Estimate Only,Commercial,2025-05-06,522.42,432.82,89.6,0.207,0.3157,0.1834,13.23,True,True
+501116,Customer 113,Investigation/Estimate Only,Commercial,2025-10-09,106.36,109.37,-3.01,-0.0275,0.0263,0.1998,-17.35,True,False
+501117,Customer 137,Main Line Stoppage,Multifamily / Light Commercial,2025-12-10,486.8,528.75,-41.95,-0.0793,0.8767,0.7515,12.52,False,False
+501118,Customer 095,Secondary Stoppage,Multifamily / Light Commercial,2025-01-06,337.37,296.29,41.08,0.1386,0.4314,0.4245,0.69,False,True
+501119,Customer 114,Commercial Water Heater,Multifamily / Light Commercial,2025-08-18,5728.24,6720.39,-992.15,-0.1476,0.584,0.503,8.1,False,False
+501120,Customer 115,General Plumbing Service,Multifamily / Light Commercial,2025-01-10,358.5,359.72,-1.22,-0.0034,0.6568,0.6163,4.05,False,False
+501121,Customer 157,Investigation/Estimate Only,Multifamily / Light Commercial,2025-07-09,135.07,160.03,-24.96,-0.156,0.4068,0.2916,11.52,True,False
+501122,Customer 133,Backflow Repairs/Replacement,Commercial,2025-11-18,3104.07,4314.29,-1210.22,-0.2805,0.6345,0.6177,1.68,False,False
+501123,Customer 111,Investigation/Estimate Only,Multifamily / Light Commercial,2025-10-19,187.24,191.61,-4.37,-0.0228,0.0286,0.1377,-10.91,True,False
+501124,Customer 017,Emergency Call,Multifamily / Light Commercial,2025-03-26,378.62,467.15,-88.53,-0.1895,0.2993,0.3078,-0.85,True,False
+501125,Customer 199,Water Repipe/Install,Commercial,2025-04-05,7218.75,7231.41,-12.66,-0.0018,0.5371,0.4958,4.13,False,False
+501126,Customer 196,Fixtures,Multifamily / Light Commercial,2025-10-13,918.82,787.16,131.66,0.1673,0.7007,0.718,-1.73,False,True
+501127,Customer 041,Backflow Testing,Commercial,2025-10-27,276.22,216.11,60.11,0.2781,0.5911,0.5385,5.26,False,True
+501128,Customer 065,General Plumbing Service,Commercial,2025-04-13,509.46,502.41,7.05,0.014,0.5967,0.602,-0.53,False,False
+501129,Customer 215,Ejection Pump System,Commercial,2025-01-02,13924.65,12078.12,1846.53,0.1529,0.3834,0.431,-4.76,False,True
+501130,Customer 071,Ejection Pump System,Commercial,2025-06-12,15366.04,14498.39,867.65,0.0598,0.5089,0.5958,-8.69,False,False
+501131,Customer 179,Fixtures,Commercial,2025-08-15,968.45,1027.5,-59.05,-0.0575,0.7095,0.7408,-3.13,False,False
+501132,Customer 173,Investigation/Estimate Only,Multifamily / Light Commercial,2025-06-11,374.85,527.0,-152.15,-0.2887,0.8332,0.8168,1.64,False,False
+501133,Customer 190,Backflow Testing,Multifamily / Light Commercial,2025-12-08,496.69,399.28,97.41,0.244,0.5779,0.7347,-15.68,False,True
+501134,Customer 004,Toilet,Multifamily / Light Commercial,2025-10-24,863.71,1025.01,-161.3,-0.1574,0.5941,0.6565,-6.24,False,False
+501135,Customer 107,Secondary Stoppage,Commercial,2025-10-15,2828.58,2342.67,485.91,0.2074,0.3513,0.511,-15.97,False,True
+501136,Customer 125,Fixtures,Commercial,2025-01-08,2891.72,2676.23,215.49,0.0805,0.6811,0.7305,-4.94,False,False
+501137,Customer 185,Emergency Call,Commercial,2025-11-08,1089.82,1276.74,-186.92,-0.1464,0.6936,0.5978,9.58,False,False
+501139,Customer 068,General Plumbing Service,Commercial,2025-05-25,4269.56,4078.68,190.88,0.0468,0.735,0.8299,-9.49,False,False
+501140,Customer 040,Emergency Call,Multifamily / Light Commercial,2025-08-04,2008.48,1521.65,486.83,0.3199,0.7297,0.6734,5.63,False,True
+501141,Customer 168,Main Line Stoppage,Multifamily / Light Commercial,2025-10-28,997.28,810.57,186.71,0.2303,0.7537,0.5258,22.79,False,True
+501142,Customer 220,Backflow Repairs/Replacement,Multifamily / Light Commercial,2025-11-27,1508.9,1634.61,-125.71,-0.0769,0.7009,0.5846,11.63,False,False
+501143,Customer 031,Main Line Stoppage,Multifamily / Light Commercial,2025-07-21,985.83,1103.7,-117.87,-0.1068,0.5819,0.5712,1.07,False,False
+501144,Customer 052,Emergency Call,Commercial,2025-01-16,5005.61,4931.48,74.13,0.015,0.7266,0.6579,6.87,False,False
+501145,Customer 068,Secondary Stoppage,Multifamily / Light Commercial,2025-08-14,200.06,205.15,-5.09,-0.0248,0.3254,0.435,-10.96,False,False
+501146,Customer 196,Hydro Jetting,Multifamily / Light Commercial,2025-09-06,1819.61,1542.09,277.52,0.18,0.6258,0.7517,-12.59,False,True
+501147,Customer 099,Main Line Stoppage,Multifamily / Light Commercial,2025-01-22,1668.52,1501.9,166.62,0.1109,0.6723,0.67,0.23,False,False
+501148,Customer 063,Fixtures,Multifamily / Light Commercial,2025-10-26,405.7,543.71,-138.01,-0.2538,0.7112,0.6793,3.19,False,False
+501149,Customer 071,Commercial Water Heater,Multifamily / Light Commercial,2025-03-15,4465.8,4178.33,287.47,0.0688,0.4809,0.3933,8.76,True,False
+501150,Customer 132,Investigation/Estimate Only,Single-family Residential,2025-11-22,800.37,822.46,-22.09,-0.0269,0.5911,0.6366,-4.55,False,False
+501151,Customer 086,Commercial Water Heater,Commercial,2025-07-21,9271.12,9219.8,51.32,0.0056,0.4728,0.4573,1.55,False,False
+501152,Customer 031,Investigation/Estimate Only,Multifamily / Light Commercial,2025-04-28,169.77,163.66,6.11,0.0373,0.3339,0.3212,1.27,True,False
+501153,Customer 181,Investigation/Estimate Only,Multifamily / Light Commercial,2025-01-22,89.43,75.8,13.63,0.1798,-0.3604,-0.3499,-1.05,True,True
+501154,Customer 093,Fixtures,Commercial,2025-01-07,2598.73,2266.33,332.4,0.1467,0.5922,0.598,-0.58,False,True
+501155,Customer 057,Investigation/Estimate Only,Multifamily / Light Commercial,2025-09-28,142.6,160.67,-18.07,-0.1125,0.316,0.3844,-6.84,True,False
+501156,Customer 161,Investigation/Estimate Only,Commercial,2025-05-18,183.09,184.71,-1.62,-0.0088,0.1989,0.1765,2.24,True,False
+501157,Customer 164,Investigation/Estimate Only,Multifamily / Light Commercial,2025-11-03,242.06,259.52,-17.46,-0.0673,0.4298,0.4142,1.56,False,False
+501158,Customer 035,Emergency Call,Commercial,2025-03-26,730.57,977.06,-246.49,-0.2523,0.6781,0.7133,-3.52,False,False
+501159,Customer 017,Hydro Jetting,Commercial,2025-12-02,1056.4,1074.02,-17.62,-0.0164,0.5403,0.487,5.33,False,False
+501161,Customer 169,General Plumbing Service,Commercial,2025-02-07,1301.55,1019.45,282.1,0.2767,0.6374,0.5552,8.22,False,True
+501162,Customer 138,Main Line Stoppage,Commercial,2025-08-25,648.46,872.53,-224.07,-0.2568,0.7134,0.6592,5.42,False,False
+501163,Customer 175,Investigation/Estimate Only,Commercial,2025-12-09,1245.95,1250.46,-4.51,-0.0036,0.6222,0.7056,-8.34,False,False
+501164,Customer 138,Investigation/Estimate Only,Commercial,2025-04-28,421.57,425.15,-3.58,-0.0084,0.6487,0.6407,0.8,False,False
+501165,Customer 089,Backflow Repairs/Replacement,Multifamily / Light Commercial,2025-01-25,5258.36,5040.8,217.56,0.0432,0.3813,0.4542,-7.29,False,False
+501167,Customer 159,Fixtures,Commercial,2025-06-23,442.53,517.22,-74.69,-0.1444,0.5567,0.549,0.77,False,False
+501168,Customer 088,Main Line Stoppage,Multifamily / Light Commercial,2025-01-10,770.3,979.73,-209.43,-0.2138,0.4901,0.5627,-7.26,False,False
+501170,Customer 198,Emergency Call,Multifamily / Light Commercial,2025-09-05,3702.98,4668.34,-965.36,-0.2068,0.7381,0.6359,10.22,False,False
+501171,Customer 177,Hydro Jetting,Commercial,2025-01-26,929.67,774.96,154.71,0.1996,0.624,0.5613,6.27,False,True
+501172,Customer 219,Secondary Stoppage,Commercial,2025-04-05,186.34,218.56,-32.22,-0.1474,0.4004,0.3082,9.22,True,False
+501173,Customer 086,Hydro Jetting,Commercial,2025-01-07,1584.06,1712.38,-128.32,-0.0749,0.6333,0.5492,8.41,False,False
+501174,Customer 026,Fixtures,Multifamily / Light Commercial,2025-12-15,432.76,328.92,103.84,0.3157,0.403,0.4246,-2.16,False,True
+501175,Customer 107,Hydro Jetting,Multifamily / Light Commercial,2025-01-10,5482.4,6160.96,-678.56,-0.1101,0.8057,0.8397,-3.4,False,False
+501176,Customer 165,Fixtures,Commercial,2025-10-18,1448.08,1377.34,70.74,0.0514,0.7975,0.6582,13.93,False,False
+501179,Customer 065,Secondary Stoppage,Commercial,2025-10-24,482.2,415.84,66.36,0.1596,0.6875,0.7007,-1.32,False,True
+501180,Customer 099,Hydro Jetting,Multifamily / Light Commercial,2025-11-23,1299.16,1127.39,171.77,0.1524,0.5348,0.6432,-10.84,False,True
+501181,Customer 177,Investigation/Estimate Only,Multifamily / Light Commercial,2025-02-16,323.32,404.02,-80.7,-0.1997,0.4438,0.3632,8.06,True,False
+501182,Customer 014,Investigation/Estimate Only,Commercial,2025-01-07,337.2,377.6,-40.4,-0.107,0.8088,0.7973,1.15,False,False
+501184,Customer 051,Investigation/Estimate Only,Commercial,2025-09-07,315.09,301.42,13.67,0.0454,0.5196,0.3991,12.05,True,False
+501185,Customer 178,Main Line Stoppage,Multifamily / Light Commercial,2025-07-27,944.21,732.31,211.9,0.2894,0.5005,0.4811,1.94,False,True
+501186,Customer 104,Emergency Call,Commercial,2025-01-31,231.36,261.2,-29.84,-0.1142,0.6041,0.6057,-0.16,False,False
+501187,Customer 020,Ejection Pump System,Multifamily / Light Commercial,2025-03-27,10220.3,11037.54,-817.24,-0.074,0.4843,0.3622,12.21,True,False
+501189,Customer 010,General Plumbing Service,Multifamily / Light Commercial,2025-09-24,2244.01,2111.14,132.87,0.0629,0.4646,0.5877,-12.31,False,False
+501190,Customer 105,Emergency Call,Multifamily / Light Commercial,2025-05-06,1033.96,946.03,87.93,0.0929,0.3658,0.4126,-4.68,False,False
+501191,Customer 220,Emergency Call,Commercial,2025-12-13,258.81,234.85,23.96,0.102,0.4026,0.4736,-7.1,False,False
+501192,Customer 125,Commercial Water Heater,Multifamily / Light Commercial,2025-12-29,22972.26,26312.75,-3340.49,-0.127,0.2592,0.4348,-17.56,False,False
+501193,Customer 192,Toilet,Single-family Residential,2025-10-07,845.31,918.62,-73.31,-0.0798,0.6688,0.5989,6.99,False,False
+501195,Customer 195,Secondary Stoppage,Commercial,2025-11-17,648.47,628.16,20.31,0.0323,0.5637,0.6083,-4.46,False,False
+501196,Customer 069,Secondary Stoppage,Multifamily / Light Commercial,2025-09-23,628.42,528.37,100.05,0.1894,0.8427,0.7703,7.24,False,True
+501197,Customer 210,General Plumbing Service,Commercial,2025-07-09,363.13,376.6,-13.47,-0.0358,0.4942,0.4631,3.11,False,False
+501198,Customer 053,Secondary Stoppage,Commercial,2025-06-11,2143.48,2150.67,-7.19,-0.0033,0.7928,0.7442,4.86,False,False
+501199,Customer 097,Hydro Jetting,Multifamily / Light Commercial,2025-10-31,1078.9,1275.13,-196.23,-0.1539,0.5501,0.5865,-3.64,False,False
+501200,Customer 150,Water Repipe/Install,Multifamily / Light Commercial,2025-07-23,4963.64,3879.41,1084.23,0.2795,0.6613,0.7224,-6.11,False,True
+501201,Customer 064,Water Repipe/Install,Multifamily / Light Commercial,2025-03-08,5444.72,5321.58,123.14,0.0231,0.2531,0.2459,0.72,True,False
+501202,Customer 059,Main Line Stoppage,Commercial,2025-12-31,2344.97,2018.63,326.34,0.1617,0.6455,0.572,7.35,False,True
+501203,Customer 029,Backflow Testing,Multifamily / Light Commercial,2025-01-25,319.3,317.87,1.43,0.0045,0.7097,0.7137,-0.4,False,False
+501204,Customer 001,Investigation/Estimate Only,Multifamily / Light Commercial,2025-09-11,295.24,291.51,3.73,0.0128,0.4522,0.5084,-5.62,False,False
+501205,Customer 111,Investigation/Estimate Only,Commercial,2025-08-28,563.02,726.52,-163.5,-0.225,0.7427,0.8386,-9.59,False,False
+501206,Customer 218,Water Repipe/Install,Multifamily / Light Commercial,2025-08-02,10476.12,15465.51,-4989.39,-0.3226,0.6321,0.6158,1.63,False,False
+501207,Customer 049,Fixtures,Commercial,2025-01-19,2470.52,2079.94,390.58,0.1878,0.7066,0.7509,-4.43,False,True
+501208,Customer 097,Secondary Stoppage,Commercial,2025-06-29,500.34,494.55,5.79,0.0117,0.6882,0.6939,-0.57,False,False
+501209,Customer 206,Emergency Call,Multifamily / Light Commercial,2025-11-22,1798.69,1744.67,54.02,0.031,0.3247,0.3438,-1.91,True,False
+501210,Customer 170,Hydro Jetting,Single-family Residential,2025-03-29,1562.26,1922.45,-360.19,-0.1874,0.6482,0.6838,-3.56,False,False
+501211,Customer 001,Main Line Stoppage,Commercial,2025-09-10,996.92,1153.12,-156.2,-0.1355,0.6561,0.6326,2.35,False,False
+501213,Customer 032,Emergency Call,Commercial,2025-12-14,287.76,248.21,39.55,0.1593,0.4331,0.3887,4.44,True,True
+501215,Customer 055,Fixtures,Commercial,2025-04-25,3647.59,2892.57,755.02,0.261,0.7787,0.6215,15.72,False,True
+501216,Customer 135,Secondary Stoppage,Multifamily / Light Commercial,2025-09-13,1691.26,1865.07,-173.81,-0.0932,0.9,0.85,5.0,False,False
+501217,Customer 044,Water Repipe/Install,Single-family Residential,2025-06-27,7107.86,6457.45,650.41,0.1007,0.5882,0.4607,12.75,False,False
+501219,Customer 050,Investigation/Estimate Only,Multifamily / Light Commercial,2025-09-28,159.45,155.03,4.42,0.0285,-0.0289,0.0366,-6.55,True,False
+501220,Customer 079,Investigation/Estimate Only,Multifamily / Light Commercial,2025-09-17,1643.5,1673.76,-30.26,-0.0181,0.68,0.8081,-12.81,False,False
+501221,Customer 145,Secondary Stoppage,Multifamily / Light Commercial,2025-03-30,642.17,502.56,139.61,0.2778,0.6491,0.6503,-0.12,False,True
+501222,Customer 088,Commercial Water Heater,Commercial,2025-10-03,7255.38,7784.58,-529.2,-0.068,0.6147,0.5461,6.86,False,False
+501223,Customer 073,General Plumbing Service,Commercial,2025-07-17,526.49,443.88,82.61,0.1861,0.6521,0.596,5.61,False,True
+501224,Customer 114,Investigation/Estimate Only,Commercial,2025-12-06,486.75,460.41,26.34,0.0572,0.6554,0.5585,9.69,False,False
+501225,Customer 136,Commercial Water Heater,Multifamily / Light Commercial,2025-08-29,7683.07,7702.58,-19.51,-0.0025,0.1728,0.3757,-20.29,True,False
+501226,Customer 004,Fixtures,Multifamily / Light Commercial,2025-11-22,248.53,206.11,42.42,0.2058,0.502,0.4018,10.02,False,True
+501227,Customer 196,Fixtures,Commercial,2025-12-24,861.91,825.96,35.95,0.0435,0.8627,0.8359,2.68,False,False
+501228,Customer 202,Video Camera Inspection,Commercial,2025-12-29,580.64,589.16,-8.52,-0.0145,0.4734,0.5969,-12.35,False,False
+501229,Customer 133,Investigation/Estimate Only,Multifamily / Light Commercial,2025-09-29,134.95,111.81,23.14,0.207,0.2607,0.2028,5.79,True,True
+501230,Customer 127,Secondary Stoppage,Commercial,2025-08-07,234.73,197.69,37.04,0.1874,0.4692,0.4556,1.36,False,True
+501232,Customer 097,Secondary Stoppage,Multifamily / Light Commercial,2025-05-21,226.29,191.72,34.57,0.1803,0.4488,0.4183,3.05,False,True
+501233,Customer 081,Backflow Testing,Commercial,2025-06-23,216.52,519.45,-302.93,-0.5832,0.786,0.7061,7.99,False,False
+501234,Customer 078,Secondary Stoppage,Commercial,2025-10-12,1145.47,1074.52,70.95,0.066,0.8049,0.7705,3.44,False,False
+501235,Customer 036,Investigation/Estimate Only,Commercial,2025-08-03,354.15,343.23,10.92,0.0318,0.2637,0.3815,-11.78,True,False
+501236,Customer 186,Secondary Stoppage,Commercial,2025-06-10,517.25,519.97,-2.72,-0.0052,0.6404,0.6518,-1.14,False,False
+501238,Customer 063,Investigation/Estimate Only,Multifamily / Light Commercial,2025-09-19,237.81,217.88,19.93,0.0915,0.1951,0.3245,-12.94,True,False
+501239,Customer 213,Investigation/Estimate Only,Multifamily / Light Commercial,2025-06-07,175.79,169.18,6.61,0.0391,0.1935,0.1416,5.19,True,False
+501241,Customer 137,Secondary Stoppage,Multifamily / Light Commercial,2025-04-14,1445.28,1311.9,133.38,0.1017,0.5663,0.4545,11.18,False,False
+501242,Customer 054,Emergency Call,Commercial,2025-11-18,2486.95,2591.1,-104.15,-0.0402,0.3416,0.4409,-9.93,False,False
+501243,Customer 062,Investigation/Estimate Only,Multifamily / Light Commercial,2025-02-13,772.15,630.47,141.68,0.2247,0.7963,0.85,-5.37,False,True
+501245,Customer 100,Secondary Stoppage,Multifamily / Light Commercial,2025-07-06,504.94,452.11,52.83,0.1169,0.4731,0.5437,-7.06,False,True
+501247,Customer 184,Secondary Stoppage,Commercial,2025-03-02,512.42,473.86,38.56,0.0814,0.3049,0.3412,-3.63,True,False
+501248,Customer 089,Commercial Water Heater,Commercial,2025-12-10,5406.99,5034.18,372.81,0.0741,0.5682,0.5352,3.3,False,False
+501249,Customer 148,Leak Detection,Commercial,2025-08-04,1405.35,1197.48,207.87,0.1736,0.5065,0.5419,-3.54,False,True
+501250,Customer 076,Investigation/Estimate Only,Commercial,2025-03-18,326.54,283.15,43.39,0.1532,0.5586,0.5064,5.22,False,True
+501251,Customer 124,Investigation/Estimate Only,Multifamily / Light Commercial,2025-03-03,274.97,279.7,-4.73,-0.0169,0.1117,0.0265,8.52,True,False
+501253,Customer 195,General Plumbing Service,Commercial,2025-09-22,2491.4,2169.18,322.22,0.1485,0.7592,0.6711,8.81,False,True
+501254,Customer 046,Investigation/Estimate Only,Multifamily / Light Commercial,2025-09-24,186.46,181.72,4.74,0.0261,0.0958,0.1853,-8.95,True,False
+501255,Customer 148,Backflow Repairs/Replacement,Multifamily / Light Commercial,2025-03-13,2308.71,1793.12,515.59,0.2875,0.4154,0.3045,11.09,True,True
+501256,Customer 202,Hydro Jetting,Multifamily / Light Commercial,2025-09-22,1176.38,1010.06,166.32,0.1647,0.7399,0.6226,11.73,False,True
+501257,Customer 142,Main Line Stoppage,Multifamily / Light Commercial,2025-11-24,2354.03,2597.81,-243.78,-0.0938,0.8665,0.7423,12.42,False,False
+501259,Customer 042,Ejection Pump System,Multifamily / Light Commercial,2025-01-10,15247.52,11297.75,3949.77,0.3496,0.4376,0.4502,-1.26,False,True
+501260,Customer 045,Investigation/Estimate Only,Multifamily / Light Commercial,2025-12-16,52.52,76.71,-24.19,-0.3153,-0.2621,-0.202,-6.01,True,False
+501261,Customer 024,Emergency Call,Multifamily / Light Commercial,2025-07-10,3695.67,3373.18,322.49,0.0956,0.2648,0.3435,-7.87,True,False
+501262,Customer 166,Secondary Stoppage,Commercial,2025-10-11,661.94,739.13,-77.19,-0.1044,0.4506,0.5387,-8.81,False,False
+501263,Customer 213,Video Camera Inspection,Commercial,2025-04-27,389.78,303.96,85.82,0.2823,0.6548,0.6539,0.09,False,True
+501264,Customer 114,Water Repipe/Install,Commercial,2025-04-20,2071.23,1995.56,75.67,0.0379,0.5186,0.4508,6.78,False,False
+501265,Customer 132,Main Line Stoppage,Multifamily / Light Commercial,2025-03-24,448.89,509.56,-60.67,-0.1191,0.729,0.6245,10.45,False,False
+501266,Customer 171,Investigation/Estimate Only,Commercial,2025-03-21,241.57,251.63,-10.06,-0.04,0.3583,0.3971,-3.88,True,False
+501267,Customer 092,Tankless Water Heater,Multifamily / Light Commercial,2025-06-22,8637.97,9673.95,-1035.98,-0.1071,0.4824,0.4855,-0.31,False,False
+501268,Customer 104,Fixtures,Multifamily / Light Commercial,2025-02-08,240.62,252.19,-11.57,-0.0459,0.6148,0.6231,-0.83,False,False
+501269,Customer 130,Fixtures,Single-family Residential,2025-11-04,657.82,691.93,-34.11,-0.0493,0.5598,0.6106,-5.08,False,False
+501271,Customer 014,Emergency Call,Multifamily / Light Commercial,2025-12-01,239.7,270.14,-30.44,-0.1127,0.7261,0.6672,5.89,False,False
+501272,Customer 125,Emergency Call,Multifamily / Light Commercial,2025-07-03,1544.54,1484.41,60.13,0.0405,0.6265,0.5975,2.9,False,False
+501273,Customer 181,Water Repipe/Install,Commercial,2025-04-21,2300.48,2172.96,127.52,0.0587,0.4311,0.4198,1.13,False,False
+501274,Customer 017,Investigation/Estimate Only,Multifamily / Light Commercial,2025-07-07,219.93,258.57,-38.64,-0.1494,0.5151,0.4864,2.87,False,False
+501275,Customer 048,Secondary Stoppage,Commercial,2025-02-26,373.17,496.73,-123.56,-0.2487,0.6711,0.6219,4.92,False,False
+501277,Customer 178,Investigation/Estimate Only,Multifamily / Light Commercial,2025-09-20,201.82,192.83,8.99,0.0466,0.4994,0.451,4.84,False,False
+501278,Customer 112,Commercial Water Heater,Commercial,2025-02-23,5058.23,4684.47,373.76,0.0798,0.4529,0.52,-6.71,False,False
+501279,Customer 118,Water Repipe/Install,Commercial,2025-08-01,14743.77,13288.27,1455.5,0.1095,0.4333,0.3616,7.17,True,False
+501280,Customer 142,Emergency Call,Commercial,2025-07-16,1852.51,1711.05,141.46,0.0827,0.675,0.6546,2.04,False,False
+501281,Customer 061,Emergency Call,Commercial,2025-03-15,279.82,226.41,53.41,0.2359,0.4534,0.4882,-3.48,False,True
+501282,Customer 157,Emergency Call,Multifamily / Light Commercial,2025-02-14,1957.67,1702.97,254.7,0.1496,0.6669,0.6482,1.87,False,True
+501283,Customer 007,General Plumbing Service,Commercial,2025-10-05,431.71,307.93,123.78,0.402,0.7814,0.7538,2.76,False,True
+501284,Customer 026,Leak Detection,Commercial,2025-04-07,1423.36,971.51,451.85,0.4651,0.4271,0.3406,8.65,True,True
+501285,Customer 180,Video Camera Inspection,Multifamily / Light Commercial,2025-07-09,221.94,301.43,-79.49,-0.2637,0.4465,0.5302,-8.37,False,False
+501286,Customer 145,Emergency Call,Multifamily / Light Commercial,2025-04-01,1245.89,1858.35,-612.46,-0.3296,0.4981,0.3921,10.6,True,False
+501287,Customer 039,Emergency Call,Multifamily / Light Commercial,2025-08-27,575.6,576.24,-0.64,-0.0011,0.2644,0.2625,0.19,True,False
+501288,Customer 097,Fixtures,Multifamily / Light Commercial,2025-01-18,249.0,231.49,17.51,0.0756,0.274,0.3145,-4.05,True,False
+501289,Customer 012,Water Repipe/Install,Commercial,2025-05-12,16914.09,17108.84,-194.75,-0.0114,0.4136,0.4565,-4.29,False,False
+501290,Customer 148,Fixtures,Multifamily / Light Commercial,2025-07-19,2703.78,2445.67,258.11,0.1055,0.7699,0.85,-8.01,False,False
+501291,Customer 167,General Plumbing Service,Commercial,2025-06-10,952.09,992.31,-40.22,-0.0405,0.4832,0.6225,-13.93,False,False
+501293,Customer 078,Secondary Stoppage,Single-family Residential,2025-03-07,705.23,787.17,-81.94,-0.1041,0.8172,0.763,5.42,False,False
+501294,Customer 053,Emergency Call,Multifamily / Light Commercial,2025-06-11,957.11,1041.96,-84.85,-0.0814,0.7611,0.6026,15.85,False,False
+501295,Customer 086,Emergency Call,Multifamily / Light Commercial,2025-10-04,1127.24,1162.13,-34.89,-0.03,0.5189,0.6483,-12.94,False,False
+501297,Customer 055,Investigation/Estimate Only,Commercial,2025-02-27,292.39,259.55,32.84,0.1265,0.4785,0.5545,-7.6,False,True
+501298,Customer 095,Backflow Testing,Multifamily / Light Commercial,2025-11-06,223.33,240.92,-17.59,-0.073,0.6566,0.5965,6.01,False,False
+501299,Customer 190,Emergency Call,Multifamily / Light Commercial,2025-10-12,1152.93,1205.17,-52.24,-0.0433,0.5427,0.5464,-0.37,False,False
+501300,Customer 168,Secondary Stoppage,Single-family Residential,2025-09-06,1086.32,1000.73,85.59,0.0855,0.5997,0.5329,6.68,False,False
+501301,Customer 066,Water Repipe/Install,Commercial,2025-10-19,4530.8,4670.06,-139.26,-0.0298,0.7274,0.7355,-0.81,False,False
+501302,Customer 208,Hydro Jetting,Commercial,2025-10-12,3213.66,2752.58,461.08,0.1675,0.6064,0.6529,-4.65,False,True
+501303,Customer 047,Secondary Stoppage,Multifamily / Light Commercial,2025-09-30,670.75,778.07,-107.32,-0.1379,0.5371,0.5552,-1.81,False,False
+501304,Customer 201,Main Line Stoppage,Commercial,2025-07-05,868.57,1047.04,-178.47,-0.1705,0.5471,0.7377,-19.06,False,False
+501305,Customer 069,Leak Detection,Commercial,2025-01-08,1091.99,1044.27,47.72,0.0457,0.5909,0.6824,-9.15,False,False
+501307,Customer 045,General Plumbing Service,Multifamily / Light Commercial,2025-04-10,1263.64,1191.39,72.25,0.0606,0.6789,0.603,7.59,False,False
+501308,Customer 168,Investigation/Estimate Only,Commercial,2025-10-10,265.72,305.33,-39.61,-0.1297,0.4427,0.3473,9.54,True,False
+501309,Customer 070,Video Camera Inspection,Commercial,2025-06-20,1639.03,1364.11,274.92,0.2015,0.9,0.8253,7.47,False,True
+501310,Customer 192,Emergency Call,Commercial,2025-11-27,2072.04,1607.8,464.24,0.2887,0.8853,0.85,3.53,False,True
+501312,Customer 111,Water Repipe/Install,Multifamily / Light Commercial,2025-07-20,9023.35,9961.51,-938.16,-0.0942,0.2936,0.4741,-18.05,False,False
+501313,Customer 035,Investigation/Estimate Only,Commercial,2025-12-02,174.66,142.8,31.86,0.2231,0.0479,0.0987,-5.08,True,True
+501314,Customer 196,Investigation/Estimate Only,Commercial,2025-06-23,176.81,275.11,-98.3,-0.3573,0.2326,0.1266,10.6,True,False
+501315,Customer 092,Backflow Testing,Multifamily / Light Commercial,2025-05-18,287.1,247.2,39.9,0.1614,0.7982,0.6684,12.98,False,True
+501316,Customer 149,Water Repipe/Install,Commercial,2025-05-16,4139.98,4751.3,-611.32,-0.1287,0.5762,0.4672,10.9,False,False
+501317,Customer 194,Investigation/Estimate Only,Multifamily / Light Commercial,2025-11-16,195.49,170.52,24.97,0.1464,0.3548,0.3737,-1.89,True,True
+501318,Customer 118,Hydro Jetting,Commercial,2025-10-04,607.2,709.51,-102.31,-0.1442,0.3714,0.4759,-10.45,False,False
+501319,Customer 013,Backflow Repairs/Replacement,Multifamily / Light Commercial,2025-03-01,2048.09,2069.35,-21.26,-0.0103,0.2759,0.2792,-0.33,True,False
+501320,Customer 049,Fixtures,Commercial,2025-06-29,676.9,770.53,-93.63,-0.1215,0.4822,0.481,0.12,False,False
+501321,Customer 047,Fixtures,Multifamily / Light Commercial,2025-05-16,685.57,708.29,-22.72,-0.0321,0.5393,0.4141,12.52,False,False
+501322,Customer 202,Investigation/Estimate Only,Commercial,2025-08-25,421.09,330.4,90.69,0.2745,0.3114,0.2932,1.82,True,True
+501323,Customer 200,Main Line Stoppage,Multifamily / Light Commercial,2025-01-20,964.8,980.68,-15.88,-0.0162,0.5726,0.5713,0.13,False,False
+501324,Customer 105,Emergency Call,Single-family Residential,2025-09-18,2210.83,1679.27,531.56,0.3165,0.8559,0.85,0.59,False,True
+501325,Customer 196,Commercial Water Heater,Multifamily / Light Commercial,2025-09-29,4730.72,5021.31,-290.59,-0.0579,0.4012,0.3692,3.2,True,False
+501326,Customer 055,Emergency Call,Commercial,2025-03-24,3880.22,3170.72,709.5,0.2238,0.5796,0.5295,5.01,False,True
+501327,Customer 150,Water Repipe/Install,Commercial,2025-02-24,1876.16,2481.21,-605.05,-0.2439,0.4509,0.5089,-5.8,False,False
+501328,Customer 087,Secondary Stoppage,Multifamily / Light Commercial,2025-08-18,182.8,191.01,-8.21,-0.043,0.4278,0.5124,-8.46,False,False
+501329,Customer 053,Investigation/Estimate Only,Multifamily / Light Commercial,2025-04-04,1182.69,1286.12,-103.43,-0.0804,0.8209,0.7113,10.96,False,False
+501330,Customer 056,Hydro Jetting,Commercial,2025-12-10,2497.65,2029.53,468.12,0.2307,0.5107,0.642,-13.13,False,True
+501331,Customer 093,Fixtures,Commercial,2025-10-10,461.21,448.74,12.47,0.0278,0.7739,0.6429,13.1,False,False
+501332,Customer 075,Fixtures,Commercial,2025-12-15,694.32,1010.97,-316.65,-0.3132,0.4168,0.5697,-15.29,False,False
+501333,Customer 047,Toilet,Multifamily / Light Commercial,2025-07-15,714.64,889.43,-174.79,-0.1965,0.4049,0.4517,-4.68,False,False
+501334,Customer 074,Toilet,Multifamily / Light Commercial,2025-12-09,714.35,842.29,-127.94,-0.1519,0.5591,0.4814,7.77,False,False
+501335,Customer 029,Backflow Repairs/Replacement,Multifamily / Light Commercial,2025-01-06,430.28,377.4,52.88,0.1401,0.4892,0.4892,0.0,False,True
+501336,Customer 214,Secondary Stoppage,Multifamily / Light Commercial,2025-04-16,406.91,363.07,43.84,0.1207,0.4036,0.5089,-10.53,False,True
+501337,Customer 084,Water Repipe/Install,Commercial,2025-01-01,14878.42,15580.47,-702.05,-0.0451,0.7544,0.7203,3.41,False,False
+501338,Customer 024,Commercial Water Heater,Commercial,2025-09-05,4988.61,5435.85,-447.24,-0.0823,0.2433,0.2379,0.54,True,False
+501339,Customer 127,Emergency Call,Commercial,2025-07-06,1180.24,1065.72,114.52,0.1075,0.5316,0.5489,-1.73,False,False
+501340,Customer 195,Investigation/Estimate Only,Multifamily / Light Commercial,2025-04-15,509.67,613.64,-103.97,-0.1694,0.4904,0.5403,-4.99,False,False
+501341,Customer 080,Main Line Stoppage,Commercial,2025-04-22,1417.11,1326.07,91.04,0.0687,0.5317,0.5345,-0.28,False,False
+501342,Customer 186,Fixtures,Commercial,2025-08-23,411.0,389.25,21.75,0.0559,0.6094,0.656,-4.66,False,False
+501343,Customer 135,Water Repipe/Install,Commercial,2025-03-07,8912.41,9295.27,-382.86,-0.0412,0.5943,0.3995,19.48,True,False
+501344,Customer 163,Tankless Water Heater,Commercial,2025-07-07,6640.49,6266.67,373.82,0.0597,0.5483,0.5675,-1.92,False,False
+501345,Customer 066,Water Repipe/Install,Multifamily / Light Commercial,2025-08-12,6767.18,6665.11,102.07,0.0153,0.3655,0.3954,-2.99,True,False
+501346,Customer 009,Emergency Call,Commercial,2025-03-29,2167.15,2016.68,150.47,0.0746,0.3769,0.4202,-4.33,False,False
+501347,Customer 077,Emergency Call,Commercial,2025-03-25,718.52,898.28,-179.76,-0.2001,0.8087,0.6665,14.22,False,False
+501348,Customer 204,Emergency Call,Multifamily / Light Commercial,2025-05-10,983.65,900.63,83.02,0.0922,0.2366,0.3677,-13.11,True,False
+501350,Customer 173,Main Line Stoppage,Commercial,2025-04-03,983.77,852.49,131.28,0.154,0.5823,0.5535,2.88,False,True
+501351,Customer 194,Backflow Repairs/Replacement,Commercial,2025-05-19,3053.91,2913.64,140.27,0.0481,0.6843,0.7034,-1.91,False,False
+501352,Customer 083,Secondary Stoppage,Multifamily / Light Commercial,2025-07-18,919.58,843.51,76.07,0.0902,0.6273,0.7412,-11.39,False,False
+501353,Customer 071,Secondary Stoppage,Commercial,2025-03-10,1227.13,1247.7,-20.57,-0.0165,0.5747,0.6402,-6.55,False,False
+501354,Customer 204,Commercial Water Heater,Multifamily / Light Commercial,2025-07-27,10330.9,9112.55,1218.35,0.1337,0.3925,0.3671,2.54,True,True
+501355,Customer 126,Investigation/Estimate Only,Multifamily / Light Commercial,2025-02-20,311.92,308.9,3.02,0.0098,0.2893,0.3585,-6.92,True,False
+501356,Customer 066,Fixtures,Multifamily / Light Commercial,2025-02-22,480.84,580.86,-100.02,-0.1722,0.6944,0.6736,2.08,False,False
+501357,Customer 062,Fixtures,Commercial,2025-03-28,1484.35,1321.73,162.62,0.123,0.8622,0.7239,13.83,False,True
+501358,Customer 194,Backflow Testing,Multifamily / Light Commercial,2025-04-15,262.49,347.73,-85.24,-0.2451,0.6743,0.6607,1.36,False,False
+501359,Customer 012,Investigation/Estimate Only,Commercial,2025-01-11,204.8,196.47,8.33,0.0424,-0.0896,0.0267,-11.63,True,False
+501360,Customer 014,General Plumbing Service,Commercial,2025-12-17,1376.24,1460.41,-84.17,-0.0576,0.6368,0.7045,-6.77,False,False
+501361,Customer 163,Emergency Call,Multifamily / Light Commercial,2025-04-23,2428.64,2603.66,-175.02,-0.0672,0.7543,0.7771,-2.28,False,False
+501364,Customer 218,Fixtures,Commercial,2025-10-20,1170.35,1140.92,29.43,0.0258,0.4506,0.4788,-2.82,False,False
+501365,Customer 094,Fixtures,Commercial,2025-10-31,781.12,874.12,-93.0,-0.1064,0.7251,0.7129,1.22,False,False
+501366,Customer 161,Secondary Stoppage,Commercial,2025-02-06,751.53,697.91,53.62,0.0768,0.7574,0.7324,2.5,False,False
+501368,Customer 020,Secondary Stoppage,Multifamily / Light Commercial,2025-09-30,455.59,451.74,3.85,0.0085,0.6895,0.5511,13.84,False,False
+501369,Customer 041,Emergency Call,Commercial,2025-07-30,216.88,239.01,-22.13,-0.0926,0.5862,0.5865,-0.03,False,False
+501370,Customer 168,Investigation/Estimate Only,Multifamily / Light Commercial,2025-01-03,262.9,218.95,43.95,0.2007,0.3523,0.4445,-9.22,False,True
+501371,Customer 021,Video Camera Inspection,Commercial,2025-07-27,529.81,514.02,15.79,0.0307,0.7282,0.6359,9.23,False,False
+501372,Customer 131,Emergency Call,Commercial,2025-10-21,1388.42,1268.4,120.02,0.0946,0.5658,0.4648,10.1,False,False
+501373,Customer 077,Main Line Stoppage,Commercial,2025-10-30,971.25,801.04,170.21,0.2125,0.6422,0.6236,1.86,False,True
+501374,Customer 082,Toilet,Commercial,2025-05-21,1294.31,1069.65,224.66,0.21,0.5186,0.5383,-1.97,False,True
+501375,Customer 210,Investigation/Estimate Only,Commercial,2025-03-28,594.55,546.98,47.57,0.087,0.3377,0.2879,4.98,True,False
+501376,Customer 134,General Plumbing Service,Commercial,2025-04-23,1017.5,1065.89,-48.39,-0.0454,0.6223,0.6392,-1.69,False,False
+501377,Customer 136,Commercial Water Heater,Commercial,2025-04-19,4006.53,5100.32,-1093.79,-0.2145,0.2711,0.4356,-16.45,False,False
+501378,Customer 078,General Plumbing Service,Multifamily / Light Commercial,2025-05-07,1185.94,1150.28,35.66,0.031,0.4743,0.4292,4.51,False,False
+501380,Customer 151,Emergency Call,Commercial,2025-06-16,1837.4,1578.27,259.13,0.1642,0.4989,0.4275,7.14,False,True
+501381,Customer 009,Investigation/Estimate Only,Commercial,2025-01-15,457.83,434.73,23.1,0.0531,0.9,0.83,7.0,False,False
+501382,Customer 053,Fixtures,Multifamily / Light Commercial,2025-04-11,215.28,445.42,-230.14,-0.5167,0.3464,0.4049,-5.85,False,False
+501383,Customer 133,Ejection Pump System,Commercial,2025-04-25,2498.04,2209.66,288.38,0.1305,0.3596,0.3415,1.81,True,True
+501384,Customer 138,Toilet,Multifamily / Light Commercial,2025-02-25,1032.37,905.81,126.56,0.1397,0.3821,0.3623,1.98,True,True
+501385,Customer 021,Investigation/Estimate Only,Commercial,2025-11-17,183.21,191.88,-8.67,-0.0452,0.5024,0.4956,0.68,False,False
+501386,Customer 174,Backflow Testing,Commercial,2025-09-04,328.92,286.45,42.47,0.1483,0.6915,0.6823,0.92,False,True
+501387,Customer 120,Secondary Stoppage,Multifamily / Light Commercial,2025-11-29,160.03,146.25,13.78,0.0942,0.5679,0.5649,0.3,False,False
+501388,Customer 053,Leak Detection,Commercial,2025-07-24,545.43,607.94,-62.51,-0.1028,0.5946,0.5777,1.69,False,False
+501389,Customer 166,Investigation/Estimate Only,Commercial,2025-02-10,422.86,355.14,67.72,0.1907,0.4217,0.3624,5.93,True,True
+501390,Customer 218,Video Camera Inspection,Commercial,2025-11-27,477.39,589.46,-112.07,-0.1901,0.8229,0.7253,9.76,False,False
+501391,Customer 094,Backflow Repairs/Replacement,Single-family Residential,2025-06-17,7970.69,8039.72,-69.03,-0.0086,0.649,0.7095,-6.05,False,False
+501392,Customer 063,Investigation/Estimate Only,Multifamily / Light Commercial,2025-09-07,488.97,500.76,-11.79,-0.0235,0.5077,0.5215,-1.38,False,False
+501394,Customer 131,Backflow Repairs/Replacement,Single-family Residential,2025-06-30,4740.29,5410.15,-669.86,-0.1238,0.1693,0.2031,-3.38,True,False
+501395,Customer 011,Investigation/Estimate Only,Commercial,2025-06-28,278.57,266.43,12.14,0.0456,0.338,0.3833,-4.53,True,False
+501396,Customer 107,Fixtures,Single-family Residential,2025-04-14,1463.53,1223.12,240.41,0.1966,0.6256,0.7549,-12.93,False,True
+501398,Customer 009,Water Repipe/Install,Multifamily / Light Commercial,2025-09-25,15552.57,13100.64,2451.93,0.1872,0.6589,0.657,0.19,False,True
+501399,Customer 095,Emergency Call,Commercial,2025-01-08,2644.62,2385.66,258.96,0.1085,0.4896,0.4513,3.83,False,False
+501401,Customer 195,Investigation/Estimate Only,Multifamily / Light Commercial,2025-11-04,210.33,282.09,-71.76,-0.2544,0.279,0.2914,-1.24,True,False
+501402,Customer 020,Toilet,Commercial,2025-07-27,1386.19,1733.59,-347.4,-0.2004,0.56,0.5607,-0.07,False,False
+501403,Customer 054,Secondary Stoppage,Single-family Residential,2025-12-22,710.31,693.04,17.27,0.0249,0.6937,0.6602,3.35,False,False
+501404,Customer 093,Secondary Stoppage,Commercial,2025-08-09,1592.31,1600.53,-8.22,-0.0051,0.9,0.8493,5.07,False,False
+501405,Customer 127,Secondary Stoppage,Multifamily / Light Commercial,2025-08-27,720.98,779.2,-58.22,-0.0747,0.5805,0.6141,-3.36,False,False
+501406,Customer 218,Toilet,Single-family Residential,2025-11-25,1095.49,851.99,243.5,0.2858,0.5309,0.6246,-9.37,False,True
+501407,Customer 151,Investigation/Estimate Only,Commercial,2025-08-30,361.83,356.17,5.66,0.0159,0.3741,0.3813,-0.72,True,False
+501408,Customer 119,Commercial Water Heater,Multifamily / Light Commercial,2025-05-01,7587.96,7017.04,570.92,0.0814,0.561,0.4103,15.07,False,False
+501410,Customer 018,Main Line Stoppage,Multifamily / Light Commercial,2025-03-27,1123.99,978.93,145.06,0.1482,0.5579,0.6508,-9.29,False,True
+501411,Customer 034,Toilet,Commercial,2025-05-03,1737.73,1723.52,14.21,0.0082,0.7274,0.6754,5.2,False,False
+501412,Customer 146,Backflow Repairs/Replacement,Multifamily / Light Commercial,2025-09-06,1664.28,1198.48,465.8,0.3887,0.5041,0.4115,9.26,False,True
+501413,Customer 073,Video Camera Inspection,Multifamily / Light Commercial,2025-02-24,644.74,750.62,-105.88,-0.1411,0.3676,0.5568,-18.92,False,False
+501414,Customer 054,Investigation/Estimate Only,Commercial,2025-09-03,122.85,135.13,-12.28,-0.0909,0.3369,0.3041,3.28,True,False
+501415,Customer 148,Main Line Stoppage,Commercial,2025-08-02,643.58,749.59,-106.01,-0.1414,0.6765,0.6282,4.83,False,False
+501416,Customer 180,Fixtures,Commercial,2025-04-23,264.21,214.04,50.17,0.2344,0.4445,0.4659,-2.14,False,True
+501417,Customer 097,Fixtures,Multifamily / Light Commercial,2025-01-17,890.79,795.13,95.66,0.1203,0.6672,0.7189,-5.17,False,True
+501418,Customer 195,Leak Detection,Commercial,2025-09-15,435.35,474.04,-38.69,-0.0816,0.4985,0.5458,-4.73,False,False
+501419,Customer 162,Toilet,Multifamily / Light Commercial,2025-10-28,934.7,1073.85,-139.15,-0.1296,0.5627,0.589,-2.63,False,False
+501420,Customer 158,Backflow Testing,Single-family Residential,2025-09-24,699.29,579.01,120.28,0.2077,0.7602,0.7844,-2.42,False,True
+501421,Customer 191,Fixtures,Commercial,2025-06-03,1109.71,1052.6,57.11,0.0543,0.5509,0.5902,-3.93,False,False
+501422,Customer 041,Fixtures,Commercial,2025-08-27,2436.17,2010.77,425.4,0.2116,0.5187,0.5463,-2.76,False,True
+501424,Customer 211,Emergency Call,Commercial,2025-05-11,866.12,874.01,-7.89,-0.009,0.5734,0.4781,9.53,False,False
+501425,Customer 219,Emergency Call,Multifamily / Light Commercial,2025-04-30,694.04,644.58,49.46,0.0767,0.5929,0.6901,-9.72,False,False
+501426,Customer 128,Investigation/Estimate Only,Multifamily / Light Commercial,2025-03-18,292.42,279.82,12.6,0.045,0.2552,0.3951,-13.99,True,False
+501427,Customer 166,Investigation/Estimate Only,Multifamily / Light Commercial,2025-12-20,447.48,493.7,-46.22,-0.0936,0.7995,0.703,9.65,False,False
+501428,Customer 196,Hydro Jetting,Commercial,2025-09-01,1088.22,1112.27,-24.05,-0.0216,0.6192,0.6346,-1.54,False,False
+501429,Customer 188,Emergency Call,Multifamily / Light Commercial,2025-03-05,1499.54,1823.47,-323.93,-0.1776,0.3705,0.4016,-3.11,False,False
+501430,Customer 198,Leak Detection,Multifamily / Light Commercial,2025-11-12,758.77,706.41,52.36,0.0741,0.4761,0.485,-0.89,False,False
+501431,Customer 184,Water Repipe/Install,Commercial,2025-02-25,8039.13,7215.24,823.89,0.1142,0.3744,0.3577,1.67,True,True
+501432,Customer 084,Investigation/Estimate Only,Multifamily / Light Commercial,2025-08-05,371.43,323.4,48.03,0.1485,0.2954,0.3373,-4.19,True,True
+501434,Customer 091,Secondary Stoppage,Multifamily / Light Commercial,2025-05-12,979.84,890.78,89.06,0.1,0.5931,0.5526,4.05,False,False
+501435,Customer 177,Toilet,Commercial,2025-08-29,1658.61,1691.13,-32.52,-0.0192,0.4984,0.5754,-7.7,False,False
+501436,Customer 179,Secondary Stoppage,Commercial,2025-12-31,2080.56,1687.68,392.88,0.2328,0.6162,0.6403,-2.41,False,True
+501437,Customer 206,Fixtures,Commercial,2025-12-29,627.19,553.15,74.04,0.1339,0.1201,0.2973,-17.72,True,True
+501438,Customer 130,Video Camera Inspection,Commercial,2025-11-23,943.9,781.19,162.71,0.2083,0.7425,0.6487,9.38,False,True
+501439,Customer 105,Toilet,Commercial,2025-03-27,1794.05,1473.32,320.73,0.2177,0.58,0.5941,-1.41,False,True
+501440,Customer 037,Secondary Stoppage,Single-family Residential,2025-02-04,551.99,562.59,-10.6,-0.0188,0.7096,0.656,5.36,False,False
+501441,Customer 141,Investigation/Estimate Only,Commercial,2025-11-27,405.52,383.22,22.3,0.0582,0.523,0.4849,3.81,False,False
+501442,Customer 125,Investigation/Estimate Only,Multifamily / Light Commercial,2025-12-03,476.77,427.14,49.63,0.1162,0.2683,0.2243,4.4,True,True
+501443,Customer 114,Investigation/Estimate Only,Commercial,2025-04-12,542.3,655.24,-112.94,-0.1724,0.7491,0.7497,-0.06,False,False
+501444,Customer 149,Secondary Stoppage,Commercial,2025-01-07,552.81,665.27,-112.46,-0.169,0.5322,0.5011,3.11,False,False
+501445,Customer 188,Water Repipe/Install,Commercial,2025-08-25,8330.44,10347.05,-2016.61,-0.1949,0.4461,0.523,-7.69,False,False
+501446,Customer 033,Leak Detection,Commercial,2025-01-28,509.31,517.7,-8.39,-0.0162,0.4642,0.5579,-9.37,False,False
+501447,Customer 095,Fixtures,Multifamily / Light Commercial,2025-01-15,550.59,579.57,-28.98,-0.05,0.6474,0.6555,-0.81,False,False
+501448,Customer 159,General Plumbing Service,Multifamily / Light Commercial,2025-12-09,496.06,632.2,-136.14,-0.2153,0.4237,0.4781,-5.44,False,False
+501449,Customer 181,Secondary Stoppage,Multifamily / Light Commercial,2025-06-30,273.14,267.15,5.99,0.0224,0.6385,0.5245,11.4,False,False
+501450,Customer 172,Main Line Stoppage,Commercial,2025-02-10,1272.23,1290.74,-18.51,-0.0143,0.6521,0.6221,3.0,False,False
+501451,Customer 176,Water Repipe/Install,Multifamily / Light Commercial,2025-08-27,4423.64,3757.33,666.31,0.1773,0.2225,0.2798,-5.73,True,True
+501452,Customer 189,Backflow Repairs/Replacement,Commercial,2025-05-15,3097.08,2378.81,718.27,0.3019,0.3869,0.4086,-2.17,False,True
+501453,Customer 212,Video Camera Inspection,Multifamily / Light Commercial,2025-07-15,535.58,501.26,34.32,0.0685,0.7354,0.7248,1.06,False,False
+501454,Customer 134,Emergency Call,Multifamily / Light Commercial,2025-11-25,732.68,818.18,-85.5,-0.1045,0.5498,0.5552,-0.54,False,False
+501455,Customer 055,Investigation/Estimate Only,Commercial,2025-03-28,2380.21,2169.73,210.48,0.097,0.8717,0.85,2.17,False,False
+501456,Customer 124,Secondary Stoppage,Commercial,2025-08-24,793.73,792.62,1.11,0.0014,0.5727,0.5672,0.55,False,False
+501457,Customer 157,Emergency Call,Commercial,2025-10-30,684.39,709.96,-25.57,-0.036,0.4522,0.5635,-11.13,False,False
+501458,Customer 023,Video Camera Inspection,Commercial,2025-06-04,617.33,708.96,-91.63,-0.1292,0.4681,0.6402,-17.21,False,False
+501459,Customer 167,Emergency Call,Multifamily / Light Commercial,2025-12-21,823.34,884.96,-61.62,-0.0696,0.6777,0.7076,-2.99,False,False
+501460,Customer 120,Hydro Jetting,Multifamily / Light Commercial,2025-06-13,857.54,881.04,-23.5,-0.0267,0.4725,0.4277,4.48,False,False
+501461,Customer 206,Fixtures,Single-family Residential,2025-06-17,1180.97,1053.86,127.11,0.1206,0.6436,0.6726,-2.9,False,True
+501462,Customer 047,Secondary Stoppage,Commercial,2025-11-19,781.11,725.5,55.61,0.0767,0.7387,0.6398,9.89,False,False
+501463,Customer 200,Secondary Stoppage,Multifamily / Light Commercial,2025-08-21,493.24,387.21,106.03,0.2738,0.429,0.4328,-0.38,False,True
+501464,Customer 099,General Plumbing Service,Commercial,2025-11-14,1151.01,1045.28,105.73,0.1011,0.7025,0.5939,10.86,False,False
+501465,Customer 127,General Plumbing Service,Multifamily / Light Commercial,2025-10-16,629.59,591.92,37.67,0.0636,0.8746,0.7824,9.22,False,False
+501466,Customer 146,Emergency Call,Commercial,2025-09-18,383.25,401.7,-18.45,-0.0459,0.6578,0.5737,8.41,False,False
+501467,Customer 128,Secondary Stoppage,Commercial,2025-03-30,834.59,988.4,-153.81,-0.1556,0.7419,0.8382,-9.63,False,False
+501468,Customer 199,Backflow Testing,Multifamily / Light Commercial,2025-05-26,295.68,323.32,-27.64,-0.0855,0.5897,0.5883,0.14,False,False
+501469,Customer 037,Investigation/Estimate Only,Commercial,2025-11-12,453.06,506.2,-53.14,-0.105,0.6855,0.5877,9.78,False,False
+501470,Customer 161,Video Camera Inspection,Commercial,2025-08-13,416.5,676.28,-259.78,-0.3841,0.6252,0.6034,2.18,False,False
+501471,Customer 215,Secondary Stoppage,Multifamily / Light Commercial,2025-04-13,441.84,520.61,-78.77,-0.1513,0.5097,0.4654,4.43,False,False
+501472,Customer 049,Investigation/Estimate Only,Commercial,2025-04-30,211.02,170.13,40.89,0.2403,0.0683,0.1793,-11.1,True,True
+501473,Customer 057,Fixtures,Multifamily / Light Commercial,2025-10-11,483.85,458.5,25.35,0.0553,0.5624,0.4089,15.35,False,False
+501474,Customer 105,Fixtures,Multifamily / Light Commercial,2025-03-07,477.92,506.53,-28.61,-0.0565,0.5279,0.5912,-6.33,False,False
+501475,Customer 160,Fixtures,Multifamily / Light Commercial,2025-02-10,598.42,564.67,33.75,0.0598,0.3975,0.5571,-15.96,False,False
+501476,Customer 211,Emergency Call,Multifamily / Light Commercial,2025-10-07,1330.17,1881.46,-551.29,-0.293,0.493,0.5211,-2.81,False,False
+501477,Customer 176,Ejection Pump System,Multifamily / Light Commercial,2025-04-16,1987.34,1906.66,80.68,0.0423,0.2046,0.4004,-19.58,False,False
+501478,Customer 175,Fixtures,Multifamily / Light Commercial,2025-10-07,473.03,396.96,76.07,0.1916,0.4484,0.5352,-8.68,False,True
+501479,Customer 098,Fixtures,Multifamily / Light Commercial,2025-07-14,1190.34,1212.37,-22.03,-0.0182,0.8507,0.646,20.47,False,False
+501480,Customer 142,Emergency Call,Multifamily / Light Commercial,2025-12-31,277.07,377.37,-100.3,-0.2658,0.4588,0.4892,-3.04,False,False
+501481,Customer 047,Investigation/Estimate Only,Commercial,2025-07-11,672.15,716.65,-44.5,-0.0621,0.6004,0.7146,-11.42,False,False
+501483,Customer 042,Secondary Stoppage,Multifamily / Light Commercial,2025-11-07,993.07,833.19,159.88,0.1919,0.6315,0.6295,0.2,False,True
+501484,Customer 006,General Plumbing Service,Commercial,2025-03-19,1536.28,1478.91,57.37,0.0388,0.3729,0.4447,-7.18,False,False
+501485,Customer 189,Investigation/Estimate Only,Commercial,2025-12-30,234.77,298.21,-63.44,-0.2127,0.6516,0.5824,6.92,False,False
+501487,Customer 113,Fixtures,Multifamily / Light Commercial,2025-02-09,1052.5,776.67,275.83,0.3551,0.6196,0.6908,-7.12,False,True
+501488,Customer 004,Commercial Water Heater,Commercial,2025-01-03,2343.45,2886.27,-542.82,-0.1881,0.4672,0.4455,2.17,False,False
+501489,Customer 020,Fixtures,Multifamily / Light Commercial,2025-04-10,740.81,768.83,-28.02,-0.0364,0.4378,0.5296,-9.18,False,False
+501490,Customer 025,Investigation/Estimate Only,Multifamily / Light Commercial,2025-01-06,323.33,382.91,-59.58,-0.1556,0.5887,0.3808,20.79,True,False
+501491,Customer 158,Main Line Stoppage,Multifamily / Light Commercial,2025-05-11,817.33,967.71,-150.38,-0.1554,0.5465,0.5062,4.03,False,False
+501492,Customer 045,General Plumbing Service,Commercial,2025-12-30,960.76,1030.66,-69.9,-0.0678,0.7482,0.7598,-1.16,False,False
+501493,Customer 056,Hydro Jetting,Multifamily / Light Commercial,2025-06-24,1235.32,1127.71,107.61,0.0954,0.5548,0.5782,-2.34,False,False
+501494,Customer 190,Emergency Call,Multifamily / Light Commercial,2025-01-09,1420.6,1190.2,230.4,0.1936,0.435,0.4793,-4.43,False,True
+501495,Customer 193,General Plumbing Service,Commercial,2025-06-30,302.93,321.56,-18.63,-0.0579,0.5232,0.5841,-6.09,False,False
+501496,Customer 168,Backflow Repairs/Replacement,Multifamily / Light Commercial,2025-03-21,1421.08,1674.86,-253.78,-0.1515,0.4277,0.4908,-6.31,False,False
+501497,Customer 069,General Plumbing Service,Commercial,2025-11-09,473.16,441.46,31.7,0.0718,0.5849,0.4506,13.43,False,False
+501499,Customer 045,General Plumbing Service,Commercial,2025-10-09,1166.82,1084.21,82.61,0.0762,0.7772,0.8214,-4.42,False,False
